@@ -1,0 +1,1664 @@
+L2_CODE,L0_CODE,L0_NAME,L1_CODE,L1_NAME,L2_NAME,total_gdp,geo_level,wb_status,sovereign,Disputed,year
+AFG1,AFG1,Afghanistan,AFG1,Badakhshan,Arghanj Khwa,29.707724379343404,2.0,Member State,AFG,ND,2020
+AFG10,AFG1,Afghanistan,AFG1,Badakhshan,Keshem,213.67288780311742,2.0,Member State,AFG,ND,2020
+AFG100,AFG1,Afghanistan,AFG8,Faryab,Kohistan,88.13221152558376,2.0,Member State,AFG,ND,2020
+AFG101,AFG1,Afghanistan,AFG8,Faryab,Maymana,128.0911396992271,2.0,Member State,AFG,ND,2020
+AFG102,AFG1,Afghanistan,AFG8,Faryab,Pashtun kot,479.1502462345956,2.0,Member State,AFG,ND,2020
+AFG103,AFG1,Afghanistan,AFG8,Faryab,Qaram Qol,76.90003824010923,2.0,Member State,AFG,ND,2020
+AFG104,AFG1,Afghanistan,AFG8,Faryab,Qaysar,278.19654168221194,2.0,Member State,AFG,ND,2020
+AFG105,AFG1,Afghanistan,AFG8,Faryab,Qorghan,64.4176224703227,2.0,Member State,AFG,ND,2020
+AFG106,AFG1,Afghanistan,AFG8,Faryab,Shirin Tagab,262.9440402230031,2.0,Member State,AFG,ND,2020
+AFG107,AFG1,Afghanistan,AFG9,Ghazni,Ab Band,33.2891996330008,2.0,Member State,AFG,ND,2020
+AFG108,AFG1,Afghanistan,AFG9,Ghazni,Ajrestan,36.337515248264964,2.0,Member State,AFG,ND,2020
+AFG109,AFG1,Afghanistan,AFG9,Ghazni,Andar,164.4064968064743,2.0,Member State,AFG,ND,2020
+AFG11,AFG1,Afghanistan,AFG1,Badakhshan,Khash,111.62774131645757,2.0,Member State,AFG,ND,2020
+AFG110,AFG1,Afghanistan,AFG9,Ghazni,Deh Yak,68.53411911897567,2.0,Member State,AFG,ND,2020
+AFG111,AFG1,Afghanistan,AFG9,Ghazni,Gelan,93.3013885199471,2.0,Member State,AFG,ND,2020
+AFG112,AFG1,Afghanistan,AFG9,Ghazni,Ghazni,189.53670014450654,2.0,Member State,AFG,ND,2020
+AFG113,AFG1,Afghanistan,AFG9,Ghazni,Giro,46.62116790001437,2.0,Member State,AFG,ND,2020
+AFG114,AFG1,Afghanistan,AFG9,Ghazni,Jaghatu,45.94688345341918,2.0,Member State,AFG,ND,2020
+AFG115,AFG1,Afghanistan,AFG9,Ghazni,Jaghuri,238.15941910839243,2.0,Member State,AFG,ND,2020
+AFG116,AFG1,Afghanistan,AFG9,Ghazni,Khwaja Umari,38.244914575287176,2.0,Member State,AFG,ND,2020
+AFG117,AFG1,Afghanistan,AFG9,Ghazni,Malestan,85.82063798462491,2.0,Member State,AFG,ND,2020
+AFG118,AFG1,Afghanistan,AFG9,Ghazni,Muqur,69.03466351317981,2.0,Member State,AFG,ND,2020
+AFG119,AFG1,Afghanistan,AFG9,Ghazni,Nawa,31.724135457343106,2.0,Member State,AFG,ND,2020
+AFG12,AFG1,Afghanistan,AFG1,Badakhshan,Khwahan,37.181917009521605,2.0,Member State,AFG,ND,2020
+AFG120,AFG1,Afghanistan,AFG9,Ghazni,Nawur,307.7774252877236,2.0,Member State,AFG,ND,2020
+AFG121,AFG1,Afghanistan,AFG9,Ghazni,Qarabagh,195.75474030097763,2.0,Member State,AFG,ND,2020
+AFG122,AFG1,Afghanistan,AFG9,Ghazni,Rashidan,20.757492382414704,2.0,Member State,AFG,ND,2020
+AFG123,AFG1,Afghanistan,AFG9,Ghazni,Waghaz,51.187257517895624,2.0,Member State,AFG,ND,2020
+AFG124,AFG1,Afghanistan,AFG9,Ghazni,Wali Muhammad-e- Shahid,39.90866572335618,2.0,Member State,AFG,ND,2020
+AFG125,AFG1,Afghanistan,AFG9,Ghazni,Zana Khan,14.971118889691585,2.0,Member State,AFG,ND,2020
+AFG126,AFG1,Afghanistan,AFG10,Ghor,Chaghcharan,335.0469854139885,2.0,Member State,AFG,ND,2020
+AFG127,AFG1,Afghanistan,AFG10,Ghor,Chahar Sadra,64.80183056436066,2.0,Member State,AFG,ND,2020
+AFG128,AFG1,Afghanistan,AFG10,Ghor,Dawlat Yar,80.56836804186881,2.0,Member State,AFG,ND,2020
+AFG129,AFG1,Afghanistan,AFG10,Ghor,Du Lina,66.95386211310573,2.0,Member State,AFG,ND,2020
+AFG13,AFG1,Afghanistan,AFG1,Badakhshan,Kof Ab,55.26349140009436,2.0,Member State,AFG,ND,2020
+AFG130,AFG1,Afghanistan,AFG10,Ghor,Lal Wa Sarjangal,202.6295502656646,2.0,Member State,AFG,ND,2020
+AFG131,AFG1,Afghanistan,AFG10,Ghor,Pasaband,173.53307111765403,2.0,Member State,AFG,ND,2020
+AFG132,AFG1,Afghanistan,AFG10,Ghor,Saghar,71.14443796440035,2.0,Member State,AFG,ND,2020
+AFG133,AFG1,Afghanistan,AFG10,Ghor,Shahrak,177.59119050801937,2.0,Member State,AFG,ND,2020
+AFG134,AFG1,Afghanistan,AFG10,Ghor,Taywarah,208.47228244440862,2.0,Member State,AFG,ND,2020
+AFG135,AFG1,Afghanistan,AFG10,Ghor,Tolak,104.90274938517881,2.0,Member State,AFG,ND,2020
+AFG136,AFG1,Afghanistan,AFG11,Hilmand,Baghran,182.659639564779,2.0,Member State,AFG,ND,2020
+AFG137,AFG1,Afghanistan,AFG11,Hilmand,Deh shu,31.382764929049394,2.0,Member State,AFG,ND,2020
+AFG138,AFG1,Afghanistan,AFG11,Hilmand,Garm Ser,194.35237103102452,2.0,Member State,AFG,ND,2020
+AFG139,AFG1,Afghanistan,AFG11,Hilmand,Kajaki,135.6010155710426,2.0,Member State,AFG,ND,2020
+AFG14,AFG1,Afghanistan,AFG1,Badakhshan,Kohistan,37.46415954667772,2.0,Member State,AFG,ND,2020
+AFG140,AFG1,Afghanistan,AFG11,Hilmand,Lashkar Gah,331.6785086393592,2.0,Member State,AFG,ND,2020
+AFG141,AFG1,Afghanistan,AFG11,Hilmand,Musa Qaleh,122.77522037931752,2.0,Member State,AFG,ND,2020
+AFG142,AFG1,Afghanistan,AFG11,Hilmand,Nad-e-Ali,219.52350131223272,2.0,Member State,AFG,ND,2020
+AFG143,AFG1,Afghanistan,AFG11,Hilmand,Nahr-e-Saraj,223.22916645303616,2.0,Member State,AFG,ND,2020
+AFG144,AFG1,Afghanistan,AFG11,Hilmand,Naw Zad,97.68238961761193,2.0,Member State,AFG,ND,2020
+AFG145,AFG1,Afghanistan,AFG11,Hilmand,Nawa-e-Barak Zaiy,170.2433955956449,2.0,Member State,AFG,ND,2020
+AFG146,AFG1,Afghanistan,AFG11,Hilmand,Reg(khan Neshin),12.15266652369177,2.0,Member State,AFG,ND,2020
+AFG147,AFG1,Afghanistan,AFG11,Hilmand,Sangin,109.70605741925606,2.0,Member State,AFG,ND,2020
+AFG148,AFG1,Afghanistan,AFG11,Hilmand,Wa Sher,28.579857891756774,2.0,Member State,AFG,ND,2020
+AFG149,AFG1,Afghanistan,AFG12,Hirat,Adraskan,81.84489580110967,2.0,Member State,AFG,ND,2020
+AFG15,AFG1,Afghanistan,AFG1,Badakhshan,Koran wa Monjan,20.068867965094448,2.0,Member State,AFG,ND,2020
+AFG150,AFG1,Afghanistan,AFG12,Hirat,Chisht-e-Sharif,36.47727546717712,2.0,Member State,AFG,ND,2020
+AFG151,AFG1,Afghanistan,AFG12,Hirat,Farsi,58.62036089485324,2.0,Member State,AFG,ND,2020
+AFG152,AFG1,Afghanistan,AFG12,Hirat,Ghoryan,165.9342358144753,2.0,Member State,AFG,ND,2020
+AFG153,AFG1,Afghanistan,AFG12,Hirat,Gulran,194.36719976076475,2.0,Member State,AFG,ND,2020
+AFG154,AFG1,Afghanistan,AFG12,Hirat,Guzara,1204.4022404839352,2.0,Member State,AFG,ND,2020
+AFG155,AFG1,Afghanistan,AFG12,Hirat,Hirat,1691.8839002091204,2.0,Member State,AFG,ND,2020
+AFG156,AFG1,Afghanistan,AFG12,Hirat,Injil,3444.588030371345,2.0,Member State,AFG,ND,2020
+AFG157,AFG1,Afghanistan,AFG12,Hirat,Karukh,148.90687202067187,2.0,Member State,AFG,ND,2020
+AFG158,AFG1,Afghanistan,AFG12,Hirat,Kohsan,105.21745092651152,2.0,Member State,AFG,ND,2020
+AFG159,AFG1,Afghanistan,AFG12,Hirat,Kushk,225.8764357693603,2.0,Member State,AFG,ND,2020
+AFG16,AFG1,Afghanistan,AFG1,Badakhshan,Raghistan,64.18591854897178,2.0,Member State,AFG,ND,2020
+AFG160,AFG1,Afghanistan,AFG12,Hirat,Kushk-e-Kohna,95.43091864305603,2.0,Member State,AFG,ND,2020
+AFG161,AFG1,Afghanistan,AFG12,Hirat,Obe,152.96082080856038,2.0,Member State,AFG,ND,2020
+AFG162,AFG1,Afghanistan,AFG12,Hirat,Pashtun  Zarghun,242.12236045508996,2.0,Member State,AFG,ND,2020
+AFG163,AFG1,Afghanistan,AFG12,Hirat,Shindand,500.5704465581518,2.0,Member State,AFG,ND,2020
+AFG164,AFG1,Afghanistan,AFG12,Hirat,Zinda Jan,122.16531479421944,2.0,Member State,AFG,ND,2020
+AFG165,AFG1,Afghanistan,AFG13,Jawzjan,Aqcha,107.44782134278147,2.0,Member State,AFG,ND,2020
+AFG166,AFG1,Afghanistan,AFG13,Jawzjan,Darz Ab,74.78789349616808,2.0,Member State,AFG,ND,2020
+AFG167,AFG1,Afghanistan,AFG13,Jawzjan,Fayz Abad,66.5223110876991,2.0,Member State,AFG,ND,2020
+AFG168,AFG1,Afghanistan,AFG13,Jawzjan,Khamyab,55.93289026221032,2.0,Member State,AFG,ND,2020
+AFG169,AFG1,Afghanistan,AFG13,Jawzjan,Khanaqa,78.31158730474492,2.0,Member State,AFG,ND,2020
+AFG17,AFG1,Afghanistan,AFG1,Badakhshan,Shahr-e-Buzorg,123.98434581717586,2.0,Member State,AFG,ND,2020
+AFG170,AFG1,Afghanistan,AFG13,Jawzjan,Khwaja Du Koh,38.56680062662956,2.0,Member State,AFG,ND,2020
+AFG171,AFG1,Afghanistan,AFG13,Jawzjan,Mardyan,50.006785436948945,2.0,Member State,AFG,ND,2020
+AFG172,AFG1,Afghanistan,AFG13,Jawzjan,Mingajik,73.16807560611228,2.0,Member State,AFG,ND,2020
+AFG173,AFG1,Afghanistan,AFG13,Jawzjan,Qarqin,150.79456536320674,2.0,Member State,AFG,ND,2020
+AFG174,AFG1,Afghanistan,AFG13,Jawzjan,Qush Tepa,36.13667958911023,2.0,Member State,AFG,ND,2020
+AFG175,AFG1,Afghanistan,AFG13,Jawzjan,Shiberghan,257.86830610823057,2.0,Member State,AFG,ND,2020
+AFG176,AFG1,Afghanistan,AFG14,Kabul,Bagrami,1955.6561227677455,2.0,Member State,AFG,ND,2020
+AFG177,AFG1,Afghanistan,AFG14,Kabul,Chahar Asyab,1959.0963079744033,2.0,Member State,AFG,ND,2020
+AFG178,AFG1,Afghanistan,AFG14,Kabul,Deh Sabz,447.7448576860358,2.0,Member State,AFG,ND,2020
+AFG179,AFG1,Afghanistan,AFG14,Kabul,Estalef,41.35028054204923,2.0,Member State,AFG,ND,2020
+AFG18,AFG1,Afghanistan,AFG1,Badakhshan,Shaki,53.3490669898124,2.0,Member State,AFG,ND,2020
+AFG180,AFG1,Afghanistan,AFG14,Kabul,Farza,76.692625359113,2.0,Member State,AFG,ND,2020
+AFG181,AFG1,Afghanistan,AFG14,Kabul,Guldara,58.04599594124522,2.0,Member State,AFG,ND,2020
+AFG182,AFG1,Afghanistan,AFG14,Kabul,Kabul,15542.799723771077,2.0,Member State,AFG,ND,2020
+AFG183,AFG1,Afghanistan,AFG14,Kabul,Kalakan,87.2461534270152,2.0,Member State,AFG,ND,2020
+AFG184,AFG1,Afghanistan,AFG14,Kabul,Khak-e- Jabbar,48.7360407939407,2.0,Member State,AFG,ND,2020
+AFG185,AFG1,Afghanistan,AFG14,Kabul,Mir Bacha Kot,120.24576254673866,2.0,Member State,AFG,ND,2020
+AFG186,AFG1,Afghanistan,AFG14,Kabul,Musayi,261.5315955045,2.0,Member State,AFG,ND,2020
+AFG187,AFG1,Afghanistan,AFG14,Kabul,Paghman,387.8129715502157,2.0,Member State,AFG,ND,2020
+AFG188,AFG1,Afghanistan,AFG14,Kabul,Qarabagh,94.38585816400428,2.0,Member State,AFG,ND,2020
+AFG189,AFG1,Afghanistan,AFG14,Kabul,Shakardara,809.0119070898256,2.0,Member State,AFG,ND,2020
+AFG19,AFG1,Afghanistan,AFG1,Badakhshan,Shighnan,113.5300651692719,2.0,Member State,AFG,ND,2020
+AFG190,AFG1,Afghanistan,AFG14,Kabul,Surobi,123.90995623365502,2.0,Member State,AFG,ND,2020
+AFG191,AFG1,Afghanistan,AFG15,Kandahar,Arghandab,386.1351386706432,2.0,Member State,AFG,ND,2020
+AFG192,AFG1,Afghanistan,AFG15,Kandahar,Arghistan,60.02614853858079,2.0,Member State,AFG,ND,2020
+AFG193,AFG1,Afghanistan,AFG15,Kandahar,Daman,594.4594087247976,2.0,Member State,AFG,ND,2020
+AFG194,AFG1,Afghanistan,AFG15,Kandahar,Ghorak,18.399295440169503,2.0,Member State,AFG,ND,2020
+AFG195,AFG1,Afghanistan,AFG15,Kandahar,Kandahar,3025.943405053868,2.0,Member State,AFG,ND,2020
+AFG196,AFG1,Afghanistan,AFG15,Kandahar,Khakrez,46.052694371039344,2.0,Member State,AFG,ND,2020
+AFG197,AFG1,Afghanistan,AFG15,Kandahar,Maruf,60.38711922514847,2.0,Member State,AFG,ND,2020
+AFG198,AFG1,Afghanistan,AFG15,Kandahar,Maywand,137.38999449505968,2.0,Member State,AFG,ND,2020
+AFG199,AFG1,Afghanistan,AFG15,Kandahar,Miyanshin,33.456363767914915,2.0,Member State,AFG,ND,2020
+AFG2,AFG1,Afghanistan,AFG1,Badakhshan,Argo,212.4425051917442,2.0,Member State,AFG,ND,2020
+AFG20,AFG1,Afghanistan,AFG1,Badakhshan,Shuhada,77.91699558245472,2.0,Member State,AFG,ND,2020
+AFG200,AFG1,Afghanistan,AFG15,Kandahar,Nesh,28.19683301582626,2.0,Member State,AFG,ND,2020
+AFG201,AFG1,Afghanistan,AFG15,Kandahar,Panj wayi,207.1624516811961,2.0,Member State,AFG,ND,2020
+AFG202,AFG1,Afghanistan,AFG15,Kandahar,Reg,19.28441708876611,2.0,Member State,AFG,ND,2020
+AFG203,AFG1,Afghanistan,AFG15,Kandahar,Shah Wali Kot,84.43391567276714,2.0,Member State,AFG,ND,2020
+AFG204,AFG1,Afghanistan,AFG15,Kandahar,Shor Abak,20.853689183064617,2.0,Member State,AFG,ND,2020
+AFG205,AFG1,Afghanistan,AFG15,Kandahar,Spin Boldak,146.12326682236153,2.0,Member State,AFG,ND,2020
+AFG206,AFG1,Afghanistan,AFG15,Kandahar,Zheray,107.36993424068346,2.0,Member State,AFG,ND,2020
+AFG207,AFG1,Afghanistan,AFG16,Kapisa,Alasay,54.6730208686045,2.0,Member State,AFG,ND,2020
+AFG208,AFG1,Afghanistan,AFG16,Kapisa,Hesa Awal-e- Kohestan,99.33165353862915,2.0,Member State,AFG,ND,2020
+AFG209,AFG1,Afghanistan,AFG16,Kapisa,Hisa Duwum-e- Kohestan,104.21247124922503,2.0,Member State,AFG,ND,2020
+AFG21,AFG1,Afghanistan,AFG1,Badakhshan,Tagab,65.88908246871502,2.0,Member State,AFG,ND,2020
+AFG210,AFG1,Afghanistan,AFG16,Kapisa,Koh Band,40.73068222416723,2.0,Member State,AFG,ND,2020
+AFG211,AFG1,Afghanistan,AFG16,Kapisa,Mahmud-e- Raqi,159.73912508358907,2.0,Member State,AFG,ND,2020
+AFG212,AFG1,Afghanistan,AFG16,Kapisa,Nejrab,189.96994527489284,2.0,Member State,AFG,ND,2020
+AFG213,AFG1,Afghanistan,AFG16,Kapisa,Tagab,182.74386897023535,2.0,Member State,AFG,ND,2020
+AFG214,AFG1,Afghanistan,AFG17,Khost,Bak,53.76320766106034,2.0,Member State,AFG,ND,2020
+AFG215,AFG1,Afghanistan,AFG17,Khost,Gurbuz,177.4192940023792,2.0,Member State,AFG,ND,2020
+AFG216,AFG1,Afghanistan,AFG17,Khost,Jaji Maydan,60.613159834853434,2.0,Member State,AFG,ND,2020
+AFG217,AFG1,Afghanistan,AFG17,Khost,Khost(Matun),295.30805246402014,2.0,Member State,AFG,ND,2020
+AFG218,AFG1,Afghanistan,AFG17,Khost,Mando Zayi,136.23209747800783,2.0,Member State,AFG,ND,2020
+AFG219,AFG1,Afghanistan,AFG17,Khost,Musa Khel,97.95536859738377,2.0,Member State,AFG,ND,2020
+AFG22,AFG1,Afghanistan,AFG1,Badakhshan,Teshkan,88.58438457151334,2.0,Member State,AFG,ND,2020
+AFG220,AFG1,Afghanistan,AFG17,Khost,Nadir Shah Kot,87.84388958304557,2.0,Member State,AFG,ND,2020
+AFG221,AFG1,Afghanistan,AFG17,Khost,Qalandar,31.909954157163295,2.0,Member State,AFG,ND,2020
+AFG222,AFG1,Afghanistan,AFG17,Khost,Sabri,168.41692844285623,2.0,Member State,AFG,ND,2020
+AFG223,AFG1,Afghanistan,AFG17,Khost,Shamal (Shamul),37.27762869627881,2.0,Member State,AFG,ND,2020
+AFG224,AFG1,Afghanistan,AFG17,Khost,Spera,61.60140744564128,2.0,Member State,AFG,ND,2020
+AFG225,AFG1,Afghanistan,AFG17,Khost,Tani,204.93628413159158,2.0,Member State,AFG,ND,2020
+AFG226,AFG1,Afghanistan,AFG17,Khost,Tere Zayi,122.34764734770472,2.0,Member State,AFG,ND,2020
+AFG227,AFG1,Afghanistan,AFG18,Kunar,Asad Abad,64.73373928057327,2.0,Member State,AFG,ND,2020
+AFG228,AFG1,Afghanistan,AFG18,Kunar,Bar Kunar,45.76880830125718,2.0,Member State,AFG,ND,2020
+AFG229,AFG1,Afghanistan,AFG18,Kunar,Chapa Dara,62.10573578998143,2.0,Member State,AFG,ND,2020
+AFG23,AFG1,Afghanistan,AFG1,Badakhshan,Wakhan,50.01416783350914,2.0,Member State,AFG,ND,2020
+AFG230,AFG1,Afghanistan,AFG18,Kunar,Chawkay,70.26853701393375,2.0,Member State,AFG,ND,2020
+AFG231,AFG1,Afghanistan,AFG18,Kunar,Dangam,38.42107336914767,2.0,Member State,AFG,ND,2020
+AFG232,AFG1,Afghanistan,AFG18,Kunar,Dara-e-Pech,134.2944882386243,2.0,Member State,AFG,ND,2020
+AFG233,AFG1,Afghanistan,AFG18,Kunar,Ghazi Abad,33.6499959117494,2.0,Member State,AFG,ND,2020
+AFG234,AFG1,Afghanistan,AFG18,Kunar,Khas Kunar,113.77184553632118,2.0,Member State,AFG,ND,2020
+AFG235,AFG1,Afghanistan,AFG18,Kunar,Marawara,62.77791338706322,2.0,Member State,AFG,ND,2020
+AFG236,AFG1,Afghanistan,AFG18,Kunar,Narang,33.2220978633403,2.0,Member State,AFG,ND,2020
+AFG237,AFG1,Afghanistan,AFG18,Kunar,Nari,55.12324677653018,2.0,Member State,AFG,ND,2020
+AFG238,AFG1,Afghanistan,AFG18,Kunar,Nurgal,66.33501686622647,2.0,Member State,AFG,ND,2020
+AFG239,AFG1,Afghanistan,AFG18,Kunar,Sarkani,83.22067047219392,2.0,Member State,AFG,ND,2020
+AFG24,AFG1,Afghanistan,AFG1,Badakhshan,Warduj,39.732218623966254,2.0,Member State,AFG,ND,2020
+AFG240,AFG1,Afghanistan,AFG18,Kunar,Shigal wa shel tan,76.32884527077938,2.0,Member State,AFG,ND,2020
+AFG241,AFG1,Afghanistan,AFG18,Kunar,Wata Pur,45.99638852547255,2.0,Member State,AFG,ND,2020
+AFG242,AFG1,Afghanistan,AFG19,Kunduz,Ali Abad,103.06972238900066,2.0,Member State,AFG,ND,2020
+AFG243,AFG1,Afghanistan,AFG19,Kunduz,Chahar Darah,133.10054987558672,2.0,Member State,AFG,ND,2020
+AFG244,AFG1,Afghanistan,AFG19,Kunduz,Dasht-e-Archi,144.87198306571634,2.0,Member State,AFG,ND,2020
+AFG245,AFG1,Afghanistan,AFG19,Kunduz,Imam Saheb,404.47490521787097,2.0,Member State,AFG,ND,2020
+AFG246,AFG1,Afghanistan,AFG19,Kunduz,Khan Abad,232.5149117027119,2.0,Member State,AFG,ND,2020
+AFG247,AFG1,Afghanistan,AFG19,Kunduz,Kunduz,509.3180437969715,2.0,Member State,AFG,ND,2020
+AFG248,AFG1,Afghanistan,AFG19,Kunduz,Qala-e-Zal,131.7160502947788,2.0,Member State,AFG,ND,2020
+AFG249,AFG1,Afghanistan,AFG20,Laghman,Alingar,239.90634233657588,2.0,Member State,AFG,ND,2020
+AFG25,AFG1,Afghanistan,AFG1,Badakhshan,Yaftal-e-Sufla,97.26015758967651,2.0,Member State,AFG,ND,2020
+AFG250,AFG1,Afghanistan,AFG20,Laghman,Alishang,142.58852632053663,2.0,Member State,AFG,ND,2020
+AFG251,AFG1,Afghanistan,AFG20,Laghman,Daulat Shah,53.12984572706046,2.0,Member State,AFG,ND,2020
+AFG252,AFG1,Afghanistan,AFG20,Laghman,Mehtarlam,376.0466022888604,2.0,Member State,AFG,ND,2020
+AFG253,AFG1,Afghanistan,AFG20,Laghman,Qarghayi,193.61732432799297,2.0,Member State,AFG,ND,2020
+AFG254,AFG1,Afghanistan,AFG21,Logar,Azra,39.69909667727098,2.0,Member State,AFG,ND,2020
+AFG255,AFG1,Afghanistan,AFG21,Logar,Baraki Barak,164.80953167298475,2.0,Member State,AFG,ND,2020
+AFG256,AFG1,Afghanistan,AFG21,Logar,Charkh,117.29506663943424,2.0,Member State,AFG,ND,2020
+AFG257,AFG1,Afghanistan,AFG21,Logar,Kharwar,45.48202214522983,2.0,Member State,AFG,ND,2020
+AFG258,AFG1,Afghanistan,AFG21,Logar,Khoshi,28.468344907262626,2.0,Member State,AFG,ND,2020
+AFG259,AFG1,Afghanistan,AFG21,Logar,Mohammad Agha,151.5322806658201,2.0,Member State,AFG,ND,2020
+AFG26,AFG1,Afghanistan,AFG1,Badakhshan,Yamgan,67.0159835015083,2.0,Member State,AFG,ND,2020
+AFG260,AFG1,Afghanistan,AFG21,Logar,Pul-e- Alam,233.0547912740372,2.0,Member State,AFG,ND,2020
+AFG261,AFG1,Afghanistan,AFG22,Nangarhar,Achin,255.89056283196325,2.0,Member State,AFG,ND,2020
+AFG262,AFG1,Afghanistan,AFG22,Nangarhar,Bati Kot,97.91858657373828,2.0,Member State,AFG,ND,2020
+AFG263,AFG1,Afghanistan,AFG22,Nangarhar,Behsud,559.061561733905,2.0,Member State,AFG,ND,2020
+AFG264,AFG1,Afghanistan,AFG22,Nangarhar,Chaparhar,304.84029431938905,2.0,Member State,AFG,ND,2020
+AFG265,AFG1,Afghanistan,AFG22,Nangarhar,Dara-e-Nur,60.50758985941077,2.0,Member State,AFG,ND,2020
+AFG266,AFG1,Afghanistan,AFG22,Nangarhar,Deh Bala,108.82842846584802,2.0,Member State,AFG,ND,2020
+AFG267,AFG1,Afghanistan,AFG22,Nangarhar,Dur Baba,56.70373129391339,2.0,Member State,AFG,ND,2020
+AFG268,AFG1,Afghanistan,AFG22,Nangarhar,Goshta,71.53473546973484,2.0,Member State,AFG,ND,2020
+AFG269,AFG1,Afghanistan,AFG22,Nangarhar,Hesarak,74.03716548743891,2.0,Member State,AFG,ND,2020
+AFG27,AFG1,Afghanistan,AFG1,Badakhshan,Yawan,71.66316897656779,2.0,Member State,AFG,ND,2020
+AFG270,AFG1,Afghanistan,AFG22,Nangarhar,Jalalabad,120.90125396642762,2.0,Member State,AFG,ND,2020
+AFG271,AFG1,Afghanistan,AFG22,Nangarhar,Kama,122.78275974790357,2.0,Member State,AFG,ND,2020
+AFG272,AFG1,Afghanistan,AFG22,Nangarhar,Khowgiani,249.11360688558057,2.0,Member State,AFG,ND,2020
+AFG273,AFG1,Afghanistan,AFG22,Nangarhar,Kot,120.21985993594207,2.0,Member State,AFG,ND,2020
+AFG274,AFG1,Afghanistan,AFG22,Nangarhar,Kuz Kunar,124.21976493276458,2.0,Member State,AFG,ND,2020
+AFG275,AFG1,Afghanistan,AFG22,Nangarhar,Lal Pur,71.78959368151192,2.0,Member State,AFG,ND,2020
+AFG276,AFG1,Afghanistan,AFG22,Nangarhar,Muhmand Dara,157.77598605749162,2.0,Member State,AFG,ND,2020
+AFG277,AFG1,Afghanistan,AFG22,Nangarhar,Nazian,49.298704305052375,2.0,Member State,AFG,ND,2020
+AFG278,AFG1,Afghanistan,AFG22,Nangarhar,Pachier Agam,110.09283855410693,2.0,Member State,AFG,ND,2020
+AFG279,AFG1,Afghanistan,AFG22,Nangarhar,Rodat,292.892243445818,2.0,Member State,AFG,ND,2020
+AFG28,AFG1,Afghanistan,AFG1,Badakhshan,Zebak,18.420160455650688,2.0,Member State,AFG,ND,2020
+AFG280,AFG1,Afghanistan,AFG22,Nangarhar,Sherzad,140.01637472932077,2.0,Member State,AFG,ND,2020
+AFG281,AFG1,Afghanistan,AFG22,Nangarhar,Shinwar,124.40983883938817,2.0,Member State,AFG,ND,2020
+AFG282,AFG1,Afghanistan,AFG22,Nangarhar,Surkh Rod,486.0453419943684,2.0,Member State,AFG,ND,2020
+AFG283,AFG1,Afghanistan,AFG23,Nimroz,Chahar Burjak,47.32279854201847,2.0,Member State,AFG,ND,2020
+AFG284,AFG1,Afghanistan,AFG23,Nimroz,Chakhansur,36.00694359095422,2.0,Member State,AFG,ND,2020
+AFG285,AFG1,Afghanistan,AFG23,Nimroz,Kang,187.8778027891082,2.0,Member State,AFG,ND,2020
+AFG286,AFG1,Afghanistan,AFG23,Nimroz,Khash Rod,55.224212034955954,2.0,Member State,AFG,ND,2020
+AFG287,AFG1,Afghanistan,AFG23,Nimroz,Zaranj,218.714943372768,2.0,Member State,AFG,ND,2020
+AFG288,AFG1,Afghanistan,AFG24,Nuristan,Barg-e- Matal,24.937623630729274,2.0,Member State,AFG,ND,2020
+AFG289,AFG1,Afghanistan,AFG24,Nuristan,Du Ab,24.14995155468822,2.0,Member State,AFG,ND,2020
+AFG29,AFG1,Afghanistan,AFG2,Badghis,Ab Kamari,163.13634495785436,2.0,Member State,AFG,ND,2020
+AFG290,AFG1,Afghanistan,AFG24,Nuristan,Kamdesh,42.33280166515704,2.0,Member State,AFG,ND,2020
+AFG291,AFG1,Afghanistan,AFG24,Nuristan,Mandol,26.35246277775354,2.0,Member State,AFG,ND,2020
+AFG292,AFG1,Afghanistan,AFG24,Nuristan,Nurgaram,52.69618315571527,2.0,Member State,AFG,ND,2020
+AFG293,AFG1,Afghanistan,AFG24,Nuristan,Poruns,32.45502745807792,2.0,Member State,AFG,ND,2020
+AFG294,AFG1,Afghanistan,AFG24,Nuristan,Wama,19.825213165232796,2.0,Member State,AFG,ND,2020
+AFG295,AFG1,Afghanistan,AFG24,Nuristan,Waygal,39.87522906176872,2.0,Member State,AFG,ND,2020
+AFG296,AFG1,Afghanistan,AFG25,Paktika,Bermel (Burmul),80.01457708172984,2.0,Member State,AFG,ND,2020
+AFG297,AFG1,Afghanistan,AFG25,Paktika,Dila,44.72726184792462,2.0,Member State,AFG,ND,2020
+AFG298,AFG1,Afghanistan,AFG25,Paktika,Gian,61.59394299537489,2.0,Member State,AFG,ND,2020
+AFG299,AFG1,Afghanistan,AFG25,Paktika,Gomal,25.726457321496788,2.0,Member State,AFG,ND,2020
+AFG3,AFG1,Afghanistan,AFG1,Badakhshan,Baharak,54.29221583004777,2.0,Member State,AFG,ND,2020
+AFG30,AFG1,Afghanistan,AFG2,Badghis,Bala Murghab,198.28968014077205,2.0,Member State,AFG,ND,2020
+AFG300,AFG1,Afghanistan,AFG25,Paktika,Jani Khel,46.099346723768626,2.0,Member State,AFG,ND,2020
+AFG301,AFG1,Afghanistan,AFG25,Paktika,Mata Khan,44.04181875985917,2.0,Member State,AFG,ND,2020
+AFG302,AFG1,Afghanistan,AFG25,Paktika,Nika,13.814041175110379,2.0,Member State,AFG,ND,2020
+AFG303,AFG1,Afghanistan,AFG25,Paktika,Omna,21.59460391781074,2.0,Member State,AFG,ND,2020
+AFG304,AFG1,Afghanistan,AFG25,Paktika,Sar Hawzeh(Rawzeh),54.46786217023777,2.0,Member State,AFG,ND,2020
+AFG305,AFG1,Afghanistan,AFG25,Paktika,Sarobi,28.69149420317038,2.0,Member State,AFG,ND,2020
+AFG306,AFG1,Afghanistan,AFG25,Paktika,Sharan,78.39504486680298,2.0,Member State,AFG,ND,2020
+AFG307,AFG1,Afghanistan,AFG25,Paktika,Turwo (Tarwe),5.731982398555954,2.0,Member State,AFG,ND,2020
+AFG308,AFG1,Afghanistan,AFG25,Paktika,Urgun,103.59707646732798,2.0,Member State,AFG,ND,2020
+AFG309,AFG1,Afghanistan,AFG25,Paktika,Waza Khah,37.81821619596973,2.0,Member State,AFG,ND,2020
+AFG31,AFG1,Afghanistan,AFG2,Badghis,Ghormach,114.50547849764301,2.0,Member State,AFG,ND,2020
+AFG310,AFG1,Afghanistan,AFG25,Paktika,Wor Mamay,10.85129154799423,2.0,Member State,AFG,ND,2020
+AFG311,AFG1,Afghanistan,AFG25,Paktika,Yahya Khel,27.049669608066562,2.0,Member State,AFG,ND,2020
+AFG312,AFG1,Afghanistan,AFG25,Paktika,Yosuf Khel,53.1545532952957,2.0,Member State,AFG,ND,2020
+AFG313,AFG1,Afghanistan,AFG25,Paktika,Zarghun Shahr,51.6385452239631,2.0,Member State,AFG,ND,2020
+AFG314,AFG1,Afghanistan,AFG25,Paktika,Ziruk,40.57479661529644,2.0,Member State,AFG,ND,2020
+AFG315,AFG1,Afghanistan,AFG26,Paktya,Ahmadaba,55.12078671389225,2.0,Member State,AFG,ND,2020
+AFG316,AFG1,Afghanistan,AFG26,Paktya,Ali Khel (Jaji),92.13766069793449,2.0,Member State,AFG,ND,2020
+AFG317,AFG1,Afghanistan,AFG26,Paktya,Chamkani,88.6328980834839,2.0,Member State,AFG,ND,2020
+AFG318,AFG1,Afghanistan,AFG26,Paktya,Dand wa Patan,48.845423096279326,2.0,Member State,AFG,ND,2020
+AFG319,AFG1,Afghanistan,AFG26,Paktya,Gardez,177.4885971041143,2.0,Member State,AFG,ND,2020
+AFG32,AFG1,Afghanistan,AFG2,Badghis,Jawand,193.08954393227827,2.0,Member State,AFG,ND,2020
+AFG320,AFG1,Afghanistan,AFG26,Paktya,Jani Khel,42.539105648133884,2.0,Member State,AFG,ND,2020
+AFG321,AFG1,Afghanistan,AFG26,Paktya,Lija Ahmad Khel,92.72531738476015,2.0,Member State,AFG,ND,2020
+AFG322,AFG1,Afghanistan,AFG26,Paktya,Sayed Karam,68.58775301268662,2.0,Member State,AFG,ND,2020
+AFG323,AFG1,Afghanistan,AFG26,Paktya,Shawak,10.044299954457221,2.0,Member State,AFG,ND,2020
+AFG324,AFG1,Afghanistan,AFG26,Paktya,Zadran,66.93609192474912,2.0,Member State,AFG,ND,2020
+AFG325,AFG1,Afghanistan,AFG26,Paktya,Zurmat,248.43534879178887,2.0,Member State,AFG,ND,2020
+AFG326,AFG1,Afghanistan,AFG27,Panjsher,Bazarak,33.83809760266864,2.0,Member State,AFG,ND,2020
+AFG327,AFG1,Afghanistan,AFG27,Panjsher,Dara,47.05908467060825,2.0,Member State,AFG,ND,2020
+AFG328,AFG1,Afghanistan,AFG27,Panjsher,Khenj (Hes-e- Awal),67.93406760619045,2.0,Member State,AFG,ND,2020
+AFG329,AFG1,Afghanistan,AFG27,Panjsher,Onaba(Anawa),66.11920441711793,2.0,Member State,AFG,ND,2020
+AFG33,AFG1,Afghanistan,AFG2,Badghis,Muqur,55.0345847738611,2.0,Member State,AFG,ND,2020
+AFG330,AFG1,Afghanistan,AFG27,Panjsher,Parian,27.701666672291026,2.0,Member State,AFG,ND,2020
+AFG331,AFG1,Afghanistan,AFG27,Panjsher,Rukha,26.571480669484888,2.0,Member State,AFG,ND,2020
+AFG332,AFG1,Afghanistan,AFG27,Panjsher,Shutul,24.979454432315627,2.0,Member State,AFG,ND,2020
+AFG333,AFG1,Afghanistan,AFG28,Parwan,Bagram,330.6744396967885,2.0,Member State,AFG,ND,2020
+AFG334,AFG1,Afghanistan,AFG28,Parwan,Chaharikar,368.4970155806727,2.0,Member State,AFG,ND,2020
+AFG335,AFG1,Afghanistan,AFG28,Parwan,Jabalussaraj,134.01574786759338,2.0,Member State,AFG,ND,2020
+AFG336,AFG1,Afghanistan,AFG28,Parwan,Koh-e- Safi,43.536950195045165,2.0,Member State,AFG,ND,2020
+AFG337,AFG1,Afghanistan,AFG28,Parwan,Salang,68.06127467399824,2.0,Member State,AFG,ND,2020
+AFG338,AFG1,Afghanistan,AFG28,Parwan,Sayd Khel,133.39872486674744,2.0,Member State,AFG,ND,2020
+AFG339,AFG1,Afghanistan,AFG28,Parwan,Shekh  Ali,44.197737822812854,2.0,Member State,AFG,ND,2020
+AFG34,AFG1,Afghanistan,AFG2,Badghis,Qadis,201.65653482777043,2.0,Member State,AFG,ND,2020
+AFG340,AFG1,Afghanistan,AFG28,Parwan,Shinwari,113.74507573642143,2.0,Member State,AFG,ND,2020
+AFG341,AFG1,Afghanistan,AFG28,Parwan,Surkhe Parsa,85.98433695152542,2.0,Member State,AFG,ND,2020
+AFG342,AFG1,Afghanistan,AFG28,Parwan,Syah Gerd,157.35457164463196,2.0,Member State,AFG,ND,2020
+AFG343,AFG1,Afghanistan,AFG29,Samangan,Aybak,208.02161318714752,2.0,Member State,AFG,ND,2020
+AFG344,AFG1,Afghanistan,AFG29,Samangan,Darah Suf-e- Payin,50.68126217851225,2.0,Member State,AFG,ND,2020
+AFG345,AFG1,Afghanistan,AFG29,Samangan,Darah Suf-e-Bala,115.56298022366077,2.0,Member State,AFG,ND,2020
+AFG346,AFG1,Afghanistan,AFG29,Samangan,Feroz Nakhchir,33.71117930762104,2.0,Member State,AFG,ND,2020
+AFG347,AFG1,Afghanistan,AFG29,Samangan,Hazrat-e- Sultan,200.2906806128419,2.0,Member State,AFG,ND,2020
+AFG348,AFG1,Afghanistan,AFG29,Samangan,Khuram wa Sarbagh,83.33289092967449,2.0,Member State,AFG,ND,2020
+AFG349,AFG1,Afghanistan,AFG29,Samangan,Ruy-e-Du Ab,89.85396233847821,2.0,Member State,AFG,ND,2020
+AFG35,AFG1,Afghanistan,AFG2,Badghis,Qala-e-Naw,152.5056413477678,2.0,Member State,AFG,ND,2020
+AFG350,AFG1,Afghanistan,AFG30,Sar-e-Pul,Balkh Ab,93.84883874767407,2.0,Member State,AFG,ND,2020
+AFG351,AFG1,Afghanistan,AFG30,Sar-e-Pul,Gosfandi,96.83824683698171,2.0,Member State,AFG,ND,2020
+AFG352,AFG1,Afghanistan,AFG30,Sar-e-Pul,Kohistanat,149.02088902607665,2.0,Member State,AFG,ND,2020
+AFG353,AFG1,Afghanistan,AFG30,Sar-e-Pul,Sang(San)Charak,173.78622077968026,2.0,Member State,AFG,ND,2020
+AFG354,AFG1,Afghanistan,AFG30,Sar-e-Pul,Sar-e-Pul,232.12741323170084,2.0,Member State,AFG,ND,2020
+AFG355,AFG1,Afghanistan,AFG30,Sar-e-Pul,Sayad,109.32879635065058,2.0,Member State,AFG,ND,2020
+AFG356,AFG1,Afghanistan,AFG30,Sar-e-Pul,Sozma Qala,94.47487979660043,2.0,Member State,AFG,ND,2020
+AFG357,AFG1,Afghanistan,AFG31,Takhar,Baharak,64.31077468761323,2.0,Member State,AFG,ND,2020
+AFG358,AFG1,Afghanistan,AFG31,Takhar,Bangi,78.19970611524583,2.0,Member State,AFG,ND,2020
+AFG359,AFG1,Afghanistan,AFG31,Takhar,Chah Ab,145.74746982994614,2.0,Member State,AFG,ND,2020
+AFG36,AFG1,Afghanistan,AFG3,Baghlan,Andarab,82.6508401748029,2.0,Member State,AFG,ND,2020
+AFG360,AFG1,Afghanistan,AFG31,Takhar,Chal,48.92341039774082,2.0,Member State,AFG,ND,2020
+AFG361,AFG1,Afghanistan,AFG31,Takhar,Darqad,103.54538711772733,2.0,Member State,AFG,ND,2020
+AFG362,AFG1,Afghanistan,AFG31,Takhar,Dasht-e-Qala,69.81723234066557,2.0,Member State,AFG,ND,2020
+AFG363,AFG1,Afghanistan,AFG31,Takhar,Farkhar,110.38485135182107,2.0,Member State,AFG,ND,2020
+AFG364,AFG1,Afghanistan,AFG31,Takhar,Hazar Sumuch,30.03887209540882,2.0,Member State,AFG,ND,2020
+AFG365,AFG1,Afghanistan,AFG31,Takhar,Ishkamish,135.7137055693292,2.0,Member State,AFG,ND,2020
+AFG366,AFG1,Afghanistan,AFG31,Takhar,Kalafgan,71.4439747171538,2.0,Member State,AFG,ND,2020
+AFG367,AFG1,Afghanistan,AFG31,Takhar,Khwaja Bahawuddin,47.60737763710601,2.0,Member State,AFG,ND,2020
+AFG368,AFG1,Afghanistan,AFG31,Takhar,Khwaja Ghar,146.5580396706632,2.0,Member State,AFG,ND,2020
+AFG369,AFG1,Afghanistan,AFG31,Takhar,Namak Ab,23.89859367723225,2.0,Member State,AFG,ND,2020
+AFG37,AFG1,Afghanistan,AFG3,Baghlan,Baghlan-e-jadid,299.8480515907833,2.0,Member State,AFG,ND,2020
+AFG370,AFG1,Afghanistan,AFG31,Takhar,Rostaq,345.5729022426869,2.0,Member State,AFG,ND,2020
+AFG371,AFG1,Afghanistan,AFG31,Takhar,Taloqan,573.4094155990114,2.0,Member State,AFG,ND,2020
+AFG372,AFG1,Afghanistan,AFG31,Takhar,Warsaj,77.89619011774336,2.0,Member State,AFG,ND,2020
+AFG373,AFG1,Afghanistan,AFG31,Takhar,Yangi Qala,107.05507946789379,2.0,Member State,AFG,ND,2020
+AFG374,AFG1,Afghanistan,AFG32,Uruzgan,Chora,109.02252612854166,2.0,Member State,AFG,ND,2020
+AFG375,AFG1,Afghanistan,AFG32,Uruzgan,Dehrawud,121.85155076328375,2.0,Member State,AFG,ND,2020
+AFG376,AFG1,Afghanistan,AFG32,Uruzgan,Khas Uruzgan,118.98530659434414,2.0,Member State,AFG,ND,2020
+AFG377,AFG1,Afghanistan,AFG32,Uruzgan,Shahid-e-Hassas,117.225632135022,2.0,Member State,AFG,ND,2020
+AFG378,AFG1,Afghanistan,AFG32,Uruzgan,Tirin Kot,201.30912524945117,2.0,Member State,AFG,ND,2020
+AFG379,AFG1,Afghanistan,AFG33,Wardak,Chak,190.20575826502733,2.0,Member State,AFG,ND,2020
+AFG38,AFG1,Afghanistan,AFG3,Baghlan,Burka,106.4415123100685,2.0,Member State,AFG,ND,2020
+AFG380,AFG1,Afghanistan,AFG33,Wardak,Day Mirdad,58.38352890279008,2.0,Member State,AFG,ND,2020
+AFG381,AFG1,Afghanistan,AFG33,Wardak,Hesa Awal-e- Behsud,77.22574357739583,2.0,Member State,AFG,ND,2020
+AFG382,AFG1,Afghanistan,AFG33,Wardak,Jaghatu,117.21659769660037,2.0,Member State,AFG,ND,2020
+AFG383,AFG1,Afghanistan,AFG33,Wardak,Jalrez,102.60276637161597,2.0,Member State,AFG,ND,2020
+AFG384,AFG1,Afghanistan,AFG33,Wardak,Markaz-e-Behsud,153.1129746420183,2.0,Member State,AFG,ND,2020
+AFG385,AFG1,Afghanistan,AFG33,Wardak,Maydan Shahr,76.10882170637416,2.0,Member State,AFG,ND,2020
+AFG386,AFG1,Afghanistan,AFG33,Wardak,Nerkh,167.57268746565634,2.0,Member State,AFG,ND,2020
+AFG387,AFG1,Afghanistan,AFG33,Wardak,Saydabad,267.9617031883612,2.0,Member State,AFG,ND,2020
+AFG388,AFG1,Afghanistan,AFG34,Zabul,Arghandab,70.27401922355425,2.0,Member State,AFG,ND,2020
+AFG389,AFG1,Afghanistan,AFG34,Zabul,Atghar,11.447910125424508,2.0,Member State,AFG,ND,2020
+AFG39,AFG1,Afghanistan,AFG3,Baghlan,Dahana-e-Ghory,180.00818734948191,2.0,Member State,AFG,ND,2020
+AFG390,AFG1,Afghanistan,AFG34,Zabul,Day chopan,72.59394271125562,2.0,Member State,AFG,ND,2020
+AFG391,AFG1,Afghanistan,AFG34,Zabul,Kakar,36.378457373052875,2.0,Member State,AFG,ND,2020
+AFG392,AFG1,Afghanistan,AFG34,Zabul,Mizan,26.42470408387653,2.0,Member State,AFG,ND,2020
+AFG393,AFG1,Afghanistan,AFG34,Zabul,Naw Bahar,37.260677626591345,2.0,Member State,AFG,ND,2020
+AFG394,AFG1,Afghanistan,AFG34,Zabul,Qalat,75.02658977311049,2.0,Member State,AFG,ND,2020
+AFG395,AFG1,Afghanistan,AFG34,Zabul,Shah Joy,134.20714765135392,2.0,Member State,AFG,ND,2020
+AFG396,AFG1,Afghanistan,AFG34,Zabul,Shinkay,43.12925136729388,2.0,Member State,AFG,ND,2020
+AFG397,AFG1,Afghanistan,AFG34,Zabul,Shomulzay,54.963143937244446,2.0,Member State,AFG,ND,2020
+AFG398,AFG1,Afghanistan,AFG34,Zabul,Tarnak Wa Jaldak,32.37175505406757,2.0,Member State,AFG,ND,2020
+AFG4,AFG1,Afghanistan,AFG1,Badakhshan,Darayem,95.70188268594299,2.0,Member State,AFG,ND,2020
+AFG40,AFG1,Afghanistan,AFG3,Baghlan,Deh Salah,51.92951935355896,2.0,Member State,AFG,ND,2020
+AFG41,AFG1,Afghanistan,AFG3,Baghlan,Dushi,145.51538115090332,2.0,Member State,AFG,ND,2020
+AFG42,AFG1,Afghanistan,AFG3,Baghlan,Firing Wa Gharu,36.07112396512887,2.0,Member State,AFG,ND,2020
+AFG43,AFG1,Afghanistan,AFG3,Baghlan,Guzargah-e- Nur,22.213809627016527,2.0,Member State,AFG,ND,2020
+AFG44,AFG1,Afghanistan,AFG3,Baghlan,Khenjan,57.08600699428997,2.0,Member State,AFG,ND,2020
+AFG45,AFG1,Afghanistan,AFG3,Baghlan,Khowst wa Fereng,123.18089041140749,2.0,Member State,AFG,ND,2020
+AFG46,AFG1,Afghanistan,AFG3,Baghlan,Khwaja Hejran,38.44643723646483,2.0,Member State,AFG,ND,2020
+AFG47,AFG1,Afghanistan,AFG3,Baghlan,Nahrin,112.44908963546118,2.0,Member State,AFG,ND,2020
+AFG48,AFG1,Afghanistan,AFG3,Baghlan,Pul-e- khumri,493.5933697713488,2.0,Member State,AFG,ND,2020
+AFG49,AFG1,Afghanistan,AFG3,Baghlan,Pul-e-Hesar,52.09760646415476,2.0,Member State,AFG,ND,2020
+AFG5,AFG1,Afghanistan,AFG1,Badakhshan,Darwaz,56.76092094438876,2.0,Member State,AFG,ND,2020
+AFG50,AFG1,Afghanistan,AFG3,Baghlan,Tala wa barfak,50.18485867025879,2.0,Member State,AFG,ND,2020
+AFG51,AFG1,Afghanistan,AFG4,Balkh,Balkh,195.0232519482222,2.0,Member State,AFG,ND,2020
+AFG52,AFG1,Afghanistan,AFG4,Balkh,Chahar Bolak,146.75121086118813,2.0,Member State,AFG,ND,2020
+AFG53,AFG1,Afghanistan,AFG4,Balkh,Chahar Kent,74.3211592248523,2.0,Member State,AFG,ND,2020
+AFG54,AFG1,Afghanistan,AFG4,Balkh,Chemtal,203.36077423587903,2.0,Member State,AFG,ND,2020
+AFG55,AFG1,Afghanistan,AFG4,Balkh,Dawlat Abad,175.08346213745997,2.0,Member State,AFG,ND,2020
+AFG56,AFG1,Afghanistan,AFG4,Balkh,Deh Dadi,119.21258842801423,2.0,Member State,AFG,ND,2020
+AFG57,AFG1,Afghanistan,AFG4,Balkh,Kaldar,30.93522868737054,2.0,Member State,AFG,ND,2020
+AFG58,AFG1,Afghanistan,AFG4,Balkh,Khulm,134.33193112079792,2.0,Member State,AFG,ND,2020
+AFG59,AFG1,Afghanistan,AFG4,Balkh,Kishindeh,72.5203871714205,2.0,Member State,AFG,ND,2020
+AFG6,AFG1,Afghanistan,AFG1,Badakhshan,Darwaz-e-Balla,39.277802479613335,2.0,Member State,AFG,ND,2020
+AFG60,AFG1,Afghanistan,AFG4,Balkh,Marmul,37.84500492729265,2.0,Member State,AFG,ND,2020
+AFG61,AFG1,Afghanistan,AFG4,Balkh,Mazar-e-Sharif,1000.2927199684825,2.0,Member State,AFG,ND,2020
+AFG62,AFG1,Afghanistan,AFG4,Balkh,Nahr-e- Shahi,1697.6161976290766,2.0,Member State,AFG,ND,2020
+AFG63,AFG1,Afghanistan,AFG4,Balkh,Sholgareh,162.6773491423613,2.0,Member State,AFG,ND,2020
+AFG64,AFG1,Afghanistan,AFG4,Balkh,Shor Tepa,503.22233615955815,2.0,Member State,AFG,ND,2020
+AFG65,AFG1,Afghanistan,AFG4,Balkh,Zari,64.98478238016138,2.0,Member State,AFG,ND,2020
+AFG66,AFG1,Afghanistan,AFG5,Bamyan,Bamyan,148.18836004518135,2.0,Member State,AFG,ND,2020
+AFG67,AFG1,Afghanistan,AFG5,Bamyan,Kahmard,54.6298627612906,2.0,Member State,AFG,ND,2020
+AFG68,AFG1,Afghanistan,AFG5,Bamyan,Panjab,110.9848128827242,2.0,Member State,AFG,ND,2020
+AFG69,AFG1,Afghanistan,AFG5,Bamyan,Sayghan,60.36958165326015,2.0,Member State,AFG,ND,2020
+AFG7,AFG1,Afghanistan,AFG1,Badakhshan,Faiz Abad,97.59405942913334,2.0,Member State,AFG,ND,2020
+AFG70,AFG1,Afghanistan,AFG5,Bamyan,Shibar,74.36584600694216,2.0,Member State,AFG,ND,2020
+AFG71,AFG1,Afghanistan,AFG5,Bamyan,Waras,206.98116689384352,2.0,Member State,AFG,ND,2020
+AFG72,AFG1,Afghanistan,AFG5,Bamyan,Yakawlang,183.64008513190046,2.0,Member State,AFG,ND,2020
+AFG73,AFG1,Afghanistan,AFG6,Daykundi,Ashtarlay,80.23241030756691,2.0,Member State,AFG,ND,2020
+AFG74,AFG1,Afghanistan,AFG6,Daykundi,Gizab,159.49036873434684,2.0,Member State,AFG,ND,2020
+AFG75,AFG1,Afghanistan,AFG6,Daykundi,Kajran,66.53081192078915,2.0,Member State,AFG,ND,2020
+AFG76,AFG1,Afghanistan,AFG6,Daykundi,Khadir,81.60072894561313,2.0,Member State,AFG,ND,2020
+AFG77,AFG1,Afghanistan,AFG6,Daykundi,kiti,76.90614824936834,2.0,Member State,AFG,ND,2020
+AFG78,AFG1,Afghanistan,AFG6,Daykundi,Miramor,65.56879987454906,2.0,Member State,AFG,ND,2020
+AFG79,AFG1,Afghanistan,AFG6,Daykundi,Nili,109.240962228232,2.0,Member State,AFG,ND,2020
+AFG8,AFG1,Afghanistan,AFG1,Badakhshan,Ishkashem,39.654141135416275,2.0,Member State,AFG,ND,2020
+AFG80,AFG1,Afghanistan,AFG6,Daykundi,Sang-e-Takht,102.95553251789022,2.0,Member State,AFG,ND,2020
+AFG81,AFG1,Afghanistan,AFG6,Daykundi,Shahristan,105.71898780291528,2.0,Member State,AFG,ND,2020
+AFG82,AFG1,Afghanistan,AFG7,Farah,Anar Dara,46.02855520084058,2.0,Member State,AFG,ND,2020
+AFG83,AFG1,Afghanistan,AFG7,Farah,Bakwa,63.13689039406299,2.0,Member State,AFG,ND,2020
+AFG84,AFG1,Afghanistan,AFG7,Farah,Bala Buluk,150.2517980075949,2.0,Member State,AFG,ND,2020
+AFG85,AFG1,Afghanistan,AFG7,Farah,Farah,239.52140696296797,2.0,Member State,AFG,ND,2020
+AFG86,AFG1,Afghanistan,AFG7,Farah,Gulestan,83.59788179308673,2.0,Member State,AFG,ND,2020
+AFG87,AFG1,Afghanistan,AFG7,Farah,Khak-e-Safed,59.64911958944069,2.0,Member State,AFG,ND,2020
+AFG88,AFG1,Afghanistan,AFG7,Farah,Lash-e-Juwayn,50.028730731524305,2.0,Member State,AFG,ND,2020
+AFG89,AFG1,Afghanistan,AFG7,Farah,Pur Chaman,108.94459326435502,2.0,Member State,AFG,ND,2020
+AFG9,AFG1,Afghanistan,AFG1,Badakhshan,Jorm,117.16862352141288,2.0,Member State,AFG,ND,2020
+AFG90,AFG1,Afghanistan,AFG7,Farah,Pusht Rod,70.7161957432987,2.0,Member State,AFG,ND,2020
+AFG91,AFG1,Afghanistan,AFG7,Farah,Qala-e-Kah,55.46647891086068,2.0,Member State,AFG,ND,2020
+AFG92,AFG1,Afghanistan,AFG7,Farah,Shib Koh,52.62593879092878,2.0,Member State,AFG,ND,2020
+AFG93,AFG1,Afghanistan,AFG8,Faryab,Almar,126.34587297702859,2.0,Member State,AFG,ND,2020
+AFG94,AFG1,Afghanistan,AFG8,Faryab,Andkhoy,69.76851394955119,2.0,Member State,AFG,ND,2020
+AFG95,AFG1,Afghanistan,AFG8,Faryab,Bil Cheragh,118.00123279631774,2.0,Member State,AFG,ND,2020
+AFG96,AFG1,Afghanistan,AFG8,Faryab,Dawlat Abad,86.48960213298801,2.0,Member State,AFG,ND,2020
+AFG97,AFG1,Afghanistan,AFG8,Faryab,Garziwan,171.4049920757596,2.0,Member State,AFG,ND,2020
+AFG98,AFG1,Afghanistan,AFG8,Faryab,Khan-e-Chahar Bagh,45.01888442440603,2.0,Member State,AFG,ND,2020
+AFG99,AFG1,Afghanistan,AFG8,Faryab,Khwaja Sabzposh,119.51983929893393,2.0,Member State,AFG,ND,2020
+BGD399,BGD23,Bangladesh,BGD35,Barishal,Barguna,5499.66948516922,2.0,Member State,BGD,ND,2020
+BGD400,BGD23,Bangladesh,BGD35,Barishal,Barisal,8964.073036221309,2.0,Member State,BGD,ND,2020
+BGD401,BGD23,Bangladesh,BGD35,Barishal,Bhola,5996.820842060361,2.0,Member State,BGD,ND,2020
+BGD402,BGD23,Bangladesh,BGD35,Barishal,Jhalakati,3198.453626457673,2.0,Member State,BGD,ND,2020
+BGD403,BGD23,Bangladesh,BGD35,Barishal,Patuakhali,9544.562874343443,2.0,Member State,BGD,ND,2020
+BGD404,BGD23,Bangladesh,BGD35,Barishal,Pirojpur,4839.688499797536,2.0,Member State,BGD,ND,2020
+BGD405,BGD23,Bangladesh,BGD36,Chattogram,Bandarban,2719.7886051455575,2.0,Member State,BGD,ND,2020
+BGD406,BGD23,Bangladesh,BGD36,Chattogram,Brahmanbaria,14037.720095540455,2.0,Member State,BGD,ND,2020
+BGD407,BGD23,Bangladesh,BGD36,Chattogram,Chandpur,10410.269905868125,2.0,Member State,BGD,ND,2020
+BGD408,BGD23,Bangladesh,BGD36,Chattogram,Chittagong,49815.8673134164,2.0,Member State,BGD,ND,2020
+BGD409,BGD23,Bangladesh,BGD36,Chattogram,Cumilla,25867.30318815897,2.0,Member State,BGD,ND,2020
+BGD410,BGD23,Bangladesh,BGD36,Chattogram,Cox's Bazar,22169.447849498018,2.0,Member State,BGD,ND,2020
+BGD411,BGD23,Bangladesh,BGD36,Chattogram,Feni,5799.19438626177,2.0,Member State,BGD,ND,2020
+BGD412,BGD23,Bangladesh,BGD36,Chattogram,Khagrachari,2820.9885032309567,2.0,Member State,BGD,ND,2020
+BGD413,BGD23,Bangladesh,BGD36,Chattogram,Lakshmipur,8032.233197604309,2.0,Member State,BGD,ND,2020
+BGD414,BGD23,Bangladesh,BGD36,Chattogram,Noakhali,13881.992845732337,2.0,Member State,BGD,ND,2020
+BGD415,BGD23,Bangladesh,BGD36,Chattogram,Parbattya Chattagram,3166.107134862175,2.0,Member State,BGD,ND,2020
+BGD416,BGD23,Bangladesh,BGD37,Dhaka,Dhaka,143343.7256078396,2.0,Member State,BGD,ND,2020
+BGD417,BGD23,Bangladesh,BGD37,Dhaka,Faridpur,8781.950367204774,2.0,Member State,BGD,ND,2020
+BGD418,BGD23,Bangladesh,BGD37,Dhaka,Gazipur,42404.49086551428,2.0,Member State,BGD,ND,2020
+BGD419,BGD23,Bangladesh,BGD37,Dhaka,Gopalganj,4791.34072795654,2.0,Member State,BGD,ND,2020
+BGD420,BGD23,Bangladesh,BGD37,Dhaka,Kishoreganj,15407.794513759112,2.0,Member State,BGD,ND,2020
+BGD421,BGD23,Bangladesh,BGD37,Dhaka,Madaripur,5508.101889593488,2.0,Member State,BGD,ND,2020
+BGD422,BGD23,Bangladesh,BGD37,Dhaka,Manikganj,11101.517381443526,2.0,Member State,BGD,ND,2020
+BGD423,BGD23,Bangladesh,BGD37,Dhaka,Munshiganj,21690.571238597568,2.0,Member State,BGD,ND,2020
+BGD424,BGD23,Bangladesh,BGD37,Dhaka,Narayanganj,39033.91669404186,2.0,Member State,BGD,ND,2020
+BGD425,BGD23,Bangladesh,BGD37,Dhaka,Narsingdi,27667.750502660652,2.0,Member State,BGD,ND,2020
+BGD426,BGD23,Bangladesh,BGD37,Dhaka,Rajbari,4585.56722627077,2.0,Member State,BGD,ND,2020
+BGD427,BGD23,Bangladesh,BGD37,Dhaka,Shariatpur,5287.744934810829,2.0,Member State,BGD,ND,2020
+BGD428,BGD23,Bangladesh,BGD37,Dhaka,Tangail,17333.88676234269,2.0,Member State,BGD,ND,2020
+BGD429,BGD23,Bangladesh,BGD38,Khulna,Bagerhat,9808.9573107563,2.0,Member State,BGD,ND,2020
+BGD430,BGD23,Bangladesh,BGD38,Khulna,Chuadanga,4262.710100405426,2.0,Member State,BGD,ND,2020
+BGD431,BGD23,Bangladesh,BGD38,Khulna,Jashore,15689.823731058625,2.0,Member State,BGD,ND,2020
+BGD432,BGD23,Bangladesh,BGD38,Khulna,Jhenaidah,11708.556762698707,2.0,Member State,BGD,ND,2020
+BGD433,BGD23,Bangladesh,BGD38,Khulna,Khulna,15707.60079123405,2.0,Member State,BGD,ND,2020
+BGD434,BGD23,Bangladesh,BGD38,Khulna,Kushtia,12126.098763368233,2.0,Member State,BGD,ND,2020
+BGD435,BGD23,Bangladesh,BGD38,Khulna,Magura,6006.729611595761,2.0,Member State,BGD,ND,2020
+BGD436,BGD23,Bangladesh,BGD38,Khulna,Meherpur,2516.8049459498206,2.0,Member State,BGD,ND,2020
+BGD437,BGD23,Bangladesh,BGD38,Khulna,Narail,5193.737014900154,2.0,Member State,BGD,ND,2020
+BGD438,BGD23,Bangladesh,BGD38,Khulna,Satkhira,12389.639676433206,2.0,Member State,BGD,ND,2020
+BGD439,BGD23,Bangladesh,BGD39,Mymensingh,Jamalpur,12470.287650660905,2.0,Member State,BGD,ND,2020
+BGD440,BGD23,Bangladesh,BGD39,Mymensingh,Mymensingh,25673.669114191944,2.0,Member State,BGD,ND,2020
+BGD441,BGD23,Bangladesh,BGD39,Mymensingh,Netrakona,8712.390169070612,2.0,Member State,BGD,ND,2020
+BGD442,BGD23,Bangladesh,BGD39,Mymensingh,Sherpur,7651.163692550593,2.0,Member State,BGD,ND,2020
+BGD443,BGD23,Bangladesh,BGD40,Rajshahi,Bogura,18141.69363760974,2.0,Member State,BGD,ND,2020
+BGD444,BGD23,Bangladesh,BGD40,Rajshahi,Jaipurhat,3986.903630278871,2.0,Member State,BGD,ND,2020
+BGD445,BGD23,Bangladesh,BGD40,Rajshahi,Naogaon,15852.781866936915,2.0,Member State,BGD,ND,2020
+BGD446,BGD23,Bangladesh,BGD40,Rajshahi,Natore,8552.71673517267,2.0,Member State,BGD,ND,2020
+BGD447,BGD23,Bangladesh,BGD40,Rajshahi,Chapainawabganj,9995.277239885949,2.0,Member State,BGD,ND,2020
+BGD448,BGD23,Bangladesh,BGD40,Rajshahi,Pabna,13124.886818978,2.0,Member State,BGD,ND,2020
+BGD449,BGD23,Bangladesh,BGD40,Rajshahi,Rajshahi,11880.999615683038,2.0,Member State,BGD,ND,2020
+BGD450,BGD23,Bangladesh,BGD40,Rajshahi,Sirajganj,18870.65863829644,2.0,Member State,BGD,ND,2020
+BGD451,BGD23,Bangladesh,BGD41,Rangpur,Dinajpur,14939.861379406977,2.0,Member State,BGD,ND,2020
+BGD452,BGD23,Bangladesh,BGD41,Rangpur,Gaibandha,8995.905745569553,2.0,Member State,BGD,ND,2020
+BGD453,BGD23,Bangladesh,BGD41,Rangpur,Kurigram,9178.63462172903,2.0,Member State,BGD,ND,2020
+BGD454,BGD23,Bangladesh,BGD41,Rangpur,Lalmonirhat,5506.9410845866505,2.0,Member State,BGD,ND,2020
+BGD455,BGD23,Bangladesh,BGD41,Rangpur,Nilphamari,7651.244821175671,2.0,Member State,BGD,ND,2020
+BGD456,BGD23,Bangladesh,BGD41,Rangpur,Panchagarh,5121.733311818955,2.0,Member State,BGD,ND,2020
+BGD457,BGD23,Bangladesh,BGD41,Rangpur,Rangpur,15425.538945451994,2.0,Member State,BGD,ND,2020
+BGD458,BGD23,Bangladesh,BGD41,Rangpur,Thakurgaon,7528.666164835296,2.0,Member State,BGD,ND,2020
+BGD459,BGD23,Bangladesh,BGD42,Sylhet,Habiganj,10228.032757471847,2.0,Member State,BGD,ND,2020
+BGD460,BGD23,Bangladesh,BGD42,Sylhet,Moulvibazar,10270.336078684446,2.0,Member State,BGD,ND,2020
+BGD461,BGD23,Bangladesh,BGD42,Sylhet,Sunamganj,11856.711013807104,2.0,Member State,BGD,ND,2020
+BGD462,BGD23,Bangladesh,BGD42,Sylhet,Sylhet,18028.947405269555,2.0,Member State,BGD,ND,2020
+BTN463,BTN31,Bhutan,BTN43,Bumthang,Chhoekhor,30.546494628250265,2.0,Member State,BTN,ND,2020
+BTN464,BTN31,Bhutan,BTN43,Bumthang,Chhumig,38.09683449708126,2.0,Member State,BTN,ND,2020
+BTN465,BTN31,Bhutan,BTN43,Bumthang,Tang,15.365710879972147,2.0,Member State,BTN,ND,2020
+BTN466,BTN31,Bhutan,BTN43,Bumthang,Ura,15.976252385571792,2.0,Member State,BTN,ND,2020
+BTN467,BTN31,Bhutan,BTN44,Chhukha,Bjagchhog,117.81964331958744,2.0,Member State,BTN,ND,2020
+BTN468,BTN31,Bhutan,BTN44,Chhukha,Bongo,53.9273701790862,2.0,Member State,BTN,ND,2020
+BTN469,BTN31,Bhutan,BTN44,Chhukha,Chapchha,40.513692856041075,2.0,Member State,BTN,ND,2020
+BTN470,BTN31,Bhutan,BTN44,Chhukha,Darla,34.6814368143397,2.0,Member State,BTN,ND,2020
+BTN471,BTN31,Bhutan,BTN44,Chhukha,Doongna,15.469698283492097,2.0,Member State,BTN,ND,2020
+BTN472,BTN31,Bhutan,BTN44,Chhukha,Geling,122.87858796416195,2.0,Member State,BTN,ND,2020
+BTN473,BTN31,Bhutan,BTN44,Chhukha,Getana,6.151954415910262,2.0,Member State,BTN,ND,2020
+BTN474,BTN31,Bhutan,BTN44,Chhukha,Loggchina,38.74453831473916,2.0,Member State,BTN,ND,2020
+BTN475,BTN31,Bhutan,BTN44,Chhukha,Maedtabkha,2.9465992606984126,2.0,Member State,BTN,ND,2020
+BTN476,BTN31,Bhutan,BTN44,Chhukha,Phuentshogling,2311.6759867171413,2.0,Member State,BTN,ND,2020
+BTN477,BTN31,Bhutan,BTN44,Chhukha,Sampheling,44.04273649056132,2.0,Member State,BTN,ND,2020
+BTN478,BTN31,Bhutan,BTN45,Dagana,Dorona,6.358045455659683,2.0,Member State,BTN,ND,2020
+BTN479,BTN31,Bhutan,BTN45,Dagana,Drukjeygang,10.513097988874948,2.0,Member State,BTN,ND,2020
+BTN480,BTN31,Bhutan,BTN45,Dagana,Gesarling,3.5944934967688646,2.0,Member State,BTN,ND,2020
+BTN481,BTN31,Bhutan,BTN45,Dagana,Gozhi,5.006567063666985,2.0,Member State,BTN,ND,2020
+BTN482,BTN31,Bhutan,BTN45,Dagana,Karmaling,4.169280458637232,2.0,Member State,BTN,ND,2020
+BTN483,BTN31,Bhutan,BTN45,Dagana,Karna,11.817473392738941,2.0,Member State,BTN,ND,2020
+BTN484,BTN31,Bhutan,BTN45,Dagana,Khebisa,9.857494549912253,2.0,Member State,BTN,ND,2020
+BTN485,BTN31,Bhutan,BTN45,Dagana,Largyab,4.481909970702218,2.0,Member State,BTN,ND,2020
+BTN486,BTN31,Bhutan,BTN45,Dagana,LhamoiDzingkha,4.716986599045006,2.0,Member State,BTN,ND,2020
+BTN487,BTN31,Bhutan,BTN45,Dagana,Nichula,5.347972120392613,2.0,Member State,BTN,ND,2020
+BTN488,BTN31,Bhutan,BTN45,Dagana,Tashiding,7.400427279912288,2.0,Member State,BTN,ND,2020
+BTN489,BTN31,Bhutan,BTN45,Dagana,Tsangkha,4.053309920294858,2.0,Member State,BTN,ND,2020
+BTN490,BTN31,Bhutan,BTN45,Dagana,Tsendagang,14.187146928776508,2.0,Member State,BTN,ND,2020
+BTN491,BTN31,Bhutan,BTN45,Dagana,Tseza,6.330709320869566,2.0,Member State,BTN,ND,2020
+BTN492,BTN31,Bhutan,BTN46,Gasa,Khamaed,6.673678686057299,2.0,Member State,BTN,ND,2020
+BTN493,BTN31,Bhutan,BTN46,Gasa,Khatoed,2.9839988122994843,2.0,Member State,BTN,ND,2020
+BTN494,BTN31,Bhutan,BTN46,Gasa,Laya,6.832788818403203,2.0,Member State,BTN,ND,2020
+BTN495,BTN31,Bhutan,BTN46,Gasa,Lunana,5.392019289870861,2.0,Member State,BTN,ND,2020
+BTN496,BTN31,Bhutan,BTN47,Haa,Bji,7.907271364752138,2.0,Member State,BTN,ND,2020
+BTN497,BTN31,Bhutan,BTN47,Haa,Gakiling,13.357064677650062,2.0,Member State,BTN,ND,2020
+BTN498,BTN31,Bhutan,BTN47,Haa,Kartshog,22.792729275352983,2.0,Member State,BTN,ND,2020
+BTN499,BTN31,Bhutan,BTN47,Haa,Samar,29.786187394466964,2.0,Member State,BTN,ND,2020
+BTN500,BTN31,Bhutan,BTN47,Haa,Sombaykha,6.402468634718502,2.0,Member State,BTN,ND,2020
+BTN501,BTN31,Bhutan,BTN47,Haa,Uesu,34.99961283308582,2.0,Member State,BTN,ND,2020
+BTN502,BTN31,Bhutan,BTN48,Lhuentse,Gangzur,20.41529730318536,2.0,Member State,BTN,ND,2020
+BTN503,BTN31,Bhutan,BTN48,Lhuentse,Jarey,8.119789049317617,2.0,Member State,BTN,ND,2020
+BTN504,BTN31,Bhutan,BTN48,Lhuentse,Khoma,10.676941683766374,2.0,Member State,BTN,ND,2020
+BTN505,BTN31,Bhutan,BTN48,Lhuentse,Kurtoed,4.228533912210139,2.0,Member State,BTN,ND,2020
+BTN506,BTN31,Bhutan,BTN48,Lhuentse,Maedtsho,12.18425481646949,2.0,Member State,BTN,ND,2020
+BTN507,BTN31,Bhutan,BTN48,Lhuentse,Maenbi,13.850586847963266,2.0,Member State,BTN,ND,2020
+BTN508,BTN31,Bhutan,BTN48,Lhuentse,Minjey,12.370434404084959,2.0,Member State,BTN,ND,2020
+BTN509,BTN31,Bhutan,BTN48,Lhuentse,Tsaenkhar,12.133137608884834,2.0,Member State,BTN,ND,2020
+BTN510,BTN31,Bhutan,BTN49,Monggar,Balam,4.701404548832965,2.0,Member State,BTN,ND,2020
+BTN511,BTN31,Bhutan,BTN49,Monggar,Chagsakhar,12.064623188536007,2.0,Member State,BTN,ND,2020
+BTN512,BTN31,Bhutan,BTN49,Monggar,Chhaling,9.39629263234865,2.0,Member State,BTN,ND,2020
+BTN513,BTN31,Bhutan,BTN49,Monggar,Dramedtse,16.94211239097596,2.0,Member State,BTN,ND,2020
+BTN514,BTN31,Bhutan,BTN49,Monggar,Drepoong,16.431737661655514,2.0,Member State,BTN,ND,2020
+BTN515,BTN31,Bhutan,BTN49,Monggar,Gongdue,16.65902832141445,2.0,Member State,BTN,ND,2020
+BTN516,BTN31,Bhutan,BTN49,Monggar,Jurmed,6.066353088183807,2.0,Member State,BTN,ND,2020
+BTN517,BTN31,Bhutan,BTN49,Monggar,Kengkhar,14.005066250798444,2.0,Member State,BTN,ND,2020
+BTN518,BTN31,Bhutan,BTN49,Monggar,Monggar,21.32056694686336,2.0,Member State,BTN,ND,2020
+BTN519,BTN31,Bhutan,BTN49,Monggar,Narang,5.40373087619029,2.0,Member State,BTN,ND,2020
+BTN520,BTN31,Bhutan,BTN49,Monggar,Ngatshang,10.384471089131676,2.0,Member State,BTN,ND,2020
+BTN521,BTN31,Bhutan,BTN49,Monggar,Saling,39.66492711832712,2.0,Member State,BTN,ND,2020
+BTN522,BTN31,Bhutan,BTN49,Monggar,Shermuhoong,10.249903700726616,2.0,Member State,BTN,ND,2020
+BTN523,BTN31,Bhutan,BTN49,Monggar,Silambi,4.838952818136577,2.0,Member State,BTN,ND,2020
+BTN524,BTN31,Bhutan,BTN49,Monggar,Thangrong,13.811910813203635,2.0,Member State,BTN,ND,2020
+BTN525,BTN31,Bhutan,BTN49,Monggar,Tsakaling,8.09597893103385,2.0,Member State,BTN,ND,2020
+BTN526,BTN31,Bhutan,BTN49,Monggar,Tsamang,16.203500571690395,2.0,Member State,BTN,ND,2020
+BTN527,BTN31,Bhutan,BTN50,Paro,Dokar,31.962207702777416,2.0,Member State,BTN,ND,2020
+BTN528,BTN31,Bhutan,BTN50,Paro,Dopsharri,12.233574261677456,2.0,Member State,BTN,ND,2020
+BTN529,BTN31,Bhutan,BTN50,Paro,Doteng,12.502766260121746,2.0,Member State,BTN,ND,2020
+BTN530,BTN31,Bhutan,BTN50,Paro,Hoongrel,14.205360020245616,2.0,Member State,BTN,ND,2020
+BTN531,BTN31,Bhutan,BTN50,Paro,Lamgong,34.05828253174729,2.0,Member State,BTN,ND,2020
+BTN532,BTN31,Bhutan,BTN50,Paro,Loongnyi,92.80794193265633,2.0,Member State,BTN,ND,2020
+BTN533,BTN31,Bhutan,BTN50,Paro,Najya,14.615666388387158,2.0,Member State,BTN,ND,2020
+BTN534,BTN31,Bhutan,BTN50,Paro,Sharpa,235.30700950260962,2.0,Member State,BTN,ND,2020
+BTN535,BTN31,Bhutan,BTN50,Paro,Tsento,22.84832232708892,2.0,Member State,BTN,ND,2020
+BTN536,BTN31,Bhutan,BTN50,Paro,Wangchang,54.964298785684015,2.0,Member State,BTN,ND,2020
+BTN537,BTN31,Bhutan,BTN51,Pemagatshel,Chhimoong,8.053170606374689,2.0,Member State,BTN,ND,2020
+BTN538,BTN31,Bhutan,BTN51,Pemagatshel,Chhoekhorling,12.536254002170669,2.0,Member State,BTN,ND,2020
+BTN539,BTN31,Bhutan,BTN51,Pemagatshel,Chongshing,9.680866288870897,2.0,Member State,BTN,ND,2020
+BTN540,BTN31,Bhutan,BTN51,Pemagatshel,Dechhenling,13.900002730850874,2.0,Member State,BTN,ND,2020
+BTN541,BTN31,Bhutan,BTN51,Pemagatshel,Dungmaed,12.054522213396567,2.0,Member State,BTN,ND,2020
+BTN542,BTN31,Bhutan,BTN51,Pemagatshel,Khar,17.472885531663586,2.0,Member State,BTN,ND,2020
+BTN543,BTN31,Bhutan,BTN51,Pemagatshel,Nanong,13.036849672082981,2.0,Member State,BTN,ND,2020
+BTN544,BTN31,Bhutan,BTN51,Pemagatshel,Norboogang,10.755295556562329,2.0,Member State,BTN,ND,2020
+BTN545,BTN31,Bhutan,BTN51,Pemagatshel,Shumar,20.421109785488675,2.0,Member State,BTN,ND,2020
+BTN546,BTN31,Bhutan,BTN51,Pemagatshel,Yurung,9.760914575301445,2.0,Member State,BTN,ND,2020
+BTN547,BTN31,Bhutan,BTN51,Pemagatshel,Zobel,18.92465772350907,2.0,Member State,BTN,ND,2020
+BTN548,BTN31,Bhutan,BTN52,Punakha,Barp,57.94160332595994,2.0,Member State,BTN,ND,2020
+BTN549,BTN31,Bhutan,BTN52,Punakha,Chhubu,9.675241920219527,2.0,Member State,BTN,ND,2020
+BTN550,BTN31,Bhutan,BTN52,Punakha,Dzomi,7.466042993547841,2.0,Member State,BTN,ND,2020
+BTN551,BTN31,Bhutan,BTN52,Punakha,Goenshari,4.8166676662148795,2.0,Member State,BTN,ND,2020
+BTN552,BTN31,Bhutan,BTN52,Punakha,Guma,13.610883527661029,2.0,Member State,BTN,ND,2020
+BTN553,BTN31,Bhutan,BTN52,Punakha,Kabisa,18.279441731047136,2.0,Member State,BTN,ND,2020
+BTN554,BTN31,Bhutan,BTN52,Punakha,Lingmukha,12.962611053879312,2.0,Member State,BTN,ND,2020
+BTN555,BTN31,Bhutan,BTN52,Punakha,Shelngabjemi,7.763408469244208,2.0,Member State,BTN,ND,2020
+BTN556,BTN31,Bhutan,BTN52,Punakha,Talog,12.193005429801724,2.0,Member State,BTN,ND,2020
+BTN557,BTN31,Bhutan,BTN52,Punakha,Toedpaisa,28.359596008802782,2.0,Member State,BTN,ND,2020
+BTN558,BTN31,Bhutan,BTN52,Punakha,Toedwang,6.7346480659538805,2.0,Member State,BTN,ND,2020
+BTN559,BTN31,Bhutan,BTN53,Samdrupjongkhar,Dewathang,128.4505191849928,2.0,Member State,BTN,ND,2020
+BTN560,BTN31,Bhutan,BTN53,Samdrupjongkhar,Gomdar,10.177808805798316,2.0,Member State,BTN,ND,2020
+BTN561,BTN31,Bhutan,BTN53,Samdrupjongkhar,Langchenphu,24.456741406567147,2.0,Member State,BTN,ND,2020
+BTN562,BTN31,Bhutan,BTN53,Samdrupjongkhar,Lauri,12.47210043707265,2.0,Member State,BTN,ND,2020
+BTN563,BTN31,Bhutan,BTN53,Samdrupjongkhar,Martshala,10.669580308583233,2.0,Member State,BTN,ND,2020
+BTN564,BTN31,Bhutan,BTN53,Samdrupjongkhar,Orong,31.939257389120204,2.0,Member State,BTN,ND,2020
+BTN565,BTN31,Bhutan,BTN53,Samdrupjongkhar,Pemathang,9.253585235857274,2.0,Member State,BTN,ND,2020
+BTN566,BTN31,Bhutan,BTN53,Samdrupjongkhar,Phuentshogthang,46.0227765153036,2.0,Member State,BTN,ND,2020
+BTN567,BTN31,Bhutan,BTN53,Samdrupjongkhar,Samrang,1.1785004965278414,2.0,Member State,BTN,ND,2020
+BTN568,BTN31,Bhutan,BTN53,Samdrupjongkhar,Serthig,12.251370326083594,2.0,Member State,BTN,ND,2020
+BTN569,BTN31,Bhutan,BTN53,Samdrupjongkhar,Wangphu,9.08652277243079,2.0,Member State,BTN,ND,2020
+BTN570,BTN31,Bhutan,BTN54,Samtse,Doomtoed,6.277482149113426,2.0,Member State,BTN,ND,2020
+BTN571,BTN31,Bhutan,BTN54,Samtse,Dophugchen,27.34077678611292,2.0,Member State,BTN,ND,2020
+BTN572,BTN31,Bhutan,BTN54,Samtse,Duenchhukha,9.043964997650203,2.0,Member State,BTN,ND,2020
+BTN573,BTN31,Bhutan,BTN54,Samtse,NamgayChhoeling,26.225041762412037,2.0,Member State,BTN,ND,2020
+BTN574,BTN31,Bhutan,BTN54,Samtse,Norboogang,18.88132685465301,2.0,Member State,BTN,ND,2020
+BTN575,BTN31,Bhutan,BTN54,Samtse,Norgaygang,30.38735617389913,2.0,Member State,BTN,ND,2020
+BTN576,BTN31,Bhutan,BTN54,Samtse,Pemaling,31.8825505406893,2.0,Member State,BTN,ND,2020
+BTN577,BTN31,Bhutan,BTN54,Samtse,Phuentshogpelri,58.59509189423521,2.0,Member State,BTN,ND,2020
+BTN578,BTN31,Bhutan,BTN54,Samtse,Samtse,46.77666732553525,2.0,Member State,BTN,ND,2020
+BTN579,BTN31,Bhutan,BTN54,Samtse,Sangngagchhoeling,13.414533696815944,2.0,Member State,BTN,ND,2020
+BTN580,BTN31,Bhutan,BTN54,Samtse,Tading,581.5899731465436,2.0,Member State,BTN,ND,2020
+BTN581,BTN31,Bhutan,BTN54,Samtse,Tendruk,25.59879235090952,2.0,Member State,BTN,ND,2020
+BTN582,BTN31,Bhutan,BTN54,Samtse,Trashichhoeling,16.946514967138864,2.0,Member State,BTN,ND,2020
+BTN583,BTN31,Bhutan,BTN54,Samtse,Ugyentse,7.1025827991612775,2.0,Member State,BTN,ND,2020
+BTN584,BTN31,Bhutan,BTN54,Samtse,Yoeseltse,9.193311756262199,2.0,Member State,BTN,ND,2020
+BTN585,BTN31,Bhutan,BTN55,Sarpang,Chhudzom,8.165017129271423,2.0,Member State,BTN,ND,2020
+BTN586,BTN31,Bhutan,BTN55,Sarpang,Chhuzangang,6.919176570825234,2.0,Member State,BTN,ND,2020
+BTN587,BTN31,Bhutan,BTN55,Sarpang,Dekiling,10.006800516458357,2.0,Member State,BTN,ND,2020
+BTN588,BTN31,Bhutan,BTN55,Sarpang,Gakiling,15.512989856623639,2.0,Member State,BTN,ND,2020
+BTN589,BTN31,Bhutan,BTN55,Sarpang,Gelegphu,19.567938342681703,2.0,Member State,BTN,ND,2020
+BTN590,BTN31,Bhutan,BTN55,Sarpang,Jigmechoeling,11.16561958428216,2.0,Member State,BTN,ND,2020
+BTN591,BTN31,Bhutan,BTN55,Sarpang,Samtenling,17.185808473956303,2.0,Member State,BTN,ND,2020
+BTN592,BTN31,Bhutan,BTN55,Sarpang,Senggey,17.532639966523654,2.0,Member State,BTN,ND,2020
+BTN593,BTN31,Bhutan,BTN55,Sarpang,Serzhong,14.915865858819059,2.0,Member State,BTN,ND,2020
+BTN594,BTN31,Bhutan,BTN55,Sarpang,Shompangkha,3.931161464431702,2.0,Member State,BTN,ND,2020
+BTN595,BTN31,Bhutan,BTN55,Sarpang,Tareythang,3.576962093496669,2.0,Member State,BTN,ND,2020
+BTN596,BTN31,Bhutan,BTN55,Sarpang,Umling,13.285672146129741,2.0,Member State,BTN,ND,2020
+BTN597,BTN31,Bhutan,BTN56,Thimphu,Chang,762.6235117390852,2.0,Member State,BTN,ND,2020
+BTN598,BTN31,Bhutan,BTN56,Thimphu,Darkarla,43.38010806074253,2.0,Member State,BTN,ND,2020
+BTN599,BTN31,Bhutan,BTN56,Thimphu,Genyen,58.25206266315243,2.0,Member State,BTN,ND,2020
+BTN600,BTN31,Bhutan,BTN56,Thimphu,Kawang,213.63457620281906,2.0,Member State,BTN,ND,2020
+BTN601,BTN31,Bhutan,BTN56,Thimphu,Lingzhi,5.188749750651059,2.0,Member State,BTN,ND,2020
+BTN602,BTN31,Bhutan,BTN56,Thimphu,Maedwang,549.3113169568998,2.0,Member State,BTN,ND,2020
+BTN603,BTN31,Bhutan,BTN56,Thimphu,Naro,1.197728520107587,2.0,Member State,BTN,ND,2020
+BTN604,BTN31,Bhutan,BTN56,Thimphu,Soe,1.0433613907791972,2.0,Member State,BTN,ND,2020
+BTN605,BTN31,Bhutan,BTN57,Trashigang,Bartsham,13.417820926919882,2.0,Member State,BTN,ND,2020
+BTN606,BTN31,Bhutan,BTN57,Trashigang,Bidoong,16.178331928867284,2.0,Member State,BTN,ND,2020
+BTN607,BTN31,Bhutan,BTN57,Trashigang,Kanglung,101.47373840358252,2.0,Member State,BTN,ND,2020
+BTN608,BTN31,Bhutan,BTN57,Trashigang,Kangpar,18.44591570746177,2.0,Member State,BTN,ND,2020
+BTN609,BTN31,Bhutan,BTN57,Trashigang,Khaling,26.485768458091005,2.0,Member State,BTN,ND,2020
+BTN610,BTN31,Bhutan,BTN57,Trashigang,Lumang,33.65979873154501,2.0,Member State,BTN,ND,2020
+BTN611,BTN31,Bhutan,BTN57,Trashigang,Merag,15.632576237549813,2.0,Member State,BTN,ND,2020
+BTN612,BTN31,Bhutan,BTN57,Trashigang,Phongmed,20.72825871737618,2.0,Member State,BTN,ND,2020
+BTN613,BTN31,Bhutan,BTN57,Trashigang,Radhi,12.547834532256292,2.0,Member State,BTN,ND,2020
+BTN614,BTN31,Bhutan,BTN57,Trashigang,Sagteng,17.41415038850434,2.0,Member State,BTN,ND,2020
+BTN615,BTN31,Bhutan,BTN57,Trashigang,Samkhar,125.58613020290106,2.0,Member State,BTN,ND,2020
+BTN616,BTN31,Bhutan,BTN57,Trashigang,Shongphu,45.43552260397713,2.0,Member State,BTN,ND,2020
+BTN617,BTN31,Bhutan,BTN57,Trashigang,Thrimshing,8.624299251936137,2.0,Member State,BTN,ND,2020
+BTN618,BTN31,Bhutan,BTN57,Trashigang,Udzorong,26.545660728739232,2.0,Member State,BTN,ND,2020
+BTN619,BTN31,Bhutan,BTN57,Trashigang,Yangnyer,27.772812582798718,2.0,Member State,BTN,ND,2020
+BTN620,BTN31,Bhutan,BTN58,Trashiyangtse,Boomdeling,16.93691179187566,2.0,Member State,BTN,ND,2020
+BTN621,BTN31,Bhutan,BTN58,Trashiyangtse,Jamkhar,13.593254977624,2.0,Member State,BTN,ND,2020
+BTN622,BTN31,Bhutan,BTN58,Trashiyangtse,Khamdang,9.706083173867574,2.0,Member State,BTN,ND,2020
+BTN623,BTN31,Bhutan,BTN58,Trashiyangtse,Ramjar,9.100667806634597,2.0,Member State,BTN,ND,2020
+BTN624,BTN31,Bhutan,BTN58,Trashiyangtse,Toedtsho,10.84620645607526,2.0,Member State,BTN,ND,2020
+BTN625,BTN31,Bhutan,BTN58,Trashiyangtse,Tongmajangsa,12.651464974670553,2.0,Member State,BTN,ND,2020
+BTN626,BTN31,Bhutan,BTN58,Trashiyangtse,Yalang,18.384899664214547,2.0,Member State,BTN,ND,2020
+BTN627,BTN31,Bhutan,BTN58,Trashiyangtse,Yangtse,19.40782582758486,2.0,Member State,BTN,ND,2020
+BTN628,BTN31,Bhutan,BTN59,Trongsa,Draagteng,19.79561263467868,2.0,Member State,BTN,ND,2020
+BTN629,BTN31,Bhutan,BTN59,Trongsa,Korphu,10.630722026956931,2.0,Member State,BTN,ND,2020
+BTN630,BTN31,Bhutan,BTN59,Trongsa,Langthil,29.4040757441435,2.0,Member State,BTN,ND,2020
+BTN631,BTN31,Bhutan,BTN59,Trongsa,Nubi,19.696180662103625,2.0,Member State,BTN,ND,2020
+BTN632,BTN31,Bhutan,BTN59,Trongsa,Tangsibji,21.13678939057495,2.0,Member State,BTN,ND,2020
+BTN633,BTN31,Bhutan,BTN60,Tsirang,Barshong,8.743088197935968,2.0,Member State,BTN,ND,2020
+BTN634,BTN31,Bhutan,BTN60,Tsirang,Doonglagang,6.199040418751653,2.0,Member State,BTN,ND,2020
+BTN635,BTN31,Bhutan,BTN60,Tsirang,Gosarling,6.883425173574855,2.0,Member State,BTN,ND,2020
+BTN636,BTN31,Bhutan,BTN60,Tsirang,Kilkhorthang,14.795427039202742,2.0,Member State,BTN,ND,2020
+BTN637,BTN31,Bhutan,BTN60,Tsirang,Mendrelgang,15.427564792574636,2.0,Member State,BTN,ND,2020
+BTN638,BTN31,Bhutan,BTN60,Tsirang,Patshaling,40.79429723234457,2.0,Member State,BTN,ND,2020
+BTN639,BTN31,Bhutan,BTN60,Tsirang,Phungtenchhu,9.550330281540502,2.0,Member State,BTN,ND,2020
+BTN640,BTN31,Bhutan,BTN60,Tsirang,Rangthangling,21.851618937631837,2.0,Member State,BTN,ND,2020
+BTN641,BTN31,Bhutan,BTN60,Tsirang,Semjong,5.654872736092322,2.0,Member State,BTN,ND,2020
+BTN642,BTN31,Bhutan,BTN60,Tsirang,Sergithang,5.32365777353582,2.0,Member State,BTN,ND,2020
+BTN643,BTN31,Bhutan,BTN60,Tsirang,Tsholingkhar,5.742041072253627,2.0,Member State,BTN,ND,2020
+BTN644,BTN31,Bhutan,BTN60,Tsirang,Tsirangtoed,17.391641266866607,2.0,Member State,BTN,ND,2020
+BTN645,BTN31,Bhutan,BTN61,Wangduephodrang,Athang,11.616524221574153,2.0,Member State,BTN,ND,2020
+BTN646,BTN31,Bhutan,BTN61,Wangduephodrang,Bjednag,28.07778834215779,2.0,Member State,BTN,ND,2020
+BTN647,BTN31,Bhutan,BTN61,Wangduephodrang,Dangchhu,8.464344455693176,2.0,Member State,BTN,ND,2020
+BTN648,BTN31,Bhutan,BTN61,Wangduephodrang,Darkar,15.227237746903313,2.0,Member State,BTN,ND,2020
+BTN649,BTN31,Bhutan,BTN61,Wangduephodrang,Gangteng,14.435133766517664,2.0,Member State,BTN,ND,2020
+BTN650,BTN31,Bhutan,BTN61,Wangduephodrang,GaseTshogongm,131.28773386626895,2.0,Member State,BTN,ND,2020
+BTN651,BTN31,Bhutan,BTN61,Wangduephodrang,GaseTshowogm,22.715278101360994,2.0,Member State,BTN,ND,2020
+BTN652,BTN31,Bhutan,BTN61,Wangduephodrang,Kazhi,4.878901681565956,2.0,Member State,BTN,ND,2020
+BTN653,BTN31,Bhutan,BTN61,Wangduephodrang,Nahi,116.19474193714532,2.0,Member State,BTN,ND,2020
+BTN654,BTN31,Bhutan,BTN61,Wangduephodrang,Nyishog,7.870658769381545,2.0,Member State,BTN,ND,2020
+BTN655,BTN31,Bhutan,BTN61,Wangduephodrang,Phangyuel,10.983682221535616,2.0,Member State,BTN,ND,2020
+BTN656,BTN31,Bhutan,BTN61,Wangduephodrang,Phobji,14.524751559675723,2.0,Member State,BTN,ND,2020
+BTN657,BTN31,Bhutan,BTN61,Wangduephodrang,Ruebisa,80.45702640977302,2.0,Member State,BTN,ND,2020
+BTN658,BTN31,Bhutan,BTN61,Wangduephodrang,Saephu,12.885476721531118,2.0,Member State,BTN,ND,2020
+BTN659,BTN31,Bhutan,BTN61,Wangduephodrang,Thedtsho,85.89293394203193,2.0,Member State,BTN,ND,2020
+BTN660,BTN31,Bhutan,BTN62,Zhemgang,Bardo,15.311138938438674,2.0,Member State,BTN,ND,2020
+BTN661,BTN31,Bhutan,BTN62,Zhemgang,Bjoka,9.630322186115714,2.0,Member State,BTN,ND,2020
+BTN662,BTN31,Bhutan,BTN62,Zhemgang,Goshing,9.634952850888892,2.0,Member State,BTN,ND,2020
+BTN663,BTN31,Bhutan,BTN62,Zhemgang,Nangkor,18.853449825245423,2.0,Member State,BTN,ND,2020
+BTN664,BTN31,Bhutan,BTN62,Zhemgang,Ngangla,15.2588507740119,2.0,Member State,BTN,ND,2020
+BTN665,BTN31,Bhutan,BTN62,Zhemgang,Phangkhar,16.19035558546814,2.0,Member State,BTN,ND,2020
+BTN666,BTN31,Bhutan,BTN62,Zhemgang,Shingkhar,9.151092125003121,2.0,Member State,BTN,ND,2020
+BTN667,BTN31,Bhutan,BTN62,Zhemgang,Trong,29.974258359468905,2.0,Member State,BTN,ND,2020
+DS38520,DS38520,Arunchal Pradesh,DS38520,Arunchal Pradesh,Arunchal Pradesh,9099.847467635882,2.0,,,D,2020
+DS38521,DS38521,Disputed - India/Pakistan,DS38521,Disputed - India/Pakistan,Disputed - India/Pakistan,2.2367807199384635,2.0,,,D,2020
+DS38522,DS38522,"Disputed Area, China-India-Nepal",DS38522,"Disputed Area, China-India-Nepal","Disputed Area, China-India-Nepal",0.3150292807445755,2.0,,,D,2020
+DS38523,DS38523,Disputed Area - China-India,DS38523,Disputed Area - China-India,Disputed Area - China-India,0.13249852562030096,2.0,,,D,2020
+DS38524,DS38524,Disputed Area - China-India,DS38524,Disputed Area - China-India,Disputed Area - China-India,3.8747204414911214,2.0,,,D,2020
+DS38525,DS38525,Disputed Area - China-India,DS38525,Disputed Area - China-India,Disputed Area - China-India,2.250065693367877,2.0,,,D,2020
+DS38526,DS38526,Disputed Area - China-India,DS38526,Disputed Area - China-India,Disputed Area - China-India,0.8449515992996999,2.0,,,D,2020
+DS38527,DS38527,Disputed - India/Pakistan,DS38527,Disputed - India/Pakistan,Disputed - India/Pakistan,0.008576481223564594,2.0,,,D,2020
+DS38528,DS38528,Disputed - India/Pakistan,DS38528,Disputed - India/Pakistan,Disputed - India/Pakistan,9.93151599735649e-06,2.0,,,D,2020
+DS38529,DS38529,Disputed - India/Pakistan,DS38529,Disputed - India/Pakistan,Disputed - India/Pakistan,0.7092042619530231,2.0,,,D,2020
+DS38530,DS38530,Disputed - India/Pakistan,DS38530,Disputed - India/Pakistan,Disputed - India/Pakistan,52.714711309926294,2.0,,,D,2020
+IND1000,IND115,India,IND82,Madhya Pradesh,Rewa,8329.169460154353,2.0,Member State,IND,ND,2020
+IND1001,IND115,India,IND82,Madhya Pradesh,Sagar,10405.716701803636,2.0,Member State,IND,ND,2020
+IND1002,IND115,India,IND82,Madhya Pradesh,Satna,8143.1544152902,2.0,Member State,IND,ND,2020
+IND1003,IND115,India,IND82,Madhya Pradesh,Sehore,6327.199416095918,2.0,Member State,IND,ND,2020
+IND1004,IND115,India,IND82,Madhya Pradesh,Seoni,6593.0539190323225,2.0,Member State,IND,ND,2020
+IND1005,IND115,India,IND82,Madhya Pradesh,Shahdol,4741.890455395746,2.0,Member State,IND,ND,2020
+IND1006,IND115,India,IND82,Madhya Pradesh,Shajapur,4213.930764389242,2.0,Member State,IND,ND,2020
+IND1007,IND115,India,IND82,Madhya Pradesh,Sheopur,3577.918637420537,2.0,Member State,IND,ND,2020
+IND1008,IND115,India,IND82,Madhya Pradesh,Shivpuri,8680.670701268384,2.0,Member State,IND,ND,2020
+IND1009,IND115,India,IND82,Madhya Pradesh,Sidhi,6488.6902304130535,2.0,Member State,IND,ND,2020
+IND1010,IND115,India,IND82,Madhya Pradesh,Singrauli,7176.552152707099,2.0,Member State,IND,ND,2020
+IND1011,IND115,India,IND82,Madhya Pradesh,Tikamgarh,7059.70159370159,2.0,Member State,IND,ND,2020
+IND1012,IND115,India,IND82,Madhya Pradesh,Ujjain,6105.045131550252,2.0,Member State,IND,ND,2020
+IND1013,IND115,India,IND82,Madhya Pradesh,Umaria,3407.1810090207705,2.0,Member State,IND,ND,2020
+IND1014,IND115,India,IND82,Madhya Pradesh,Vidisha,7350.707149301907,2.0,Member State,IND,ND,2020
+IND1015,IND115,India,IND82,Madhya Pradesh,West Nimar,9337.584953018597,2.0,Member State,IND,ND,2020
+IND1016,IND115,India,IND83,Maharashtra,Ahmednagar,37985.711554034475,2.0,Member State,IND,ND,2020
+IND1017,IND115,India,IND83,Maharashtra,Akola,15246.938939563623,2.0,Member State,IND,ND,2020
+IND1018,IND115,India,IND83,Maharashtra,Amravati,19874.31882549551,2.0,Member State,IND,ND,2020
+IND1019,IND115,India,IND83,Maharashtra,Aurangabad,26284.03431448949,2.0,Member State,IND,ND,2020
+IND1020,IND115,India,IND83,Maharashtra,Bhandara,8604.348003114803,2.0,Member State,IND,ND,2020
+IND1021,IND115,India,IND83,Maharashtra,Bid,14407.13249782009,2.0,Member State,IND,ND,2020
+IND1022,IND115,India,IND83,Maharashtra,Buldhana,15335.88149009174,2.0,Member State,IND,ND,2020
+IND1023,IND115,India,IND83,Maharashtra,Chandrapur,15836.336676436864,2.0,Member State,IND,ND,2020
+IND1024,IND115,India,IND83,Maharashtra,Dhule,15300.597387810474,2.0,Member State,IND,ND,2020
+IND1025,IND115,India,IND83,Maharashtra,Gadchiroli,7978.168753604266,2.0,Member State,IND,ND,2020
+IND1026,IND115,India,IND83,Maharashtra,Gondiya,10700.030212012165,2.0,Member State,IND,ND,2020
+IND1027,IND115,India,IND83,Maharashtra,Hingoli,7410.780498603821,2.0,Member State,IND,ND,2020
+IND1028,IND115,India,IND83,Maharashtra,Jalgaon,32558.264275555583,2.0,Member State,IND,ND,2020
+IND1029,IND115,India,IND83,Maharashtra,Jalna,11682.37095485582,2.0,Member State,IND,ND,2020
+IND1030,IND115,India,IND83,Maharashtra,Kolhapur,27462.1943724412,2.0,Member State,IND,ND,2020
+IND1031,IND115,India,IND83,Maharashtra,Latur,13977.552457611951,2.0,Member State,IND,ND,2020
+IND1032,IND115,India,IND83,Maharashtra,Mumbai City,26488.799111560562,2.0,Member State,IND,ND,2020
+IND1033,IND115,India,IND83,Maharashtra,Mumbai Suburban,160480.80316668833,2.0,Member State,IND,ND,2020
+IND1034,IND115,India,IND83,Maharashtra,Nagpur,46009.70665989321,2.0,Member State,IND,ND,2020
+IND1035,IND115,India,IND83,Maharashtra,Nanded,20384.340819914753,2.0,Member State,IND,ND,2020
+IND1036,IND115,India,IND83,Maharashtra,Nandurbar,10448.677352058061,2.0,Member State,IND,ND,2020
+IND1037,IND115,India,IND83,Maharashtra,Nashik,42592.62892203436,2.0,Member State,IND,ND,2020
+IND1038,IND115,India,IND83,Maharashtra,Osmanabad,10418.882686714405,2.0,Member State,IND,ND,2020
+IND1039,IND115,India,IND83,Maharashtra,Palghar,35149.26517676025,2.0,Member State,IND,ND,2020
+IND1040,IND115,India,IND83,Maharashtra,Parbhani,9810.742237154542,2.0,Member State,IND,ND,2020
+IND1041,IND115,India,IND83,Maharashtra,Pune,143117.04331093794,2.0,Member State,IND,ND,2020
+IND1042,IND115,India,IND83,Maharashtra,Raigarh,21818.316044179363,2.0,Member State,IND,ND,2020
+IND1043,IND115,India,IND83,Maharashtra,Ratnagiri,9409.688336707775,2.0,Member State,IND,ND,2020
+IND1044,IND115,India,IND83,Maharashtra,Sangli,23527.05599108938,2.0,Member State,IND,ND,2020
+IND1045,IND115,India,IND83,Maharashtra,Satara,19980.751254880794,2.0,Member State,IND,ND,2020
+IND1046,IND115,India,IND83,Maharashtra,Sindhudurg,5690.5900115859995,2.0,Member State,IND,ND,2020
+IND1047,IND115,India,IND83,Maharashtra,Solapur,26590.46793754558,2.0,Member State,IND,ND,2020
+IND1048,IND115,India,IND83,Maharashtra,Thane,118331.47594462534,2.0,Member State,IND,ND,2020
+IND1049,IND115,India,IND83,Maharashtra,Wardha,10179.09924400826,2.0,Member State,IND,ND,2020
+IND1050,IND115,India,IND83,Maharashtra,Washim,7174.330533340662,2.0,Member State,IND,ND,2020
+IND1051,IND115,India,IND83,Maharashtra,Yavatmal,15908.858749126144,2.0,Member State,IND,ND,2020
+IND1052,IND115,India,IND84,Manipur,Bishnupur,834.9554826241317,2.0,Member State,IND,ND,2020
+IND1053,IND115,India,IND84,Manipur,Chandel,481.782550163068,2.0,Member State,IND,ND,2020
+IND1054,IND115,India,IND84,Manipur,Churachandpur,983.3917414556577,2.0,Member State,IND,ND,2020
+IND1055,IND115,India,IND84,Manipur,East Imphal,2400.7748088313424,2.0,Member State,IND,ND,2020
+IND1056,IND115,India,IND84,Manipur,Jiribam,291.4450513228374,2.0,Member State,IND,ND,2020
+IND1057,IND115,India,IND84,Manipur,Kakching,458.7784029794756,2.0,Member State,IND,ND,2020
+IND1058,IND115,India,IND84,Manipur,Kamjong,193.04662243021562,2.0,Member State,IND,ND,2020
+IND1059,IND115,India,IND84,Manipur,Kangpokpi,775.4902584189947,2.0,Member State,IND,ND,2020
+IND1060,IND115,India,IND84,Manipur,Noney,299.10523947261834,2.0,Member State,IND,ND,2020
+IND1061,IND115,India,IND84,Manipur,Pherzawl,179.06462742054865,2.0,Member State,IND,ND,2020
+IND1062,IND115,India,IND84,Manipur,Senapati,1241.2972697589973,2.0,Member State,IND,ND,2020
+IND1063,IND115,India,IND84,Manipur,Tamenglong,776.2871410782782,2.0,Member State,IND,ND,2020
+IND1064,IND115,India,IND84,Manipur,Tengnoupal,410.1489751680676,2.0,Member State,IND,ND,2020
+IND1065,IND115,India,IND84,Manipur,Thoubal,1056.4712327037146,2.0,Member State,IND,ND,2020
+IND1066,IND115,India,IND84,Manipur,Ukhrul,594.9624345990525,2.0,Member State,IND,ND,2020
+IND1067,IND115,India,IND84,Manipur,West Imphal,1909.9615451627326,2.0,Member State,IND,ND,2020
+IND1068,IND115,India,IND85,Meghalaya,East Garo Hills,781.8666636995207,2.0,Member State,IND,ND,2020
+IND1069,IND115,India,IND85,Meghalaya,East Jaintia Hills,552.9974487734136,2.0,Member State,IND,ND,2020
+IND1070,IND115,India,IND85,Meghalaya,East Khasi Hills,4138.392895061072,2.0,Member State,IND,ND,2020
+IND1071,IND115,India,IND85,Meghalaya,North Garo Hills,742.3242620251015,2.0,Member State,IND,ND,2020
+IND1072,IND115,India,IND85,Meghalaya,Ri-Bhoi,2153.1141528225194,2.0,Member State,IND,ND,2020
+IND1073,IND115,India,IND85,Meghalaya,South Garo Hills,927.5658077207012,2.0,Member State,IND,ND,2020
+IND1074,IND115,India,IND85,Meghalaya,South West Garo Hills,903.4382917796356,2.0,Member State,IND,ND,2020
+IND1075,IND115,India,IND85,Meghalaya,South West Khasi Hills,629.7650435553194,2.0,Member State,IND,ND,2020
+IND1076,IND115,India,IND85,Meghalaya,West Garo Hills,2912.6629238760843,2.0,Member State,IND,ND,2020
+IND1077,IND115,India,IND85,Meghalaya,West Jaintia Hills,1279.4351886204634,2.0,Member State,IND,ND,2020
+IND1078,IND115,India,IND85,Meghalaya,West Khasi Hills,1797.182727424826,2.0,Member State,IND,ND,2020
+IND1079,IND115,India,IND86,Mizoram,Aizawl,3255.5817390547722,2.0,Member State,IND,ND,2020
+IND1080,IND115,India,IND86,Mizoram,Champhai,931.4480298613245,2.0,Member State,IND,ND,2020
+IND1081,IND115,India,IND86,Mizoram,Kolasib,828.3725283762335,2.0,Member State,IND,ND,2020
+IND1082,IND115,India,IND86,Mizoram,Lawngtlai,995.253730795629,2.0,Member State,IND,ND,2020
+IND1083,IND115,India,IND86,Mizoram,Lunglei,1320.7457491751259,2.0,Member State,IND,ND,2020
+IND1084,IND115,India,IND86,Mizoram,Mamit,930.768138744159,2.0,Member State,IND,ND,2020
+IND1085,IND115,India,IND86,Mizoram,Saiha,416.36897787568296,2.0,Member State,IND,ND,2020
+IND1086,IND115,India,IND86,Mizoram,Serchhip,394.5324949600544,2.0,Member State,IND,ND,2020
+IND1087,IND115,India,IND87,Nagaland,Dimapur,1781.4798758579213,2.0,Member State,IND,ND,2020
+IND1088,IND115,India,IND87,Nagaland,Kiphire,486.443416897801,2.0,Member State,IND,ND,2020
+IND1089,IND115,India,IND87,Nagaland,Kohima,1224.6267540292693,2.0,Member State,IND,ND,2020
+IND1090,IND115,India,IND87,Nagaland,Longleng,284.65904434777843,2.0,Member State,IND,ND,2020
+IND1091,IND115,India,IND87,Nagaland,Mokokchung,1137.8195869678777,2.0,Member State,IND,ND,2020
+IND1092,IND115,India,IND87,Nagaland,Mon,1365.3814766519586,2.0,Member State,IND,ND,2020
+IND1093,IND115,India,IND87,Nagaland,Peren,563.3003061571125,2.0,Member State,IND,ND,2020
+IND1094,IND115,India,IND87,Nagaland,Phek,1069.6411560421093,2.0,Member State,IND,ND,2020
+IND1095,IND115,India,IND87,Nagaland,Tuensang,1065.0890943291652,2.0,Member State,IND,ND,2020
+IND1096,IND115,India,IND87,Nagaland,Wokha,1160.605875791852,2.0,Member State,IND,ND,2020
+IND1097,IND115,India,IND87,Nagaland,Zunheboto,866.3916085599477,2.0,Member State,IND,ND,2020
+IND1098,IND115,India,IND88,Odisha,Angul,5968.537657276298,2.0,Member State,IND,ND,2020
+IND1099,IND115,India,IND88,Odisha,Baleshwar,8757.46016164579,2.0,Member State,IND,ND,2020
+IND1100,IND115,India,IND88,Odisha,Baragarh,8817.303993070014,2.0,Member State,IND,ND,2020
+IND1101,IND115,India,IND88,Odisha,Bhadrak,4967.866638443982,2.0,Member State,IND,ND,2020
+IND1102,IND115,India,IND88,Odisha,Bolangir,15459.353910962056,2.0,Member State,IND,ND,2020
+IND1103,IND115,India,IND88,Odisha,Boudh,3096.830191912227,2.0,Member State,IND,ND,2020
+IND1104,IND115,India,IND88,Odisha,Cuttack,8729.16811502562,2.0,Member State,IND,ND,2020
+IND1105,IND115,India,IND88,Odisha,Deogarh,1995.10471257507,2.0,Member State,IND,ND,2020
+IND1106,IND115,India,IND88,Odisha,Dhenkanal,4971.788084200071,2.0,Member State,IND,ND,2020
+IND1107,IND115,India,IND88,Odisha,Gajapati,3563.17090394893,2.0,Member State,IND,ND,2020
+IND1108,IND115,India,IND88,Odisha,Ganjam,11736.885009865564,2.0,Member State,IND,ND,2020
+IND1109,IND115,India,IND88,Odisha,Jagatsinghpur,4238.760140650035,2.0,Member State,IND,ND,2020
+IND1110,IND115,India,IND88,Odisha,Jajpur,6670.734316425985,2.0,Member State,IND,ND,2020
+IND1111,IND115,India,IND88,Odisha,Jharsuguda,2849.908056694449,2.0,Member State,IND,ND,2020
+IND1112,IND115,India,IND88,Odisha,Kalahandi,10384.433545287695,2.0,Member State,IND,ND,2020
+IND1113,IND115,India,IND88,Odisha,Kandhamal,4759.61488914758,2.0,Member State,IND,ND,2020
+IND1114,IND115,India,IND88,Odisha,Kendrapara,6134.606468379963,2.0,Member State,IND,ND,2020
+IND1115,IND115,India,IND88,Odisha,Keonjhar,14444.60794469869,2.0,Member State,IND,ND,2020
+IND1116,IND115,India,IND88,Odisha,Khordha,8026.2264892078065,2.0,Member State,IND,ND,2020
+IND1117,IND115,India,IND88,Odisha,Koraput,8733.9744519338,2.0,Member State,IND,ND,2020
+IND1118,IND115,India,IND88,Odisha,Malkangiri,4278.574458784425,2.0,Member State,IND,ND,2020
+IND1119,IND115,India,IND88,Odisha,Mayurbhanj,16691.177529768906,2.0,Member State,IND,ND,2020
+IND1120,IND115,India,IND88,Odisha,Nabarangpur,7481.578425486021,2.0,Member State,IND,ND,2020
+IND1121,IND115,India,IND88,Odisha,Nayagarh,5504.538447359772,2.0,Member State,IND,ND,2020
+IND1122,IND115,India,IND88,Odisha,Nuapada,4090.790014171155,2.0,Member State,IND,ND,2020
+IND1123,IND115,India,IND88,Odisha,Puri,8608.508499528602,2.0,Member State,IND,ND,2020
+IND1124,IND115,India,IND88,Odisha,Rayagada,5973.632783879019,2.0,Member State,IND,ND,2020
+IND1125,IND115,India,IND88,Odisha,Sambalpur,5764.724043448996,2.0,Member State,IND,ND,2020
+IND1126,IND115,India,IND88,Odisha,Sonepur,3594.3620181661895,2.0,Member State,IND,ND,2020
+IND1127,IND115,India,IND88,Odisha,Sundargarh,8809.48335510107,2.0,Member State,IND,ND,2020
+IND1128,IND115,India,IND89,Puducherry,Karaikal,1135.3386189984285,2.0,Member State,IND,ND,2020
+IND1129,IND115,India,IND89,Puducherry,Mahe,192.67407894447848,2.0,Member State,IND,ND,2020
+IND1130,IND115,India,IND89,Puducherry,Pondicherry,5227.452360542581,2.0,Member State,IND,ND,2020
+IND1131,IND115,India,IND89,Puducherry,Yanam,87.9044976098668,2.0,Member State,IND,ND,2020
+IND1132,IND115,India,IND90,Punjab,Amritsar,15125.280182806431,2.0,Member State,IND,ND,2020
+IND1133,IND115,India,IND90,Punjab,Barnala,3051.690760277056,2.0,Member State,IND,ND,2020
+IND1134,IND115,India,IND90,Punjab,Bathinda,10438.693500314996,2.0,Member State,IND,ND,2020
+IND1135,IND115,India,IND90,Punjab,Faridkot,3246.2766204274026,2.0,Member State,IND,ND,2020
+IND1136,IND115,India,IND90,Punjab,Fatehgarh Sahib,4980.758794331655,2.0,Member State,IND,ND,2020
+IND1137,IND115,India,IND90,Punjab,Fazilka,6064.705559931489,2.0,Member State,IND,ND,2020
+IND1138,IND115,India,IND90,Punjab,Firozpur,5433.1915067889395,2.0,Member State,IND,ND,2020
+IND1139,IND115,India,IND90,Punjab,Gurdaspur,11980.978757784656,2.0,Member State,IND,ND,2020
+IND1140,IND115,India,IND90,Punjab,Hoshiarpur,9755.883612978421,2.0,Member State,IND,ND,2020
+IND1141,IND115,India,IND90,Punjab,Jalandhar,15335.422530474563,2.0,Member State,IND,ND,2020
+IND1142,IND115,India,IND90,Punjab,Kapurthala,3716.0928766055245,2.0,Member State,IND,ND,2020
+IND1143,IND115,India,IND90,Punjab,Ludhiana,35959.0020192626,2.0,Member State,IND,ND,2020
+IND1144,IND115,India,IND90,Punjab,Mansa,3917.742446675999,2.0,Member State,IND,ND,2020
+IND1145,IND115,India,IND90,Punjab,Moga,5609.158689696295,2.0,Member State,IND,ND,2020
+IND1146,IND115,India,IND90,Punjab,Mohali,27623.540318541858,2.0,Member State,IND,ND,2020
+IND1147,IND115,India,IND90,Punjab,Muktsar,5867.1846177381785,2.0,Member State,IND,ND,2020
+IND1148,IND115,India,IND90,Punjab,Nawan Shehar,3721.84585066196,2.0,Member State,IND,ND,2020
+IND1149,IND115,India,IND90,Punjab,Pathankot,5378.495774304085,2.0,Member State,IND,ND,2020
+IND1150,IND115,India,IND90,Punjab,Patiala,19028.360813312083,2.0,Member State,IND,ND,2020
+IND1151,IND115,India,IND90,Punjab,Rupnagar,4557.76543703091,2.0,Member State,IND,ND,2020
+IND1152,IND115,India,IND90,Punjab,Sangrur,9959.360842636543,2.0,Member State,IND,ND,2020
+IND1153,IND115,India,IND90,Punjab,Tarn Taran,6592.923146105877,2.0,Member State,IND,ND,2020
+IND1154,IND115,India,IND91,Rajasthan,Ajmer,12181.023146262372,2.0,Member State,IND,ND,2020
+IND1155,IND115,India,IND91,Rajasthan,Alwar,19093.551764469372,2.0,Member State,IND,ND,2020
+IND1156,IND115,India,IND91,Rajasthan,Banswara,10353.88608250032,2.0,Member State,IND,ND,2020
+IND1157,IND115,India,IND91,Rajasthan,Baran,7436.414577360133,2.0,Member State,IND,ND,2020
+IND1158,IND115,India,IND91,Rajasthan,Barmer,22785.060276646447,2.0,Member State,IND,ND,2020
+IND1159,IND115,India,IND91,Rajasthan,Bharatpur,12140.410581718177,2.0,Member State,IND,ND,2020
+IND1160,IND115,India,IND91,Rajasthan,Bhilwara,13997.35468098521,2.0,Member State,IND,ND,2020
+IND1161,IND115,India,IND91,Rajasthan,Bikaner,13734.286429130549,2.0,Member State,IND,ND,2020
+IND1162,IND115,India,IND91,Rajasthan,Bundi,6981.000946645575,2.0,Member State,IND,ND,2020
+IND1163,IND115,India,IND91,Rajasthan,Chittorgarh,10840.623981739427,2.0,Member State,IND,ND,2020
+IND1164,IND115,India,IND91,Rajasthan,Churu,12010.61239179665,2.0,Member State,IND,ND,2020
+IND1165,IND115,India,IND91,Rajasthan,Dausa,8458.361846660277,2.0,Member State,IND,ND,2020
+IND1166,IND115,India,IND91,Rajasthan,Dholpur,8738.53266554619,2.0,Member State,IND,ND,2020
+IND1167,IND115,India,IND91,Rajasthan,Dungarpur,7658.207165307324,2.0,Member State,IND,ND,2020
+IND1168,IND115,India,IND91,Rajasthan,Ganganagar,12838.67319907826,2.0,Member State,IND,ND,2020
+IND1169,IND115,India,IND91,Rajasthan,Hanumangarh,10496.36812130317,2.0,Member State,IND,ND,2020
+IND1170,IND115,India,IND91,Rajasthan,Jaipur,42018.27080641494,2.0,Member State,IND,ND,2020
+IND1171,IND115,India,IND91,Rajasthan,Jaisalmer,6133.53063985689,2.0,Member State,IND,ND,2020
+IND1172,IND115,India,IND91,Rajasthan,Jalore,16078.897357710543,2.0,Member State,IND,ND,2020
+IND1173,IND115,India,IND91,Rajasthan,Jhalawar,8769.37700542023,2.0,Member State,IND,ND,2020
+IND1174,IND115,India,IND91,Rajasthan,Jhunjhunun,11947.686583044278,2.0,Member State,IND,ND,2020
+IND1175,IND115,India,IND91,Rajasthan,Jodhpur,20617.45895053339,2.0,Member State,IND,ND,2020
+IND1176,IND115,India,IND91,Rajasthan,Karauli,9748.953101058303,2.0,Member State,IND,ND,2020
+IND1177,IND115,India,IND91,Rajasthan,Kota,10172.437374261714,2.0,Member State,IND,ND,2020
+IND1178,IND115,India,IND91,Rajasthan,Nagaur,20696.199059605806,2.0,Member State,IND,ND,2020
+IND1179,IND115,India,IND91,Rajasthan,Pali,12395.18669867982,2.0,Member State,IND,ND,2020
+IND1180,IND115,India,IND91,Rajasthan,Pratapgarh,10438.803064168957,2.0,Member State,IND,ND,2020
+IND1181,IND115,India,IND91,Rajasthan,Rajsamand,7163.3055309361,2.0,Member State,IND,ND,2020
+IND1182,IND115,India,IND91,Rajasthan,Sawai Madhopur,6630.048523610069,2.0,Member State,IND,ND,2020
+IND1183,IND115,India,IND91,Rajasthan,Sikar,15607.2783069325,2.0,Member State,IND,ND,2020
+IND1184,IND115,India,IND91,Rajasthan,Sirohi,6511.456130238098,2.0,Member State,IND,ND,2020
+IND1185,IND115,India,IND91,Rajasthan,Tonk,9385.403461070404,2.0,Member State,IND,ND,2020
+IND1186,IND115,India,IND91,Rajasthan,Udaipur,13443.11936186442,2.0,Member State,IND,ND,2020
+IND1187,IND115,India,IND92,Sikkim,East Sikkim,4664.298488930392,2.0,Member State,IND,ND,2020
+IND1188,IND115,India,IND92,Sikkim,North Sikkim,901.336347403374,2.0,Member State,IND,ND,2020
+IND1189,IND115,India,IND92,Sikkim,South Sikkim,2721.8913571242288,2.0,Member State,IND,ND,2020
+IND1190,IND115,India,IND92,Sikkim,West Sikkim,2795.895560169118,2.0,Member State,IND,ND,2020
+IND1191,IND115,India,IND93,Tamil Nadu,Ariyalur,6008.670498450045,2.0,Member State,IND,ND,2020
+IND1192,IND115,India,IND93,Tamil Nadu,Chennai,58187.449305083515,2.0,Member State,IND,ND,2020
+IND1193,IND115,India,IND93,Tamil Nadu,Coimbatore,37061.959255187394,2.0,Member State,IND,ND,2020
+IND1194,IND115,India,IND93,Tamil Nadu,Cuddalore,19268.83418511307,2.0,Member State,IND,ND,2020
+IND1195,IND115,India,IND93,Tamil Nadu,Dharmapuri,15505.79851665819,2.0,Member State,IND,ND,2020
+IND1196,IND115,India,IND93,Tamil Nadu,Dindigul,17996.55180347077,2.0,Member State,IND,ND,2020
+IND1197,IND115,India,IND93,Tamil Nadu,Erode,18135.649062272623,2.0,Member State,IND,ND,2020
+IND1198,IND115,India,IND93,Tamil Nadu,Kancheepuram,95826.63488866047,2.0,Member State,IND,ND,2020
+IND1199,IND115,India,IND93,Tamil Nadu,Kanyakumari,15224.18386642977,2.0,Member State,IND,ND,2020
+IND1200,IND115,India,IND93,Tamil Nadu,Karur,8775.678760020044,2.0,Member State,IND,ND,2020
+IND1201,IND115,India,IND93,Tamil Nadu,Krishnagiri,16524.960659603465,2.0,Member State,IND,ND,2020
+IND1202,IND115,India,IND93,Tamil Nadu,Madurai,42112.24770729241,2.0,Member State,IND,ND,2020
+IND1203,IND115,India,IND93,Tamil Nadu,Nagapattinam,10546.508626244015,2.0,Member State,IND,ND,2020
+IND1204,IND115,India,IND93,Tamil Nadu,Namakkal,14851.980305344168,2.0,Member State,IND,ND,2020
+IND1205,IND115,India,IND93,Tamil Nadu,Nilgiris,6477.559909093009,2.0,Member State,IND,ND,2020
+IND1206,IND115,India,IND93,Tamil Nadu,Perambalur,4853.816538144186,2.0,Member State,IND,ND,2020
+IND1207,IND115,India,IND93,Tamil Nadu,Pudukkottai,10681.410966028114,2.0,Member State,IND,ND,2020
+IND1208,IND115,India,IND93,Tamil Nadu,Ramanathapuram,8082.759016743663,2.0,Member State,IND,ND,2020
+IND1209,IND115,India,IND93,Tamil Nadu,Salem,32529.206333472684,2.0,Member State,IND,ND,2020
+IND1210,IND115,India,IND93,Tamil Nadu,Sivaganga,14108.927186551458,2.0,Member State,IND,ND,2020
+IND1211,IND115,India,IND93,Tamil Nadu,Thanjavur,14639.526034272903,2.0,Member State,IND,ND,2020
+IND1212,IND115,India,IND93,Tamil Nadu,Theni,10459.867255944127,2.0,Member State,IND,ND,2020
+IND1213,IND115,India,IND93,Tamil Nadu,Thiruvallur,59764.77427221506,2.0,Member State,IND,ND,2020
+IND1214,IND115,India,IND93,Tamil Nadu,Thiruvarur,8467.499171558406,2.0,Member State,IND,ND,2020
+IND1215,IND115,India,IND93,Tamil Nadu,Thoothukudi,10668.164907666367,2.0,Member State,IND,ND,2020
+IND1216,IND115,India,IND93,Tamil Nadu,Tiruchirappalli,27305.79512713998,2.0,Member State,IND,ND,2020
+IND1217,IND115,India,IND93,Tamil Nadu,Tirunelveli,17596.089610390416,2.0,Member State,IND,ND,2020
+IND1218,IND115,India,IND93,Tamil Nadu,Tiruppur,22897.57699785864,2.0,Member State,IND,ND,2020
+IND1219,IND115,India,IND93,Tamil Nadu,Tiruvannamalai,23832.949791176725,2.0,Member State,IND,ND,2020
+IND1220,IND115,India,IND93,Tamil Nadu,Vellore,40824.256643291345,2.0,Member State,IND,ND,2020
+IND1221,IND115,India,IND93,Tamil Nadu,Villupuram,20806.788840266447,2.0,Member State,IND,ND,2020
+IND1222,IND115,India,IND93,Tamil Nadu,Virudhunagar,14630.41056161801,2.0,Member State,IND,ND,2020
+IND1223,IND115,India,IND94,Telangana,Adilabad,5255.640698766447,2.0,Member State,IND,ND,2020
+IND1224,IND115,India,IND94,Telangana,Bhadradri,5855.116320116633,2.0,Member State,IND,ND,2020
+IND1225,IND115,India,IND94,Telangana,Hyderabad,67156.69502951743,2.0,Member State,IND,ND,2020
+IND1226,IND115,India,IND94,Telangana,Jagtial,6202.223871203,2.0,Member State,IND,ND,2020
+IND1227,IND115,India,IND94,Telangana,Jangaon,4198.651218306863,2.0,Member State,IND,ND,2020
+IND1228,IND115,India,IND94,Telangana,Jayashankar,4980.982525967349,2.0,Member State,IND,ND,2020
+IND1229,IND115,India,IND94,Telangana,Jogulamba,3769.2776339234933,2.0,Member State,IND,ND,2020
+IND1230,IND115,India,IND94,Telangana,Kamareddy,6091.412150624084,2.0,Member State,IND,ND,2020
+IND1231,IND115,India,IND94,Telangana,Karimnagar,6479.8236749156085,2.0,Member State,IND,ND,2020
+IND1232,IND115,India,IND94,Telangana,Khammam,8748.336117382225,2.0,Member State,IND,ND,2020
+IND1233,IND115,India,IND94,Telangana,Komaram Bheem,3810.1587713218537,2.0,Member State,IND,ND,2020
+IND1234,IND115,India,IND94,Telangana,Mahabubabad,5528.3318420830055,2.0,Member State,IND,ND,2020
+IND1235,IND115,India,IND94,Telangana,Mahbubnagar,10754.519615392368,2.0,Member State,IND,ND,2020
+IND1236,IND115,India,IND94,Telangana,Mancherial,5120.3457851920375,2.0,Member State,IND,ND,2020
+IND1237,IND115,India,IND94,Telangana,Medak,5452.506022942931,2.0,Member State,IND,ND,2020
+IND1238,IND115,India,IND94,Telangana,Medchal Malkajgiri,64270.72333510014,2.0,Member State,IND,ND,2020
+IND1239,IND115,India,IND94,Telangana,Nagarkurnool,5610.674255137405,2.0,Member State,IND,ND,2020
+IND1240,IND115,India,IND94,Telangana,Nalgonda,10135.973951945041,2.0,Member State,IND,ND,2020
+IND1241,IND115,India,IND94,Telangana,Nirmal,4848.624730777509,2.0,Member State,IND,ND,2020
+IND1242,IND115,India,IND94,Telangana,Nizamabad,10158.75050491808,2.0,Member State,IND,ND,2020
+IND1243,IND115,India,IND94,Telangana,Peddapalle,5160.430986377997,2.0,Member State,IND,ND,2020
+IND1244,IND115,India,IND94,Telangana,Rajanna,3338.807441066682,2.0,Member State,IND,ND,2020
+IND1245,IND115,India,IND94,Telangana,Rangareddi,84371.74078397705,2.0,Member State,IND,ND,2020
+IND1246,IND115,India,IND94,Telangana,Sangareddy,12910.543858283605,2.0,Member State,IND,ND,2020
+IND1247,IND115,India,IND94,Telangana,Siddipet,7169.398700917401,2.0,Member State,IND,ND,2020
+IND1248,IND115,India,IND94,Telangana,Suryapet,6515.999902479251,2.0,Member State,IND,ND,2020
+IND1249,IND115,India,IND94,Telangana,Vikarabad,20245.760079134307,2.0,Member State,IND,ND,2020
+IND1250,IND115,India,IND94,Telangana,Wanaparthy,3551.6499014661717,2.0,Member State,IND,ND,2020
+IND1251,IND115,India,IND94,Telangana,Warangal Rural,5879.670768009103,2.0,Member State,IND,ND,2020
+IND1252,IND115,India,IND94,Telangana,Warangal Urban,7520.427231733827,2.0,Member State,IND,ND,2020
+IND1253,IND115,India,IND94,Telangana,Yadadri,4796.852355261079,2.0,Member State,IND,ND,2020
+IND1254,IND115,India,IND95,Tripura,Dhalai,2327.2925137820394,2.0,Member State,IND,ND,2020
+IND1255,IND115,India,IND95,Tripura,Gomati,2468.28736023898,2.0,Member State,IND,ND,2020
+IND1256,IND115,India,IND95,Tripura,Khowai,1438.6550161553494,2.0,Member State,IND,ND,2020
+IND1257,IND115,India,IND95,Tripura,North Tripura,1528.3707427917193,2.0,Member State,IND,ND,2020
+IND1258,IND115,India,IND95,Tripura,Sipahijala,2686.9102690447207,2.0,Member State,IND,ND,2020
+IND1259,IND115,India,IND95,Tripura,South Tripura,2570.271792565569,2.0,Member State,IND,ND,2020
+IND1260,IND115,India,IND95,Tripura,Unakoti,1549.2761468757383,2.0,Member State,IND,ND,2020
+IND1261,IND115,India,IND95,Tripura,West Tripura,9004.53414130693,2.0,Member State,IND,ND,2020
+IND1262,IND115,India,IND96,Uttar Pradesh,Agra,15147.865974498274,2.0,Member State,IND,ND,2020
+IND1263,IND115,India,IND96,Uttar Pradesh,Aligarh,12880.735268865235,2.0,Member State,IND,ND,2020
+IND1264,IND115,India,IND96,Uttar Pradesh,Allahabad,19560.619236385002,2.0,Member State,IND,ND,2020
+IND1265,IND115,India,IND96,Uttar Pradesh,Ambedkar Nagar,7350.655040392121,2.0,Member State,IND,ND,2020
+IND1266,IND115,India,IND96,Uttar Pradesh,Amethi,7634.285175220343,2.0,Member State,IND,ND,2020
+IND1267,IND115,India,IND96,Uttar Pradesh,Amroha,5765.609727571329,2.0,Member State,IND,ND,2020
+IND1268,IND115,India,IND96,Uttar Pradesh,Auraiya,4584.637795583407,2.0,Member State,IND,ND,2020
+IND1269,IND115,India,IND96,Uttar Pradesh,Azamgarh,14437.990336068277,2.0,Member State,IND,ND,2020
+IND1270,IND115,India,IND96,Uttar Pradesh,Badaun,8672.37178115836,2.0,Member State,IND,ND,2020
+IND1271,IND115,India,IND96,Uttar Pradesh,Baghpat,4796.05528800265,2.0,Member State,IND,ND,2020
+IND1272,IND115,India,IND96,Uttar Pradesh,Bahraich,11759.327294935812,2.0,Member State,IND,ND,2020
+IND1273,IND115,India,IND96,Uttar Pradesh,Ballia,9740.00784072566,2.0,Member State,IND,ND,2020
+IND1274,IND115,India,IND96,Uttar Pradesh,Balrampur,5263.510681053255,2.0,Member State,IND,ND,2020
+IND1275,IND115,India,IND96,Uttar Pradesh,Banda,5304.501006169012,2.0,Member State,IND,ND,2020
+IND1276,IND115,India,IND96,Uttar Pradesh,Barabanki,9771.995704065468,2.0,Member State,IND,ND,2020
+IND1277,IND115,India,IND96,Uttar Pradesh,Bareilly,13314.812437456487,2.0,Member State,IND,ND,2020
+IND1278,IND115,India,IND96,Uttar Pradesh,Basti,7591.4841401238455,2.0,Member State,IND,ND,2020
+IND1279,IND115,India,IND96,Uttar Pradesh,Bijnor,10492.558706772652,2.0,Member State,IND,ND,2020
+IND1280,IND115,India,IND96,Uttar Pradesh,Bulandshahr,10413.18335771665,2.0,Member State,IND,ND,2020
+IND1281,IND115,India,IND96,Uttar Pradesh,Chandauli,6478.021944170283,2.0,Member State,IND,ND,2020
+IND1282,IND115,India,IND96,Uttar Pradesh,Chitrakoot,3433.255061815589,2.0,Member State,IND,ND,2020
+IND1283,IND115,India,IND96,Uttar Pradesh,Deoria,9383.27069332066,2.0,Member State,IND,ND,2020
+IND1284,IND115,India,IND96,Uttar Pradesh,Etah,6009.878542293463,2.0,Member State,IND,ND,2020
+IND1285,IND115,India,IND96,Uttar Pradesh,Etawah,4868.483139474711,2.0,Member State,IND,ND,2020
+IND1286,IND115,India,IND96,Uttar Pradesh,Faizabad,7850.883465877811,2.0,Member State,IND,ND,2020
+IND1287,IND115,India,IND96,Uttar Pradesh,Farrukhabad,6050.240896013008,2.0,Member State,IND,ND,2020
+IND1288,IND115,India,IND96,Uttar Pradesh,Fatehpur,6802.984242724203,2.0,Member State,IND,ND,2020
+IND1289,IND115,India,IND96,Uttar Pradesh,Firozabad,6987.155789406632,2.0,Member State,IND,ND,2020
+IND1290,IND115,India,IND96,Uttar Pradesh,Gautam Buddha Nagar,19545.463662619062,2.0,Member State,IND,ND,2020
+IND1291,IND115,India,IND96,Uttar Pradesh,Ghaziabad,33313.47652128065,2.0,Member State,IND,ND,2020
+IND1292,IND115,India,IND96,Uttar Pradesh,Ghazipur,10825.300440188212,2.0,Member State,IND,ND,2020
+IND1293,IND115,India,IND96,Uttar Pradesh,Gonda,12338.142588756325,2.0,Member State,IND,ND,2020
+IND1294,IND115,India,IND96,Uttar Pradesh,Gorakhpur,13937.44555318589,2.0,Member State,IND,ND,2020
+IND1295,IND115,India,IND96,Uttar Pradesh,Hamirpur,3446.4038963427306,2.0,Member State,IND,ND,2020
+IND1296,IND115,India,IND96,Uttar Pradesh,Hapur,4776.3226334961155,2.0,Member State,IND,ND,2020
+IND1297,IND115,India,IND96,Uttar Pradesh,Hardoi,14527.154773747965,2.0,Member State,IND,ND,2020
+IND1298,IND115,India,IND96,Uttar Pradesh,Hathras,4214.785782467677,2.0,Member State,IND,ND,2020
+IND1299,IND115,India,IND96,Uttar Pradesh,Jalaun,4831.822661644145,2.0,Member State,IND,ND,2020
+IND1300,IND115,India,IND96,Uttar Pradesh,Jaunpur,14356.719535877568,2.0,Member State,IND,ND,2020
+IND1301,IND115,India,IND96,Uttar Pradesh,Jhansi,5790.337252423683,2.0,Member State,IND,ND,2020
+IND1302,IND115,India,IND96,Uttar Pradesh,Kannauj,5340.442652835553,2.0,Member State,IND,ND,2020
+IND1303,IND115,India,IND96,Uttar Pradesh,Kanpur,26838.164540833935,2.0,Member State,IND,ND,2020
+IND1304,IND115,India,IND96,Uttar Pradesh,Kanpur Dehat,5611.880984924839,2.0,Member State,IND,ND,2020
+IND1305,IND115,India,IND96,Uttar Pradesh,Kasganj,5243.8800705635595,2.0,Member State,IND,ND,2020
+IND1306,IND115,India,IND96,Uttar Pradesh,Kaushambi,6112.293633741694,2.0,Member State,IND,ND,2020
+IND1307,IND115,India,IND96,Uttar Pradesh,Kushinagar,9434.321762249201,2.0,Member State,IND,ND,2020
+IND1308,IND115,India,IND96,Uttar Pradesh,Lakhimpur Kheri,10679.455233664277,2.0,Member State,IND,ND,2020
+IND1309,IND115,India,IND96,Uttar Pradesh,Lalitpur,3582.954446355036,2.0,Member State,IND,ND,2020
+IND1310,IND115,India,IND96,Uttar Pradesh,Lucknow,32181.981379015862,2.0,Member State,IND,ND,2020
+IND1311,IND115,India,IND96,Uttar Pradesh,Maharajganj,9418.516085129722,2.0,Member State,IND,ND,2020
+IND1312,IND115,India,IND96,Uttar Pradesh,Mahoba,2711.327384586244,2.0,Member State,IND,ND,2020
+IND1313,IND115,India,IND96,Uttar Pradesh,Mainpuri,6117.498488405716,2.0,Member State,IND,ND,2020
+IND1314,IND115,India,IND96,Uttar Pradesh,Mathura,7180.914669894255,2.0,Member State,IND,ND,2020
+IND1315,IND115,India,IND96,Uttar Pradesh,Maunathbhanjan,7224.762889781968,2.0,Member State,IND,ND,2020
+IND1316,IND115,India,IND96,Uttar Pradesh,Meerut,15929.930246744809,2.0,Member State,IND,ND,2020
+IND1317,IND115,India,IND96,Uttar Pradesh,Mirzapur,8611.078437850914,2.0,Member State,IND,ND,2020
+IND1318,IND115,India,IND96,Uttar Pradesh,Moradabad,9625.448335370258,2.0,Member State,IND,ND,2020
+IND1319,IND115,India,IND96,Uttar Pradesh,Muzaffarnagar,10155.256935329882,2.0,Member State,IND,ND,2020
+IND1320,IND115,India,IND96,Uttar Pradesh,Pilibhit,7052.482840913627,2.0,Member State,IND,ND,2020
+IND1321,IND115,India,IND96,Uttar Pradesh,Pratapgarh,10716.155791064419,2.0,Member State,IND,ND,2020
+IND1322,IND115,India,IND96,Uttar Pradesh,Rae Bareli,8210.85095297538,2.0,Member State,IND,ND,2020
+IND1323,IND115,India,IND96,Uttar Pradesh,Rampur,8437.598222953486,2.0,Member State,IND,ND,2020
+IND1324,IND115,India,IND96,Uttar Pradesh,Saharanpur,12852.403522211634,2.0,Member State,IND,ND,2020
+IND1325,IND115,India,IND96,Uttar Pradesh,Sambhal,7872.567145316302,2.0,Member State,IND,ND,2020
+IND1326,IND115,India,IND96,Uttar Pradesh,Sant Kabir Nagar,5385.5484704730225,2.0,Member State,IND,ND,2020
+IND1327,IND115,India,IND96,Uttar Pradesh,Sant Ravi Das Nagar,5070.71049409836,2.0,Member State,IND,ND,2020
+IND1328,IND115,India,IND96,Uttar Pradesh,Shahjahanpur,8585.661322452843,2.0,Member State,IND,ND,2020
+IND1329,IND115,India,IND96,Uttar Pradesh,Shamli,3393.99932030201,2.0,Member State,IND,ND,2020
+IND1330,IND115,India,IND96,Uttar Pradesh,Shravasti,3922.601833927108,2.0,Member State,IND,ND,2020
+IND1331,IND115,India,IND96,Uttar Pradesh,Siddharth Nagar,7663.217138095509,2.0,Member State,IND,ND,2020
+IND1332,IND115,India,IND96,Uttar Pradesh,Sitapur,13226.023513893238,2.0,Member State,IND,ND,2020
+IND1333,IND115,India,IND96,Uttar Pradesh,Sonbhadra,5498.459654577594,2.0,Member State,IND,ND,2020
+IND1334,IND115,India,IND96,Uttar Pradesh,Sultanpur,6624.222521560056,2.0,Member State,IND,ND,2020
+IND1335,IND115,India,IND96,Uttar Pradesh,Unnao,10631.32731790703,2.0,Member State,IND,ND,2020
+IND1336,IND115,India,IND96,Uttar Pradesh,Varanasi,20786.58223166877,2.0,Member State,IND,ND,2020
+IND1337,IND115,India,IND97,Uttarakhand,Almora,5096.8626434552125,2.0,Member State,IND,ND,2020
+IND1338,IND115,India,IND97,Uttarakhand,Bageshwar,2077.8989442761376,2.0,Member State,IND,ND,2020
+IND1339,IND115,India,IND97,Uttarakhand,Chamoli,3188.858970283316,2.0,Member State,IND,ND,2020
+IND1340,IND115,India,IND97,Uttarakhand,Champawat,2122.2087419840045,2.0,Member State,IND,ND,2020
+IND1341,IND115,India,IND97,Uttarakhand,Dehradun,15780.046233852709,2.0,Member State,IND,ND,2020
+IND1342,IND115,India,IND97,Uttarakhand,Haridwar,23624.695369990415,2.0,Member State,IND,ND,2020
+IND1343,IND115,India,IND97,Uttarakhand,Nainital,9307.298455885051,2.0,Member State,IND,ND,2020
+IND1344,IND115,India,IND97,Uttarakhand,Pauri Garhwal,4705.916383234049,2.0,Member State,IND,ND,2020
+IND1345,IND115,India,IND97,Uttarakhand,Pithoragarh,3648.2854034584648,2.0,Member State,IND,ND,2020
+IND1346,IND115,India,IND97,Uttarakhand,Rudra Prayag,1746.2186794684526,2.0,Member State,IND,ND,2020
+IND1347,IND115,India,IND97,Uttarakhand,Tehri Garhwal,4823.510793904112,2.0,Member State,IND,ND,2020
+IND1348,IND115,India,IND97,Uttarakhand,Udham Singh Nagar,15547.37172306451,2.0,Member State,IND,ND,2020
+IND1349,IND115,India,IND97,Uttarakhand,Uttarkashi,2696.2956057632405,2.0,Member State,IND,ND,2020
+IND1350,IND115,India,IND98,West Bengal,24 Parganas North,59827.49342727358,2.0,Member State,IND,ND,2020
+IND1351,IND115,India,IND98,West Bengal,24 Parganas South,100092.92528642729,2.0,Member State,IND,ND,2020
+IND1352,IND115,India,IND98,West Bengal,Alipurduar,5527.425196294795,2.0,Member State,IND,ND,2020
+IND1353,IND115,India,IND98,West Bengal,Bankura,20047.89025986688,2.0,Member State,IND,ND,2020
+IND1354,IND115,India,IND98,West Bengal,Birbhum,16345.107553222606,2.0,Member State,IND,ND,2020
+IND1355,IND115,India,IND98,West Bengal,Dakshin Dinajpur,7416.1131654634555,2.0,Member State,IND,ND,2020
+IND1356,IND115,India,IND98,West Bengal,Darjeeling,7454.539840227223,2.0,Member State,IND,ND,2020
+IND1357,IND115,India,IND98,West Bengal,Hooghly,24360.731340119273,2.0,Member State,IND,ND,2020
+IND1358,IND115,India,IND98,West Bengal,Howrah,29082.464682705788,2.0,Member State,IND,ND,2020
+IND1359,IND115,India,IND98,West Bengal,Jalpaiguri,10923.159146273805,2.0,Member State,IND,ND,2020
+IND1360,IND115,India,IND98,West Bengal,Jhargram,6056.34359043548,2.0,Member State,IND,ND,2020
+IND1361,IND115,India,IND98,West Bengal,Kalimpong,1217.3075542326278,2.0,Member State,IND,ND,2020
+IND1362,IND115,India,IND98,West Bengal,Koch Bihar,13385.391866759472,2.0,Member State,IND,ND,2020
+IND1363,IND115,India,IND98,West Bengal,Kolkata,28967.307042130815,2.0,Member State,IND,ND,2020
+IND1364,IND115,India,IND98,West Bengal,Malda,16464.028281661314,2.0,Member State,IND,ND,2020
+IND1365,IND115,India,IND98,West Bengal,Murshidabad,28902.31586803769,2.0,Member State,IND,ND,2020
+IND1366,IND115,India,IND98,West Bengal,Nadia,22013.56829035996,2.0,Member State,IND,ND,2020
+IND1367,IND115,India,IND98,West Bengal,Paschim Barddhaman,12444.222269463331,2.0,Member State,IND,ND,2020
+IND1368,IND115,India,IND98,West Bengal,Paschim Medinipur,26208.67149334509,2.0,Member State,IND,ND,2020
+IND1369,IND115,India,IND98,West Bengal,Purba Barddhaman,18681.28271832381,2.0,Member State,IND,ND,2020
+IND1370,IND115,India,IND98,West Bengal,Purba Medinipur,22825.394647503203,2.0,Member State,IND,ND,2020
+IND1371,IND115,India,IND98,West Bengal,Purulia,14087.82376875438,2.0,Member State,IND,ND,2020
+IND1372,IND115,India,IND98,West Bengal,Uttar Dinajpur,12795.035733613611,2.0,Member State,IND,ND,2020
+IND668,IND115,India,IND63,Andaman and Nicobar Islands,Nicobar Islands,129.08723723769785,2.0,Member State,IND,ND,2020
+IND669,IND115,India,IND63,Andaman and Nicobar Islands,North and Middle Andaman,776.8820470531124,2.0,Member State,IND,ND,2020
+IND670,IND115,India,IND63,Andaman and Nicobar Islands,South Andaman,1919.7051454872537,2.0,Member State,IND,ND,2020
+IND671,IND115,India,IND64,Andhra Pradesh,Anantapur,29092.523076035708,2.0,Member State,IND,ND,2020
+IND672,IND115,India,IND64,Andhra Pradesh,Chittoor,30727.52934015294,2.0,Member State,IND,ND,2020
+IND673,IND115,India,IND64,Andhra Pradesh,Cuddapah,21162.58729569884,2.0,Member State,IND,ND,2020
+IND674,IND115,India,IND64,Andhra Pradesh,East Godavari,50167.02239503716,2.0,Member State,IND,ND,2020
+IND675,IND115,India,IND64,Andhra Pradesh,Guntur,48647.92392505912,2.0,Member State,IND,ND,2020
+IND676,IND115,India,IND64,Andhra Pradesh,Krishna,30342.621656480205,2.0,Member State,IND,ND,2020
+IND677,IND115,India,IND64,Andhra Pradesh,Kurnool,27963.35192710637,2.0,Member State,IND,ND,2020
+IND678,IND115,India,IND64,Andhra Pradesh,Nellore,18569.99605065584,2.0,Member State,IND,ND,2020
+IND679,IND115,India,IND64,Andhra Pradesh,Prakasam,25880.20222295828,2.0,Member State,IND,ND,2020
+IND680,IND115,India,IND64,Andhra Pradesh,Srikakulam,18440.449699373567,2.0,Member State,IND,ND,2020
+IND681,IND115,India,IND64,Andhra Pradesh,Vishakhapatnam,48951.12479191576,2.0,Member State,IND,ND,2020
+IND682,IND115,India,IND64,Andhra Pradesh,Vizianagaram,14227.387229455473,2.0,Member State,IND,ND,2020
+IND683,IND115,India,IND64,Andhra Pradesh,West Godavari,31143.53578851879,2.0,Member State,IND,ND,2020
+IND684,IND115,India,IND65,Arunachal Pradesh,Anjaw,116.36138911091409,2.0,Member State,IND,ND,2020
+IND685,IND115,India,IND65,Arunachal Pradesh,Changlang,1525.0897264753912,2.0,Member State,IND,ND,2020
+IND686,IND115,India,IND65,Arunachal Pradesh,East Siang,387.10661477337464,2.0,Member State,IND,ND,2020
+IND687,IND115,India,IND65,Arunachal Pradesh,Lohit,408.3791506229119,2.0,Member State,IND,ND,2020
+IND688,IND115,India,IND65,Arunachal Pradesh,Longding,547.3096910860695,2.0,Member State,IND,ND,2020
+IND689,IND115,India,IND65,Arunachal Pradesh,Lower Dibang Valley,402.35677253032526,2.0,Member State,IND,ND,2020
+IND690,IND115,India,IND65,Arunachal Pradesh,Namsai,900.3451652082547,2.0,Member State,IND,ND,2020
+IND691,IND115,India,IND65,Arunachal Pradesh,Tirap,524.8566281214863,2.0,Member State,IND,ND,2020
+IND692,IND115,India,IND66,Assam,Baksa,4070.73640683727,2.0,Member State,IND,ND,2020
+IND693,IND115,India,IND66,Assam,Barpeta,5826.716770324575,2.0,Member State,IND,ND,2020
+IND694,IND115,India,IND66,Assam,Biswanath,2991.2264004241624,2.0,Member State,IND,ND,2020
+IND695,IND115,India,IND66,Assam,Bongaigaon,3681.1433492654096,2.0,Member State,IND,ND,2020
+IND696,IND115,India,IND66,Assam,Cachar,8534.297493658083,2.0,Member State,IND,ND,2020
+IND697,IND115,India,IND66,Assam,Charaideo,1774.805072798733,2.0,Member State,IND,ND,2020
+IND698,IND115,India,IND66,Assam,Chirang,1763.5059361737274,2.0,Member State,IND,ND,2020
+IND699,IND115,India,IND66,Assam,Darrang,3584.6397184156085,2.0,Member State,IND,ND,2020
+IND700,IND115,India,IND66,Assam,Dhemaji,2385.0707407294008,2.0,Member State,IND,ND,2020
+IND701,IND115,India,IND66,Assam,Dhubri,6525.336131983774,2.0,Member State,IND,ND,2020
+IND702,IND115,India,IND66,Assam,Dibrugarh,5119.659188948798,2.0,Member State,IND,ND,2020
+IND703,IND115,India,IND66,Assam,Dima Hasao,811.9438415426109,2.0,Member State,IND,ND,2020
+IND704,IND115,India,IND66,Assam,Goalpara,3580.1345344382994,2.0,Member State,IND,ND,2020
+IND705,IND115,India,IND66,Assam,Golaghat,4268.431162086471,2.0,Member State,IND,ND,2020
+IND706,IND115,India,IND66,Assam,Hailakandi,2581.8375867459736,2.0,Member State,IND,ND,2020
+IND707,IND115,India,IND66,Assam,Hojai,4407.836310205254,2.0,Member State,IND,ND,2020
+IND708,IND115,India,IND66,Assam,Jorhat,3336.8902754895357,2.0,Member State,IND,ND,2020
+IND709,IND115,India,IND66,Assam,Kamrup,5020.950101558218,2.0,Member State,IND,ND,2020
+IND710,IND115,India,IND66,Assam,Kamrup Metropolitan,14277.212677630687,2.0,Member State,IND,ND,2020
+IND711,IND115,India,IND66,Assam,Karbi Anglong,3037.3420259087166,2.0,Member State,IND,ND,2020
+IND712,IND115,India,IND66,Assam,Karimganj,3894.026130333567,2.0,Member State,IND,ND,2020
+IND713,IND115,India,IND66,Assam,Kokrajhar,4725.554118657797,2.0,Member State,IND,ND,2020
+IND714,IND115,India,IND66,Assam,Lakhimpur,3790.561229171726,2.0,Member State,IND,ND,2020
+IND715,IND115,India,IND66,Assam,Majuli,529.7601060278362,2.0,Member State,IND,ND,2020
+IND716,IND115,India,IND66,Assam,Marigaon,3668.7057561828437,2.0,Member State,IND,ND,2020
+IND717,IND115,India,IND66,Assam,Nagaon,10238.11950262234,2.0,Member State,IND,ND,2020
+IND718,IND115,India,IND66,Assam,Nalbari,4050.994224909577,2.0,Member State,IND,ND,2020
+IND719,IND115,India,IND66,Assam,Sibsagar,2986.7095289217286,2.0,Member State,IND,ND,2020
+IND720,IND115,India,IND66,Assam,Sonitpur,6746.406672076159,2.0,Member State,IND,ND,2020
+IND721,IND115,India,IND66,Assam,South Salmara-Mankachar,2056.7624186693306,2.0,Member State,IND,ND,2020
+IND722,IND115,India,IND66,Assam,Tinsukia,4688.333961929279,2.0,Member State,IND,ND,2020
+IND723,IND115,India,IND66,Assam,Udalguri,3255.6380731429476,2.0,Member State,IND,ND,2020
+IND724,IND115,India,IND66,Assam,West Karbi Anglong,1564.6991845613582,2.0,Member State,IND,ND,2020
+IND725,IND115,India,IND67,Bihar,Araria,9296.335498050688,2.0,Member State,IND,ND,2020
+IND726,IND115,India,IND67,Bihar,Arwal,1584.7255859745965,2.0,Member State,IND,ND,2020
+IND727,IND115,India,IND67,Bihar,Aurangabad,5026.063231814777,2.0,Member State,IND,ND,2020
+IND728,IND115,India,IND67,Bihar,Banka,6149.217368348156,2.0,Member State,IND,ND,2020
+IND729,IND115,India,IND67,Bihar,Begusarai,7994.484599061789,2.0,Member State,IND,ND,2020
+IND730,IND115,India,IND67,Bihar,Bhagalpur,5011.403632587728,2.0,Member State,IND,ND,2020
+IND731,IND115,India,IND67,Bihar,Bhojpur,5684.432283805346,2.0,Member State,IND,ND,2020
+IND732,IND115,India,IND67,Bihar,Buxar,3795.5736318905374,2.0,Member State,IND,ND,2020
+IND733,IND115,India,IND67,Bihar,Darbhanga,9323.972568468484,2.0,Member State,IND,ND,2020
+IND734,IND115,India,IND67,Bihar,East Champaran,11508.572070537988,2.0,Member State,IND,ND,2020
+IND735,IND115,India,IND67,Bihar,Gaya,8496.543515020747,2.0,Member State,IND,ND,2020
+IND736,IND115,India,IND67,Bihar,Gopalganj,5866.67974706599,2.0,Member State,IND,ND,2020
+IND737,IND115,India,IND67,Bihar,Jamui,4372.407891305912,2.0,Member State,IND,ND,2020
+IND738,IND115,India,IND67,Bihar,Jehanabad,2572.6310396609615,2.0,Member State,IND,ND,2020
+IND739,IND115,India,IND67,Bihar,Kaimur,4492.685545990408,2.0,Member State,IND,ND,2020
+IND740,IND115,India,IND67,Bihar,Katihar,7968.914699141541,2.0,Member State,IND,ND,2020
+IND741,IND115,India,IND67,Bihar,Khagaria,3132.236332720662,2.0,Member State,IND,ND,2020
+IND742,IND115,India,IND67,Bihar,Kishanganj,4010.3899661807063,2.0,Member State,IND,ND,2020
+IND743,IND115,India,IND67,Bihar,Lakhisarai,2465.389815457641,2.0,Member State,IND,ND,2020
+IND744,IND115,India,IND67,Bihar,Madhepura,5074.74723065256,2.0,Member State,IND,ND,2020
+IND745,IND115,India,IND67,Bihar,Madhubani,8296.175783932042,2.0,Member State,IND,ND,2020
+IND746,IND115,India,IND67,Bihar,Munger,2715.2264732682065,2.0,Member State,IND,ND,2020
+IND747,IND115,India,IND67,Bihar,Muzaffarpur,13129.90303660224,2.0,Member State,IND,ND,2020
+IND748,IND115,India,IND67,Bihar,Nalanda,6853.80618102836,2.0,Member State,IND,ND,2020
+IND749,IND115,India,IND67,Bihar,Nawada,6392.445336281115,2.0,Member State,IND,ND,2020
+IND750,IND115,India,IND67,Bihar,Patna,14648.561570265447,2.0,Member State,IND,ND,2020
+IND751,IND115,India,IND67,Bihar,Purnia,9021.272251579909,2.0,Member State,IND,ND,2020
+IND752,IND115,India,IND67,Bihar,Rohtas,7206.951097669746,2.0,Member State,IND,ND,2020
+IND753,IND115,India,IND67,Bihar,Saharsa,4701.66897125334,2.0,Member State,IND,ND,2020
+IND754,IND115,India,IND67,Bihar,Samastipur,8737.364240584244,2.0,Member State,IND,ND,2020
+IND755,IND115,India,IND67,Bihar,Saran,9329.582369242515,2.0,Member State,IND,ND,2020
+IND756,IND115,India,IND67,Bihar,Sheikhpura,1325.196622834566,2.0,Member State,IND,ND,2020
+IND757,IND115,India,IND67,Bihar,Sheohar,1511.0840932224085,2.0,Member State,IND,ND,2020
+IND758,IND115,India,IND67,Bihar,Sitamarhi,6835.808452107407,2.0,Member State,IND,ND,2020
+IND759,IND115,India,IND67,Bihar,Siwan,7658.318220999285,2.0,Member State,IND,ND,2020
+IND760,IND115,India,IND67,Bihar,Supaul,5971.746768523738,2.0,Member State,IND,ND,2020
+IND761,IND115,India,IND67,Bihar,Vaishali,13144.816652211928,2.0,Member State,IND,ND,2020
+IND762,IND115,India,IND67,Bihar,West Champaran,10495.829360728587,2.0,Member State,IND,ND,2020
+IND763,IND115,India,IND68,Chandigarh,Chandigarh,10366.16898077077,2.0,Member State,IND,ND,2020
+IND764,IND115,India,IND69,Chhattisgarh,Balod,4618.58012568437,2.0,Member State,IND,ND,2020
+IND765,IND115,India,IND69,Chhattisgarh,Baloda Bazar,5696.670457947292,2.0,Member State,IND,ND,2020
+IND766,IND115,India,IND69,Chhattisgarh,Balrampur,4405.313639131118,2.0,Member State,IND,ND,2020
+IND767,IND115,India,IND69,Chhattisgarh,Bastar,3071.958589355427,2.0,Member State,IND,ND,2020
+IND768,IND115,India,IND69,Chhattisgarh,Bemetara,4540.854992732986,2.0,Member State,IND,ND,2020
+IND769,IND115,India,IND69,Chhattisgarh,Bijapur,1703.2687138072802,2.0,Member State,IND,ND,2020
+IND770,IND115,India,IND69,Chhattisgarh,Bilaspur,9725.511365751803,2.0,Member State,IND,ND,2020
+IND771,IND115,India,IND69,Chhattisgarh,Dantewada,1586.2905442422127,2.0,Member State,IND,ND,2020
+IND772,IND115,India,IND69,Chhattisgarh,Dhamtari,3322.8407894946326,2.0,Member State,IND,ND,2020
+IND773,IND115,India,IND69,Chhattisgarh,Durg,9622.44940503599,2.0,Member State,IND,ND,2020
+IND774,IND115,India,IND69,Chhattisgarh,Gariaband,3915.5453641391455,2.0,Member State,IND,ND,2020
+IND775,IND115,India,IND69,Chhattisgarh,Janjgir-Champa,6541.41754726597,2.0,Member State,IND,ND,2020
+IND776,IND115,India,IND69,Chhattisgarh,Jashpur,5469.611516258077,2.0,Member State,IND,ND,2020
+IND777,IND115,India,IND69,Chhattisgarh,Kanker,5091.80155642024,2.0,Member State,IND,ND,2020
+IND778,IND115,India,IND69,Chhattisgarh,Kawardha,4718.174193924708,2.0,Member State,IND,ND,2020
+IND779,IND115,India,IND69,Chhattisgarh,Kondagaon,3970.82195346276,2.0,Member State,IND,ND,2020
+IND780,IND115,India,IND69,Chhattisgarh,Korba,5173.23611894865,2.0,Member State,IND,ND,2020
+IND781,IND115,India,IND69,Chhattisgarh,Koriya,4501.87124076674,2.0,Member State,IND,ND,2020
+IND782,IND115,India,IND69,Chhattisgarh,Mahasamund,5611.773933461364,2.0,Member State,IND,ND,2020
+IND783,IND115,India,IND69,Chhattisgarh,Mungeli,2721.5975257711966,2.0,Member State,IND,ND,2020
+IND784,IND115,India,IND69,Chhattisgarh,Narayanpur,811.0451584891512,2.0,Member State,IND,ND,2020
+IND785,IND115,India,IND69,Chhattisgarh,Raigarh,10227.07387206951,2.0,Member State,IND,ND,2020
+IND786,IND115,India,IND69,Chhattisgarh,Raipur,11129.170976768604,2.0,Member State,IND,ND,2020
+IND787,IND115,India,IND69,Chhattisgarh,Rajnandgaon,11054.863972945417,2.0,Member State,IND,ND,2020
+IND788,IND115,India,IND69,Chhattisgarh,Sukma,1709.7931333738052,2.0,Member State,IND,ND,2020
+IND789,IND115,India,IND69,Chhattisgarh,Surajpur,5192.351922142237,2.0,Member State,IND,ND,2020
+IND790,IND115,India,IND69,Chhattisgarh,Surguja,3469.499792731706,2.0,Member State,IND,ND,2020
+IND791,IND115,India,IND70,Dadra and Nagar Haveli,Dadra and Nagar Haveli,3244.7905036099396,2.0,Member State,IND,ND,2020
+IND792,IND115,India,IND71,Daman and Diu,Daman,737.9735154528569,2.0,Member State,IND,ND,2020
+IND793,IND115,India,IND71,Daman and Diu,Diu,148.1392200825465,2.0,Member State,IND,ND,2020
+IND794,IND115,India,IND72,Delhi,Central,24413.76940175692,2.0,Member State,IND,ND,2020
+IND795,IND115,India,IND72,Delhi,East,22943.147856595726,2.0,Member State,IND,ND,2020
+IND796,IND115,India,IND72,Delhi,New Delhi,38932.887604941054,2.0,Member State,IND,ND,2020
+IND797,IND115,India,IND72,Delhi,North,27062.195553419373,2.0,Member State,IND,ND,2020
+IND798,IND115,India,IND72,Delhi,North East,16056.425087541144,2.0,Member State,IND,ND,2020
+IND799,IND115,India,IND72,Delhi,North West,29989.465520149166,2.0,Member State,IND,ND,2020
+IND800,IND115,India,IND72,Delhi,Shahdara,19307.79229399386,2.0,Member State,IND,ND,2020
+IND801,IND115,India,IND72,Delhi,South,30516.15877204508,2.0,Member State,IND,ND,2020
+IND802,IND115,India,IND72,Delhi,South East,28932.665868949905,2.0,Member State,IND,ND,2020
+IND803,IND115,India,IND72,Delhi,South West,28236.66795875252,2.0,Member State,IND,ND,2020
+IND804,IND115,India,IND72,Delhi,West,45045.671444621265,2.0,Member State,IND,ND,2020
+IND805,IND115,India,IND73,Goa,North Goa,13030.784015950821,2.0,Member State,IND,ND,2020
+IND806,IND115,India,IND73,Goa,South Goa,11108.87152473204,2.0,Member State,IND,ND,2020
+IND807,IND115,India,IND74,Gujarat,Ahmedabad,155008.84962355057,2.0,Member State,IND,ND,2020
+IND808,IND115,India,IND74,Gujarat,Amreli,8407.691467050754,2.0,Member State,IND,ND,2020
+IND809,IND115,India,IND74,Gujarat,Anand,28705.47290081849,2.0,Member State,IND,ND,2020
+IND810,IND115,India,IND74,Gujarat,Aravalli,6026.644724550286,2.0,Member State,IND,ND,2020
+IND811,IND115,India,IND74,Gujarat,Banas Kantha,16597.64828719879,2.0,Member State,IND,ND,2020
+IND812,IND115,India,IND74,Gujarat,Bharuch,11572.81610639826,2.0,Member State,IND,ND,2020
+IND813,IND115,India,IND74,Gujarat,Bhavnagar,17072.106106853927,2.0,Member State,IND,ND,2020
+IND814,IND115,India,IND74,Gujarat,Botad,5539.5280128624,2.0,Member State,IND,ND,2020
+IND815,IND115,India,IND74,Gujarat,Chhota Udaipur,5998.74197946284,2.0,Member State,IND,ND,2020
+IND816,IND115,India,IND74,Gujarat,Dahod,12804.2703605858,2.0,Member State,IND,ND,2020
+IND817,IND115,India,IND74,Gujarat,Devbhoomi Dwarka,4496.803621604781,2.0,Member State,IND,ND,2020
+IND818,IND115,India,IND74,Gujarat,Gandhinagar,6829.481090507183,2.0,Member State,IND,ND,2020
+IND819,IND115,India,IND74,Gujarat,Gir Somnath,5588.9996896838,2.0,Member State,IND,ND,2020
+IND820,IND115,India,IND74,Gujarat,Jamnagar,8596.176373799275,2.0,Member State,IND,ND,2020
+IND821,IND115,India,IND74,Gujarat,Junagadh,8331.800011605521,2.0,Member State,IND,ND,2020
+IND822,IND115,India,IND74,Gujarat,Kachchh,13909.187538961281,2.0,Member State,IND,ND,2020
+IND823,IND115,India,IND74,Gujarat,Kheda,9505.675027567491,2.0,Member State,IND,ND,2020
+IND824,IND115,India,IND74,Gujarat,Mahesana,14247.502128404127,2.0,Member State,IND,ND,2020
+IND825,IND115,India,IND74,Gujarat,Mahisagar,5590.932573945859,2.0,Member State,IND,ND,2020
+IND826,IND115,India,IND74,Gujarat,Morbi,6042.694729667945,2.0,Member State,IND,ND,2020
+IND827,IND115,India,IND74,Gujarat,Narmada,3744.2810279513915,2.0,Member State,IND,ND,2020
+IND828,IND115,India,IND74,Gujarat,Navsari,8675.915741219622,2.0,Member State,IND,ND,2020
+IND829,IND115,India,IND74,Gujarat,Panch Mahals,13134.476506681425,2.0,Member State,IND,ND,2020
+IND830,IND115,India,IND74,Gujarat,Patan,8234.443767129844,2.0,Member State,IND,ND,2020
+IND831,IND115,India,IND74,Gujarat,Porbandar,3682.116938550044,2.0,Member State,IND,ND,2020
+IND832,IND115,India,IND74,Gujarat,Rajkot,34238.93488052981,2.0,Member State,IND,ND,2020
+IND833,IND115,India,IND74,Gujarat,Sabar Kantha,8764.980943354778,2.0,Member State,IND,ND,2020
+IND834,IND115,India,IND74,Gujarat,Surat,154615.1266139694,2.0,Member State,IND,ND,2020
+IND835,IND115,India,IND74,Gujarat,Surendranagar,9157.220577787599,2.0,Member State,IND,ND,2020
+IND836,IND115,India,IND74,Gujarat,Tapi,6666.787982159789,2.0,Member State,IND,ND,2020
+IND837,IND115,India,IND74,Gujarat,The Dangs,1348.9250361488587,2.0,Member State,IND,ND,2020
+IND838,IND115,India,IND74,Gujarat,Vadodara,37639.10153102268,2.0,Member State,IND,ND,2020
+IND839,IND115,India,IND74,Gujarat,Valsad,16140.674573348326,2.0,Member State,IND,ND,2020
+IND840,IND115,India,IND75,Haryana,Ambala,11771.221921638366,2.0,Member State,IND,ND,2020
+IND841,IND115,India,IND75,Haryana,Bhiwani,9675.50874017976,2.0,Member State,IND,ND,2020
+IND842,IND115,India,IND75,Haryana,Charkhi Dadri,4225.196321484809,2.0,Member State,IND,ND,2020
+IND843,IND115,India,IND75,Haryana,Faridabad,65670.22441594051,2.0,Member State,IND,ND,2020
+IND844,IND115,India,IND75,Haryana,Fatehabad,8943.679400965293,2.0,Member State,IND,ND,2020
+IND845,IND115,India,IND75,Haryana,Gurgaon,48611.069585711266,2.0,Member State,IND,ND,2020
+IND846,IND115,India,IND75,Haryana,Hissar,13387.760232429659,2.0,Member State,IND,ND,2020
+IND847,IND115,India,IND75,Haryana,Jhajjar,9723.369403498018,2.0,Member State,IND,ND,2020
+IND848,IND115,India,IND75,Haryana,Jind,9919.103214742463,2.0,Member State,IND,ND,2020
+IND849,IND115,India,IND75,Haryana,Kaithal,7221.653448152582,2.0,Member State,IND,ND,2020
+IND850,IND115,India,IND75,Haryana,Karnal,13109.272329452137,2.0,Member State,IND,ND,2020
+IND851,IND115,India,IND75,Haryana,Kurukshetra,8221.58869636784,2.0,Member State,IND,ND,2020
+IND852,IND115,India,IND75,Haryana,Mahendragarh,7076.211298664488,2.0,Member State,IND,ND,2020
+IND853,IND115,India,IND75,Haryana,Mewat,8090.87233358464,2.0,Member State,IND,ND,2020
+IND854,IND115,India,IND75,Haryana,Palwal,13872.897849097817,2.0,Member State,IND,ND,2020
+IND855,IND115,India,IND75,Haryana,Panchkula,5783.420096908629,2.0,Member State,IND,ND,2020
+IND856,IND115,India,IND75,Haryana,Panipat,18579.597235485628,2.0,Member State,IND,ND,2020
+IND857,IND115,India,IND75,Haryana,Rewari,7742.898834397553,2.0,Member State,IND,ND,2020
+IND858,IND115,India,IND75,Haryana,Rohtak,11288.985618293647,2.0,Member State,IND,ND,2020
+IND859,IND115,India,IND75,Haryana,Sirsa,11512.232525726207,2.0,Member State,IND,ND,2020
+IND860,IND115,India,IND75,Haryana,Sonepat,17081.14364408327,2.0,Member State,IND,ND,2020
+IND861,IND115,India,IND75,Haryana,Yamuna Nagar,13328.059453272712,2.0,Member State,IND,ND,2020
+IND862,IND115,India,IND76,Himachal Pradesh,Bilaspur,3697.1453705702265,2.0,Member State,IND,ND,2020
+IND863,IND115,India,IND76,Himachal Pradesh,Chamba,4907.147341809114,2.0,Member State,IND,ND,2020
+IND864,IND115,India,IND76,Himachal Pradesh,Hamirpur,3292.967885510263,2.0,Member State,IND,ND,2020
+IND865,IND115,India,IND76,Himachal Pradesh,Kangra,12915.046899383942,2.0,Member State,IND,ND,2020
+IND866,IND115,India,IND76,Himachal Pradesh,Kinnaur,962.9830483117196,2.0,Member State,IND,ND,2020
+IND867,IND115,India,IND76,Himachal Pradesh,Kulu,3840.9749881137755,2.0,Member State,IND,ND,2020
+IND868,IND115,India,IND76,Himachal Pradesh,Lahaul and Spiti,353.91307018043904,2.0,Member State,IND,ND,2020
+IND869,IND115,India,IND76,Himachal Pradesh,Mandi,8391.509985461975,2.0,Member State,IND,ND,2020
+IND870,IND115,India,IND76,Himachal Pradesh,Shimla,8947.583834048657,2.0,Member State,IND,ND,2020
+IND871,IND115,India,IND76,Himachal Pradesh,Sirmaur,4813.95043370279,2.0,Member State,IND,ND,2020
+IND872,IND115,India,IND76,Himachal Pradesh,Solan,5226.979400875487,2.0,Member State,IND,ND,2020
+IND873,IND115,India,IND76,Himachal Pradesh,Una,4665.983382829384,2.0,Member State,IND,ND,2020
+IND874,IND115,India,IND77,Jammu and Kashmir,Anantnag,3791.5037633493694,2.0,Sovereignty unsettled,IND,ND,2020
+IND875,IND115,India,IND77,Jammu and Kashmir,Badgam,5031.46045367232,2.0,Sovereignty unsettled,IND,ND,2020
+IND876,IND115,India,IND77,Jammu and Kashmir,Bandipore,1490.3967782464217,2.0,Sovereignty unsettled,IND,ND,2020
+IND877,IND115,India,IND77,Jammu and Kashmir,Baramula,4888.746337611742,2.0,Sovereignty unsettled,IND,ND,2020
+IND878,IND115,India,IND77,Jammu and Kashmir,Doda,2416.440442511736,2.0,Sovereignty unsettled,IND,ND,2020
+IND879,IND115,India,IND77,Jammu and Kashmir,Ganderbal,4713.8064312958895,2.0,Sovereignty unsettled,IND,ND,2020
+IND880,IND115,India,IND77,Jammu and Kashmir,Jammu,7164.1242247784485,2.0,Sovereignty unsettled,IND,ND,2020
+IND881,IND115,India,IND77,Jammu and Kashmir,Kargil,820.5570515591872,2.0,Sovereignty unsettled,IND,ND,2020
+IND882,IND115,India,IND77,Jammu and Kashmir,Kathua,2998.9204920428397,2.0,Sovereignty unsettled,IND,ND,2020
+IND883,IND115,India,IND77,Jammu and Kashmir,Kishtwar,813.60296751036,2.0,Sovereignty unsettled,IND,ND,2020
+IND884,IND115,India,IND77,Jammu and Kashmir,Kulgam,2956.671345087849,2.0,Sovereignty unsettled,IND,ND,2020
+IND885,IND115,India,IND77,Jammu and Kashmir,Kupwara,3550.1925089869433,2.0,Sovereignty unsettled,IND,ND,2020
+IND886,IND115,India,IND77,Jammu and Kashmir,Leh,740.7460578630698,2.0,Sovereignty unsettled,IND,ND,2020
+IND887,IND115,India,IND77,Jammu and Kashmir,Poonch,2311.716415550471,2.0,Sovereignty unsettled,IND,ND,2020
+IND888,IND115,India,IND77,Jammu and Kashmir,Pulwama,2824.1668797404554,2.0,Sovereignty unsettled,IND,ND,2020
+IND889,IND115,India,IND77,Jammu and Kashmir,Rajauri,3121.863109940874,2.0,Sovereignty unsettled,IND,ND,2020
+IND890,IND115,India,IND77,Jammu and Kashmir,Ramban,1419.2098626961204,2.0,Sovereignty unsettled,IND,ND,2020
+IND891,IND115,India,IND77,Jammu and Kashmir,Reasi,1640.411084212899,2.0,Sovereignty unsettled,IND,ND,2020
+IND892,IND115,India,IND77,Jammu and Kashmir,Samba,1620.1328436512506,2.0,Sovereignty unsettled,IND,ND,2020
+IND893,IND115,India,IND77,Jammu and Kashmir,Shupiyan,1165.6229370416033,2.0,Sovereignty unsettled,IND,ND,2020
+IND894,IND115,India,IND77,Jammu and Kashmir,Srinagar,10045.481419367303,2.0,Sovereignty unsettled,IND,ND,2020
+IND895,IND115,India,IND77,Jammu and Kashmir,Udhampur,2369.3848746669873,2.0,Sovereignty unsettled,IND,ND,2020
+IND896,IND115,India,IND78,Jharkhand,Bokaro,8699.268529052923,2.0,Member State,IND,ND,2020
+IND897,IND115,India,IND78,Jharkhand,Chatra,3557.3634475435365,2.0,Member State,IND,ND,2020
+IND898,IND115,India,IND78,Jharkhand,Deoghar,6442.994236214408,2.0,Member State,IND,ND,2020
+IND899,IND115,India,IND78,Jharkhand,Dhanbad,25074.567152786214,2.0,Member State,IND,ND,2020
+IND900,IND115,India,IND78,Jharkhand,Dumka,4244.941299182988,2.0,Member State,IND,ND,2020
+IND901,IND115,India,IND78,Jharkhand,Garhwa,4454.275713319907,2.0,Member State,IND,ND,2020
+IND902,IND115,India,IND78,Jharkhand,Giridih,7744.931244184406,2.0,Member State,IND,ND,2020
+IND903,IND115,India,IND78,Jharkhand,Godda,4919.357536138221,2.0,Member State,IND,ND,2020
+IND904,IND115,India,IND78,Jharkhand,Gumla,3551.7228736801544,2.0,Member State,IND,ND,2020
+IND905,IND115,India,IND78,Jharkhand,Hazaribagh,5373.017588995372,2.0,Member State,IND,ND,2020
+IND906,IND115,India,IND78,Jharkhand,Jamtara,2612.638722093064,2.0,Member State,IND,ND,2020
+IND907,IND115,India,IND78,Jharkhand,Khunti,1723.786182433764,2.0,Member State,IND,ND,2020
+IND908,IND115,India,IND78,Jharkhand,Koderma,2322.370934522422,2.0,Member State,IND,ND,2020
+IND909,IND115,India,IND78,Jharkhand,Latehar,2469.1501659585274,2.0,Member State,IND,ND,2020
+IND910,IND115,India,IND78,Jharkhand,Lohardaga,1697.4533969891027,2.0,Member State,IND,ND,2020
+IND911,IND115,India,IND78,Jharkhand,Pakur,3478.395890598563,2.0,Member State,IND,ND,2020
+IND912,IND115,India,IND78,Jharkhand,Palamu,6295.562815146374,2.0,Member State,IND,ND,2020
+IND913,IND115,India,IND78,Jharkhand,Pashchim Singhbhum,6066.38380783018,2.0,Member State,IND,ND,2020
+IND914,IND115,India,IND78,Jharkhand,Purba Singhbhum,8489.852930928424,2.0,Member State,IND,ND,2020
+IND915,IND115,India,IND78,Jharkhand,Ramgarh,3348.1527261370234,2.0,Member State,IND,ND,2020
+IND916,IND115,India,IND78,Jharkhand,Ranchi,10845.771644069015,2.0,Member State,IND,ND,2020
+IND917,IND115,India,IND78,Jharkhand,Sahibganj,6429.631790001528,2.0,Member State,IND,ND,2020
+IND918,IND115,India,IND78,Jharkhand,Seraikela,3137.048281903504,2.0,Member State,IND,ND,2020
+IND919,IND115,India,IND78,Jharkhand,Simdega,1733.5931616730923,2.0,Member State,IND,ND,2020
+IND920,IND115,India,IND79,Karnataka,Bagalkot,15839.464623629525,2.0,Member State,IND,ND,2020
+IND921,IND115,India,IND79,Karnataka,Bangalore,238858.41479987136,2.0,Member State,IND,ND,2020
+IND922,IND115,India,IND79,Karnataka,Bangalore Rural,8692.787909735911,2.0,Member State,IND,ND,2020
+IND923,IND115,India,IND79,Karnataka,Belgaum,49642.04657433929,2.0,Member State,IND,ND,2020
+IND924,IND115,India,IND79,Karnataka,Bellary,22958.929579712338,2.0,Member State,IND,ND,2020
+IND925,IND115,India,IND79,Karnataka,Bidar,14842.56010868356,2.0,Member State,IND,ND,2020
+IND926,IND115,India,IND79,Karnataka,Bijapur,16178.721069346739,2.0,Member State,IND,ND,2020
+IND927,IND115,India,IND79,Karnataka,Chamrajnagar,9706.205039290673,2.0,Member State,IND,ND,2020
+IND928,IND115,India,IND79,Karnataka,Chikballapura,10129.831351742641,2.0,Member State,IND,ND,2020
+IND929,IND115,India,IND79,Karnataka,Chikmagalur,8519.122941107853,2.0,Member State,IND,ND,2020
+IND930,IND115,India,IND79,Karnataka,Chitradurga,12694.064665536882,2.0,Member State,IND,ND,2020
+IND931,IND115,India,IND79,Karnataka,Dakshina Kannada,18235.17797165766,2.0,Member State,IND,ND,2020
+IND932,IND115,India,IND79,Karnataka,Davanagere,14910.611576100202,2.0,Member State,IND,ND,2020
+IND933,IND115,India,IND79,Karnataka,Dharwad,24847.309138739176,2.0,Member State,IND,ND,2020
+IND934,IND115,India,IND79,Karnataka,Gadag,10346.135703086797,2.0,Member State,IND,ND,2020
+IND935,IND115,India,IND79,Karnataka,Gulbarga,20476.77352738741,2.0,Member State,IND,ND,2020
+IND936,IND115,India,IND79,Karnataka,Hassan,14150.263316944696,2.0,Member State,IND,ND,2020
+IND937,IND115,India,IND79,Karnataka,Haveri,15164.126198470407,2.0,Member State,IND,ND,2020
+IND938,IND115,India,IND79,Karnataka,Kodagu,4368.014025549965,2.0,Member State,IND,ND,2020
+IND939,IND115,India,IND79,Karnataka,Kolar,12104.597182845044,2.0,Member State,IND,ND,2020
+IND940,IND115,India,IND79,Karnataka,Koppal,12541.973772484494,2.0,Member State,IND,ND,2020
+IND941,IND115,India,IND79,Karnataka,Mandya,14643.99769221144,2.0,Member State,IND,ND,2020
+IND942,IND115,India,IND79,Karnataka,Mysore,39784.39737484302,2.0,Member State,IND,ND,2020
+IND943,IND115,India,IND79,Karnataka,Raichur,14684.012844348623,2.0,Member State,IND,ND,2020
+IND944,IND115,India,IND79,Karnataka,Ramanagara,8992.254983099509,2.0,Member State,IND,ND,2020
+IND945,IND115,India,IND79,Karnataka,Shimoga,15721.052587822813,2.0,Member State,IND,ND,2020
+IND946,IND115,India,IND79,Karnataka,Tumkur,23946.58753448743,2.0,Member State,IND,ND,2020
+IND947,IND115,India,IND79,Karnataka,Udupi,7248.676827561771,2.0,Member State,IND,ND,2020
+IND948,IND115,India,IND79,Karnataka,Uttara Kannada,10450.710771674185,2.0,Member State,IND,ND,2020
+IND949,IND115,India,IND79,Karnataka,Yadgir,8441.57864615792,2.0,Member State,IND,ND,2020
+IND950,IND115,India,IND80,Kerala,Alappuzha,19655.397640234685,2.0,Member State,IND,ND,2020
+IND951,IND115,India,IND80,Kerala,Ernakulam,35011.18742964864,2.0,Member State,IND,ND,2020
+IND952,IND115,India,IND80,Kerala,Idukki,10771.44823707668,2.0,Member State,IND,ND,2020
+IND953,IND115,India,IND80,Kerala,Kannur,20038.549737978403,2.0,Member State,IND,ND,2020
+IND954,IND115,India,IND80,Kerala,Kasargod,9567.477365628327,2.0,Member State,IND,ND,2020
+IND955,IND115,India,IND80,Kerala,Kollam,27727.521716402036,2.0,Member State,IND,ND,2020
+IND956,IND115,India,IND80,Kerala,Kottayam,18975.41007475701,2.0,Member State,IND,ND,2020
+IND957,IND115,India,IND80,Kerala,Kozhikode,33780.77658018893,2.0,Member State,IND,ND,2020
+IND958,IND115,India,IND80,Kerala,Malappuram,63385.93973881119,2.0,Member State,IND,ND,2020
+IND959,IND115,India,IND80,Kerala,Palakkad,26871.63482302649,2.0,Member State,IND,ND,2020
+IND960,IND115,India,IND80,Kerala,Pathanamthitta,13690.281434296505,2.0,Member State,IND,ND,2020
+IND961,IND115,India,IND80,Kerala,Thiruvananthapuram,32914.41999390672,2.0,Member State,IND,ND,2020
+IND962,IND115,India,IND80,Kerala,Thrissur,37347.79910200472,2.0,Member State,IND,ND,2020
+IND963,IND115,India,IND80,Kerala,Wayanad,11279.460537247694,2.0,Member State,IND,ND,2020
+IND964,IND115,India,IND81,Lakshadweep,Lakshadweep,0.0,,Member State,IND,ND,
+IND965,IND115,India,IND82,Madhya Pradesh,Agar Malwa,3754.8308633895813,2.0,Member State,IND,ND,2020
+IND966,IND115,India,IND82,Madhya Pradesh,Alirajpur,6309.7624135433825,2.0,Member State,IND,ND,2020
+IND967,IND115,India,IND82,Madhya Pradesh,Anuppur,3702.150099386131,2.0,Member State,IND,ND,2020
+IND968,IND115,India,IND82,Madhya Pradesh,Ashoknagar,4584.651869326552,2.0,Member State,IND,ND,2020
+IND969,IND115,India,IND82,Madhya Pradesh,Balaghat,7499.7985055504705,2.0,Member State,IND,ND,2020
+IND970,IND115,India,IND82,Madhya Pradesh,Barwani,7334.915063737114,2.0,Member State,IND,ND,2020
+IND971,IND115,India,IND82,Madhya Pradesh,Betul,7186.31203328156,2.0,Member State,IND,ND,2020
+IND972,IND115,India,IND82,Madhya Pradesh,Bhind,5285.718144045286,2.0,Member State,IND,ND,2020
+IND973,IND115,India,IND82,Madhya Pradesh,Bhopal,30302.018805295913,2.0,Member State,IND,ND,2020
+IND974,IND115,India,IND82,Madhya Pradesh,Burhanpur,2767.2739328108587,2.0,Member State,IND,ND,2020
+IND975,IND115,India,IND82,Madhya Pradesh,Chhatarpur,8787.151454315019,2.0,Member State,IND,ND,2020
+IND976,IND115,India,IND82,Madhya Pradesh,Chhindwara,9422.073303895066,2.0,Member State,IND,ND,2020
+IND977,IND115,India,IND82,Madhya Pradesh,Damoh,5115.852239426504,2.0,Member State,IND,ND,2020
+IND978,IND115,India,IND82,Madhya Pradesh,Datia,2511.496461505998,2.0,Member State,IND,ND,2020
+IND979,IND115,India,IND82,Madhya Pradesh,Dewas,6216.525188325704,2.0,Member State,IND,ND,2020
+IND980,IND115,India,IND82,Madhya Pradesh,Dhar,11424.968489702367,2.0,Member State,IND,ND,2020
+IND981,IND115,India,IND82,Madhya Pradesh,Dindori,4512.827273028244,2.0,Member State,IND,ND,2020
+IND982,IND115,India,IND82,Madhya Pradesh,East Nimar,5325.06732051504,2.0,Member State,IND,ND,2020
+IND983,IND115,India,IND82,Madhya Pradesh,Guna,4823.722376230964,2.0,Member State,IND,ND,2020
+IND984,IND115,India,IND82,Madhya Pradesh,Gwalior,14427.149823209285,2.0,Member State,IND,ND,2020
+IND985,IND115,India,IND82,Madhya Pradesh,Harda,2780.1870142895646,2.0,Member State,IND,ND,2020
+IND986,IND115,India,IND82,Madhya Pradesh,Hoshangabad,6434.540996353602,2.0,Member State,IND,ND,2020
+IND987,IND115,India,IND82,Madhya Pradesh,Indore,43379.77319889878,2.0,Member State,IND,ND,2020
+IND988,IND115,India,IND82,Madhya Pradesh,Jabalpur,13877.677740520357,2.0,Member State,IND,ND,2020
+IND989,IND115,India,IND82,Madhya Pradesh,Jhabua,5398.60045089871,2.0,Member State,IND,ND,2020
+IND990,IND115,India,IND82,Madhya Pradesh,Katni,5388.321883234027,2.0,Member State,IND,ND,2020
+IND991,IND115,India,IND82,Madhya Pradesh,Mandla,4665.209714542386,2.0,Member State,IND,ND,2020
+IND992,IND115,India,IND82,Madhya Pradesh,Mandsaur,6759.473621734461,2.0,Member State,IND,ND,2020
+IND993,IND115,India,IND82,Madhya Pradesh,Morena,8517.170821810929,2.0,Member State,IND,ND,2020
+IND994,IND115,India,IND82,Madhya Pradesh,Narsinghpur,4844.490849158446,2.0,Member State,IND,ND,2020
+IND995,IND115,India,IND82,Madhya Pradesh,Neemuch,5057.34659009146,2.0,Member State,IND,ND,2020
+IND996,IND115,India,IND82,Madhya Pradesh,Panna,5316.966078681258,2.0,Member State,IND,ND,2020
+IND997,IND115,India,IND82,Madhya Pradesh,Raisen,6943.510854403217,2.0,Member State,IND,ND,2020
+IND998,IND115,India,IND82,Madhya Pradesh,Rajgarh,7666.196672289528,2.0,Member State,IND,ND,2020
+IND999,IND115,India,IND82,Madhya Pradesh,Ratlam,5348.363383287006,2.0,Member State,IND,ND,2020
+LKA1373,LKA231,Sri Lanka,LKA99,Central,Kandy,18924.70947025683,2.0,Member State,LKA,ND,2020
+LKA1374,LKA231,Sri Lanka,LKA99,Central,Matale,4658.206974898939,2.0,Member State,LKA,ND,2020
+LKA1375,LKA231,Sri Lanka,LKA99,Central,Nuwara Eliya,7074.41704887594,2.0,Member State,LKA,ND,2020
+LKA1376,LKA231,Sri Lanka,LKA100,Eastern,Ampara,6252.9332293769585,2.0,Member State,LKA,ND,2020
+LKA1377,LKA231,Sri Lanka,LKA100,Eastern,Batticaloa,3582.3360639118546,2.0,Member State,LKA,ND,2020
+LKA1378,LKA231,Sri Lanka,LKA100,Eastern,Trincomalee,2730.092151905704,2.0,Member State,LKA,ND,2020
+LKA1379,LKA231,Sri Lanka,LKA101,North Central,Anuradhapura,10871.70795440592,2.0,Member State,LKA,ND,2020
+LKA1380,LKA231,Sri Lanka,LKA101,North Central,Polonnaruwa,5520.454842355146,2.0,Member State,LKA,ND,2020
+LKA1381,LKA231,Sri Lanka,LKA102,North Western,Kurunegala,20682.20162061141,2.0,Member State,LKA,ND,2020
+LKA1382,LKA231,Sri Lanka,LKA102,North Western,Puttalam,7379.3482140723545,2.0,Member State,LKA,ND,2020
+LKA1383,LKA231,Sri Lanka,LKA103,Northern,Jaffna,4230.333717064556,2.0,Member State,LKA,ND,2020
+LKA1384,LKA231,Sri Lanka,LKA103,Northern,Kilinochchi,755.5606391292476,2.0,Member State,LKA,ND,2020
+LKA1385,LKA231,Sri Lanka,LKA103,Northern,Mannar,743.0478498232122,2.0,Member State,LKA,ND,2020
+LKA1386,LKA231,Sri Lanka,LKA103,Northern,Mullattivu,762.6287797030169,2.0,Member State,LKA,ND,2020
+LKA1387,LKA231,Sri Lanka,LKA103,Northern,Vavuniya,1956.9584724678066,2.0,Member State,LKA,ND,2020
+LKA1388,LKA231,Sri Lanka,LKA104,Sabaragamuwa,Kegalle,10941.879918394166,2.0,Member State,LKA,ND,2020
+LKA1389,LKA231,Sri Lanka,LKA104,Sabaragamuwa,Ratnapura,12217.110145073857,2.0,Member State,LKA,ND,2020
+LKA1390,LKA231,Sri Lanka,LKA105,Southern,Galle,8228.433040206539,2.0,Member State,LKA,ND,2020
+LKA1391,LKA231,Sri Lanka,LKA105,Southern,Hambantota,6230.093261931784,2.0,Member State,LKA,ND,2020
+LKA1392,LKA231,Sri Lanka,LKA105,Southern,Matara,8762.834152192518,2.0,Member State,LKA,ND,2020
+LKA1393,LKA231,Sri Lanka,LKA106,Uva,Badulla,8284.31303772976,2.0,Member State,LKA,ND,2020
+LKA1394,LKA231,Sri Lanka,LKA106,Uva,Moneragala,6794.959996047537,2.0,Member State,LKA,ND,2020
+LKA1395,LKA231,Sri Lanka,LKA107,Western,Colombo,43839.41089978921,2.0,Member State,LKA,ND,2020
+LKA1396,LKA231,Sri Lanka,LKA107,Western,Gampaha,27026.734219094407,2.0,Member State,LKA,ND,2020
+LKA1397,LKA231,Sri Lanka,LKA107,Western,Kalutara,13300.78334393682,2.0,Member State,LKA,ND,2020
+MDV1398,MDV154,Maldives,MDV108,Alifu Alifu,Administrative unit not available,0.1872018254094831,2.0,Member State,MDV,ND,2020
+MDV1399,MDV154,Maldives,MDV109,Alifu Dhaalu,Administrative unit not available,0.0,,Member State,MDV,ND,
+MDV1400,MDV154,Maldives,MDV110,Baa,Administrative unit not available,0.001036258916760929,2.0,Member State,MDV,ND,2020
+MDV1401,MDV154,Maldives,MDV111,Dhaalu,Administrative unit not available,0.0,,Member State,MDV,ND,
+MDV1402,MDV154,Maldives,MDV112,Faafu,Administrative unit not available,0.09404041444326929,2.0,Member State,MDV,ND,2020
+MDV1403,MDV154,Maldives,MDV113,Gaafu Alifu,Administrative unit not available,0.02628458893362542,2.0,Member State,MDV,ND,2020
+MDV1404,MDV154,Maldives,MDV114,Gaafu Dhaalu,Administrative unit not available,0.3356296865505811,2.0,Member State,MDV,ND,2020
+MDV1405,MDV154,Maldives,MDV115,Haa Alifu,Administrative unit not available,0.17781993399474477,2.0,Member State,MDV,ND,2020
+MDV1406,MDV154,Maldives,MDV116,Haa Dhaalu,Administrative unit not available,0.43239623151001105,2.0,Member State,MDV,ND,2020
+MDV1407,MDV154,Maldives,MDV117,Kaafu,Administrative unit not available,4.410324198746221,2.0,Member State,MDV,ND,2020
+MDV1408,MDV154,Maldives,MDV118,Laamu,Administrative unit not available,2.046456448471698,2.0,Member State,MDV,ND,2020
+MDV1409,MDV154,Maldives,MDV119,Lhaviyani,Administrative unit not available,0.0,,Member State,MDV,ND,
+MDV1410,MDV154,Maldives,MDV120,Male',Administrative unit not available,1.6621650298618063,2.0,Member State,MDV,ND,2020
+MDV1411,MDV154,Maldives,MDV121,Meemu,Administrative unit not available,0.08740597993903618,2.0,Member State,MDV,ND,2020
+MDV1412,MDV154,Maldives,MDV122,Noonu,Administrative unit not available,0.0,,Member State,MDV,ND,
+MDV1413,MDV154,Maldives,MDV123,Raa,Administrative unit not available,0.038271171216039644,2.0,Member State,MDV,ND,2020
+MDV1414,MDV154,Maldives,MDV124,Seenu,Administrative unit not available,8.889331506955958,2.0,Member State,MDV,ND,2020
+MDV1415,MDV154,Maldives,MDV125,Shaviyani,Administrative unit not available,0.0,,Member State,MDV,ND,
+MDV1416,MDV154,Maldives,MDV126,Thaa,Administrative unit not available,0.056329539555524076,2.0,Member State,MDV,ND,2020
+MDV1417,MDV154,Maldives,MDV127,Vaavu,Administrative unit not available,0.0,,Member State,MDV,ND,
+NPL1418,NPL175,Nepal,NPL128,Five,Arghakhanchi,718.2314666385944,2.0,Member State,NPL,ND,2020
+NPL1419,NPL175,Nepal,NPL128,Five,Banke,1124.3897711298014,2.0,Member State,NPL,ND,2020
+NPL1420,NPL175,Nepal,NPL128,Five,Bardiya,977.8790702267647,2.0,Member State,NPL,ND,2020
+NPL1421,NPL175,Nepal,NPL128,Five,Dang Deokhuri,1639.6547245877032,2.0,Member State,NPL,ND,2020
+NPL1422,NPL175,Nepal,NPL128,Five,Gulmi,868.6690956348916,2.0,Member State,NPL,ND,2020
+NPL1423,NPL175,Nepal,NPL128,Five,Kapilvastu,2027.278765364799,2.0,Member State,NPL,ND,2020
+NPL1424,NPL175,Nepal,NPL128,Five,Nawalparasi West,1211.7523523110985,2.0,Member State,NPL,ND,2020
+NPL1425,NPL175,Nepal,NPL128,Five,Palpa,919.5184513861141,2.0,Member State,NPL,ND,2020
+NPL1426,NPL175,Nepal,NPL128,Five,Pyuthan,666.4642228581117,2.0,Member State,NPL,ND,2020
+NPL1427,NPL175,Nepal,NPL128,Five,Rolpa,649.5177168676965,2.0,Member State,NPL,ND,2020
+NPL1428,NPL175,Nepal,NPL128,Five,Rukum East,178.2392661911812,2.0,Member State,NPL,ND,2020
+NPL1429,NPL175,Nepal,NPL128,Five,Rupandehi,2779.1849041673804,2.0,Member State,NPL,ND,2020
+NPL1430,NPL175,Nepal,NPL129,Four,Baglung,702.6761603621919,2.0,Member State,NPL,ND,2020
+NPL1431,NPL175,Nepal,NPL129,Four,Gorkha,823.9527364768073,2.0,Member State,NPL,ND,2020
+NPL1432,NPL175,Nepal,NPL129,Four,Kaski,1264.5117016527502,2.0,Member State,NPL,ND,2020
+NPL1433,NPL175,Nepal,NPL129,Four,Lamjung,434.87356906173096,2.0,Member State,NPL,ND,2020
+NPL1434,NPL175,Nepal,NPL129,Four,Manang,16.660766799554025,2.0,Member State,NPL,ND,2020
+NPL1435,NPL175,Nepal,NPL129,Four,Mustang,36.438453005835534,2.0,Member State,NPL,ND,2020
+NPL1436,NPL175,Nepal,NPL129,Four,Myagdi,257.5167739481466,2.0,Member State,NPL,ND,2020
+NPL1437,NPL175,Nepal,NPL129,Four,Nawalparasi East,999.704705107066,2.0,Member State,NPL,ND,2020
+NPL1438,NPL175,Nepal,NPL129,Four,Parbat,293.7057066050565,2.0,Member State,NPL,ND,2020
+NPL1439,NPL175,Nepal,NPL129,Four,Syangja,848.3209148259508,2.0,Member State,NPL,ND,2020
+NPL1440,NPL175,Nepal,NPL129,Four,Tanahu,1039.7970023605258,2.0,Member State,NPL,ND,2020
+NPL1441,NPL175,Nepal,NPL130,One,Bhojpur,749.6433269713747,2.0,Member State,NPL,ND,2020
+NPL1442,NPL175,Nepal,NPL130,One,Dhankuta,635.6817836390723,2.0,Member State,NPL,ND,2020
+NPL1443,NPL175,Nepal,NPL130,One,Ilam,1092.3441384782918,2.0,Member State,NPL,ND,2020
+NPL1444,NPL175,Nepal,NPL130,One,Jhapa,2809.9816127841586,2.0,Member State,NPL,ND,2020
+NPL1445,NPL175,Nepal,NPL130,One,Khotang,687.3151928386152,2.0,Member State,NPL,ND,2020
+NPL1446,NPL175,Nepal,NPL130,One,Morang,5055.286537888251,2.0,Member State,NPL,ND,2020
+NPL1447,NPL175,Nepal,NPL130,One,Okhaldhunga,460.775399072527,2.0,Member State,NPL,ND,2020
+NPL1448,NPL175,Nepal,NPL130,One,Panchthar,623.2958579493516,2.0,Member State,NPL,ND,2020
+NPL1449,NPL175,Nepal,NPL130,One,Sankhuwasabha,617.7207206525981,2.0,Member State,NPL,ND,2020
+NPL1450,NPL175,Nepal,NPL130,One,Solukhumbu,218.84896310570048,2.0,Member State,NPL,ND,2020
+NPL1451,NPL175,Nepal,NPL130,One,Sunsari,4086.7834112714595,2.0,Member State,NPL,ND,2020
+NPL1452,NPL175,Nepal,NPL130,One,Taplejung,384.9256222347701,2.0,Member State,NPL,ND,2020
+NPL1453,NPL175,Nepal,NPL130,One,Terhathum,429.6317559369992,2.0,Member State,NPL,ND,2020
+NPL1454,NPL175,Nepal,NPL130,One,Udayapur,979.3953084480346,2.0,Member State,NPL,ND,2020
+NPL1455,NPL175,Nepal,NPL131,Seven,Achham,714.3425091038586,2.0,Member State,NPL,ND,2020
+NPL1456,NPL175,Nepal,NPL131,Seven,Baitadi,772.5595838037326,2.0,Member State,NPL,ND,2020
+NPL1457,NPL175,Nepal,NPL131,Seven,Bajhang,512.2235480544193,2.0,Member State,NPL,ND,2020
+NPL1458,NPL175,Nepal,NPL131,Seven,Bajura,343.16868351515524,2.0,Member State,NPL,ND,2020
+NPL1459,NPL175,Nepal,NPL131,Seven,Dadeldhura,453.44446406935253,2.0,Member State,NPL,ND,2020
+NPL1460,NPL175,Nepal,NPL131,Seven,Darchula,501.0551950813946,2.0,Member State,NPL,ND,2020
+NPL1461,NPL175,Nepal,NPL131,Seven,Doti,562.8453731050744,2.0,Member State,NPL,ND,2020
+NPL1462,NPL175,Nepal,NPL131,Seven,Kailali,2289.0455076284616,2.0,Member State,NPL,ND,2020
+NPL1463,NPL175,Nepal,NPL131,Seven,Kanchanpur,1815.611398274496,2.0,Member State,NPL,ND,2020
+NPL1464,NPL175,Nepal,NPL132,Six,Dailekh,595.3820426730603,2.0,Member State,NPL,ND,2020
+NPL1465,NPL175,Nepal,NPL132,Six,Dolpa,84.71107866574155,2.0,Member State,NPL,ND,2020
+NPL1466,NPL175,Nepal,NPL132,Six,Humla,107.14572090037173,2.0,Member State,NPL,ND,2020
+NPL1467,NPL175,Nepal,NPL132,Six,Jajarkot,397.12694348571586,2.0,Member State,NPL,ND,2020
+NPL1468,NPL175,Nepal,NPL132,Six,Jumla,251.37112148234107,2.0,Member State,NPL,ND,2020
+NPL1469,NPL175,Nepal,NPL132,Six,Kalikot,200.9905001038929,2.0,Member State,NPL,ND,2020
+NPL1470,NPL175,Nepal,NPL132,Six,Mugu,137.7262654506437,2.0,Member State,NPL,ND,2020
+NPL1471,NPL175,Nepal,NPL132,Six,Rukum West,363.69752899285,2.0,Member State,NPL,ND,2020
+NPL1472,NPL175,Nepal,NPL132,Six,Salyan,763.7291320566246,2.0,Member State,NPL,ND,2020
+NPL1473,NPL175,Nepal,NPL132,Six,Surkhet,603.5531572719834,2.0,Member State,NPL,ND,2020
+NPL1474,NPL175,Nepal,NPL133,Three,Bhaktapur,2208.547192893104,2.0,Member State,NPL,ND,2020
+NPL1475,NPL175,Nepal,NPL133,Three,Chitwan,3297.490919122009,2.0,Member State,NPL,ND,2020
+NPL1476,NPL175,Nepal,NPL133,Three,Dhading,1942.5384222216142,2.0,Member State,NPL,ND,2020
+NPL1477,NPL175,Nepal,NPL133,Three,Dolakha,630.9513880377841,2.0,Member State,NPL,ND,2020
+NPL1478,NPL175,Nepal,NPL133,Three,Kathmandu,11025.38530401544,2.0,Member State,NPL,ND,2020
+NPL1479,NPL175,Nepal,NPL133,Three,Kavrepalanchok,1817.5920216146917,2.0,Member State,NPL,ND,2020
+NPL1480,NPL175,Nepal,NPL133,Three,Lalitpur,3513.06860991618,2.0,Member State,NPL,ND,2020
+NPL1481,NPL175,Nepal,NPL133,Three,Makwanpur,2252.6730235435516,2.0,Member State,NPL,ND,2020
+NPL1482,NPL175,Nepal,NPL133,Three,Nuwakot,1482.1954284233511,2.0,Member State,NPL,ND,2020
+NPL1483,NPL175,Nepal,NPL133,Three,Ramechhap,726.1201339778961,2.0,Member State,NPL,ND,2020
+NPL1484,NPL175,Nepal,NPL133,Three,Rasuwa,205.0995468200027,2.0,Member State,NPL,ND,2020
+NPL1485,NPL175,Nepal,NPL133,Three,Sindhuli,1083.8705440819929,2.0,Member State,NPL,ND,2020
+NPL1486,NPL175,Nepal,NPL133,Three,Sindhupalchok,1406.8307744089277,2.0,Member State,NPL,ND,2020
+NPL1487,NPL175,Nepal,NPL134,Two,Bara,3736.807282847178,2.0,Member State,NPL,ND,2020
+NPL1488,NPL175,Nepal,NPL134,Two,Dhanusa,2340.0896258783832,2.0,Member State,NPL,ND,2020
+NPL1489,NPL175,Nepal,NPL134,Two,Mahottari,2295.164507656045,2.0,Member State,NPL,ND,2020
+NPL1490,NPL175,Nepal,NPL134,Two,Parsa,4210.948886850673,2.0,Member State,NPL,ND,2020
+NPL1491,NPL175,Nepal,NPL134,Two,Rautahat,3556.09392751522,2.0,Member State,NPL,ND,2020
+NPL1492,NPL175,Nepal,NPL134,Two,Saptari,2003.1723365824057,2.0,Member State,NPL,ND,2020
+NPL1493,NPL175,Nepal,NPL134,Two,Sarlahi,2799.406263852959,2.0,Member State,NPL,ND,2020
+NPL1494,NPL175,Nepal,NPL134,Two,Siraha,2389.53512576016,2.0,Member State,NPL,ND,2020
+PAK1495,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Poonch,1859.8287419432534,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1496,PAK188,Pakistan,PAK136,Gilgit Baltistan,Ghizer,626.7753883776167,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1497,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Bagh,1490.4951887588143,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1498,PAK188,Pakistan,PAK136,Gilgit Baltistan,Baltistan,557.0713563004896,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1499,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Mirpur,1290.6721007973615,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1500,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Neelum,535.2894735787418,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1501,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Kotli,3046.205040215634,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1502,PAK188,Pakistan,PAK136,Gilgit Baltistan,Ghanche,406.0801805519033,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1503,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Bhimber,1451.2558119110736,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1504,PAK188,Pakistan,PAK136,Gilgit Baltistan,Hunza,204.75478751688064,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1505,PAK188,Pakistan,PAK136,Gilgit Baltistan,Diamir,705.6626760699298,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1506,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Sudhnoti,1252.8528010004902,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1507,PAK188,Pakistan,PAK137,Balochistan,Awaran,483.8791684322083,2.0,Member State,PAK,ND,2020
+PAK1508,PAK188,Pakistan,PAK137,Balochistan,Barkhan,428.80346149324805,2.0,Member State,PAK,ND,2020
+PAK1509,PAK188,Pakistan,PAK137,Balochistan,Chagai,449.9100664615286,2.0,Member State,PAK,ND,2020
+PAK1510,PAK188,Pakistan,PAK137,Balochistan,Dera Bugti,846.9498537290791,2.0,Member State,PAK,ND,2020
+PAK1511,PAK188,Pakistan,PAK137,Balochistan,Gwadar,373.2276167431748,2.0,Member State,PAK,ND,2020
+PAK1512,PAK188,Pakistan,PAK137,Balochistan,Harnai,324.51380297695994,2.0,Member State,PAK,ND,2020
+PAK1513,PAK188,Pakistan,PAK137,Balochistan,Jaffarabad,1398.0552834258892,2.0,Member State,PAK,ND,2020
+PAK1514,PAK188,Pakistan,PAK137,Balochistan,Jhal Magsi,513.5264232229111,2.0,Member State,PAK,ND,2020
+PAK1515,PAK188,Pakistan,PAK137,Balochistan,Kachhi,946.5696815730806,2.0,Member State,PAK,ND,2020
+PAK1516,PAK188,Pakistan,PAK137,Balochistan,Kalat,962.003844928506,2.0,Member State,PAK,ND,2020
+PAK1517,PAK188,Pakistan,PAK137,Balochistan,Kech,1497.5855269247002,2.0,Member State,PAK,ND,2020
+PAK1518,PAK188,Pakistan,PAK137,Balochistan,Kharan,466.3187575133402,2.0,Member State,PAK,ND,2020
+PAK1519,PAK188,Pakistan,PAK137,Balochistan,Khuzdar,1720.7678332118282,2.0,Member State,PAK,ND,2020
+PAK1520,PAK188,Pakistan,PAK137,Balochistan,Killa Abdullah,1509.7007337470973,2.0,Member State,PAK,ND,2020
+PAK1521,PAK188,Pakistan,PAK137,Balochistan,Killa Saifullah,805.562459778725,2.0,Member State,PAK,ND,2020
+PAK1522,PAK188,Pakistan,PAK137,Balochistan,Kohlu,380.14070377713483,2.0,Member State,PAK,ND,2020
+PAK1523,PAK188,Pakistan,PAK137,Balochistan,Las Bela,1184.1651406293759,2.0,Member State,PAK,ND,2020
+PAK1524,PAK188,Pakistan,PAK137,Balochistan,Lehri,442.04674165790044,2.0,Member State,PAK,ND,2020
+PAK1525,PAK188,Pakistan,PAK137,Balochistan,Loralai,1042.448591044943,2.0,Member State,PAK,ND,2020
+PAK1526,PAK188,Pakistan,PAK137,Balochistan,Mastung,1030.7738650116207,2.0,Member State,PAK,ND,2020
+PAK1527,PAK188,Pakistan,PAK137,Balochistan,Musakhel,580.1538151983932,2.0,Member State,PAK,ND,2020
+PAK1528,PAK188,Pakistan,PAK137,Balochistan,Nasirabad,1155.7494694338034,2.0,Member State,PAK,ND,2020
+PAK1529,PAK188,Pakistan,PAK137,Balochistan,Nushki,370.59073182494893,2.0,Member State,PAK,ND,2020
+PAK1530,PAK188,Pakistan,PAK137,Balochistan,Panjgur,855.4110624669893,2.0,Member State,PAK,ND,2020
+PAK1531,PAK188,Pakistan,PAK137,Balochistan,Pishin,1357.0577472934194,2.0,Member State,PAK,ND,2020
+PAK1532,PAK188,Pakistan,PAK137,Balochistan,Quetta,3014.4808651231738,2.0,Member State,PAK,ND,2020
+PAK1533,PAK188,Pakistan,PAK137,Balochistan,Sheerani,350.8081984863159,2.0,Member State,PAK,ND,2020
+PAK1534,PAK188,Pakistan,PAK137,Balochistan,Sibi,471.4785968195272,2.0,Member State,PAK,ND,2020
+PAK1535,PAK188,Pakistan,PAK137,Balochistan,Sohbatpur,298.2438683850451,2.0,Member State,PAK,ND,2020
+PAK1536,PAK188,Pakistan,PAK137,Balochistan,Washuk,370.74826277905714,2.0,Member State,PAK,ND,2020
+PAK1537,PAK188,Pakistan,PAK137,Balochistan,Zhob,830.6827673396527,2.0,Member State,PAK,ND,2020
+PAK1538,PAK188,Pakistan,PAK137,Balochistan,Ziarat,348.5557575669013,2.0,Member State,PAK,ND,2020
+PAK1539,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Bajaur Agency,3443.131704937656,2.0,Member State,PAK,ND,2020
+PAK1540,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Bannu,394.77453555689897,2.0,Member State,PAK,ND,2020
+PAK1541,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Dera Ismail Khan,228.788824711925,2.0,Member State,PAK,ND,2020
+PAK1542,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Kohat,740.3024300504865,2.0,Member State,PAK,ND,2020
+PAK1543,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Lakki Marwat,51.05899812263557,2.0,Member State,PAK,ND,2020
+PAK1544,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Peshawar,408.93670739182227,2.0,Member State,PAK,ND,2020
+PAK1545,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Tank,203.89121202906284,2.0,Member State,PAK,ND,2020
+PAK1546,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Khyber Agency,3812.7744946903567,2.0,Member State,PAK,ND,2020
+PAK1547,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Kurram Agency,2875.3472226916815,2.0,Member State,PAK,ND,2020
+PAK1548,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Mohmand Agency,2366.8669201853063,2.0,Member State,PAK,ND,2020
+PAK1549,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,North Waziristan Agency,2268.628830219067,2.0,Member State,PAK,ND,2020
+PAK1550,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Orakzai Agency,1278.6358952786636,2.0,Member State,PAK,ND,2020
+PAK1551,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,South Waziristan Agency,2572.1852754381025,2.0,Member State,PAK,ND,2020
+PAK1552,PAK188,Pakistan,PAK139,Federal Capital Territory,Islamabad,14927.922072288002,2.0,Member State,PAK,ND,2020
+PAK1553,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Abbottabad,5988.184711167842,2.0,Member State,PAK,ND,2020
+PAK1554,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Bannu,3864.340571677264,2.0,Member State,PAK,ND,2020
+PAK1555,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Batagram,2122.9783425848473,2.0,Member State,PAK,ND,2020
+PAK1556,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Buner,3164.7865144134116,2.0,Member State,PAK,ND,2020
+PAK1557,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Charsadda,9916.321824793305,2.0,Member State,PAK,ND,2020
+PAK1558,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Chitral,1980.7441187513593,2.0,Member State,PAK,ND,2020
+PAK1559,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Dera Ismail Khan,5608.157550241985,2.0,Member State,PAK,ND,2020
+PAK1560,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Hangu,1674.2478006271313,2.0,Member State,PAK,ND,2020
+PAK1561,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Haripur,4580.753607539975,2.0,Member State,PAK,ND,2020
+PAK1562,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Karak,2417.952231040622,2.0,Member State,PAK,ND,2020
+PAK1563,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Kohat,3104.987670445424,2.0,Member State,PAK,ND,2020
+PAK1564,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Upper Kohistan,1142.2561311179484,2.0,Member State,PAK,ND,2020
+PAK1565,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Lakki Marwat,3156.0648912095166,2.0,Member State,PAK,ND,2020
+PAK1566,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Lower Dir,5117.586089856797,2.0,Member State,PAK,ND,2020
+PAK1567,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Malakand PA,2763.2861016104903,2.0,Member State,PAK,ND,2020
+PAK1568,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Mansehra,5968.946256565918,2.0,Member State,PAK,ND,2020
+PAK1569,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Mardan,9063.504814342203,2.0,Member State,PAK,ND,2020
+PAK1570,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Nowshera,9786.038247544819,2.0,Member State,PAK,ND,2020
+PAK1571,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Peshawar,21714.011482617272,2.0,Member State,PAK,ND,2020
+PAK1572,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Shangla,2696.1153215355853,2.0,Member State,PAK,ND,2020
+PAK1573,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Swabi,6395.238336193787,2.0,Member State,PAK,ND,2020
+PAK1574,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Swat,7705.602889985527,2.0,Member State,PAK,ND,2020
+PAK1575,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Tank,1487.1497879902868,2.0,Member State,PAK,ND,2020
+PAK1576,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Tor Ghar,899.8505484482226,2.0,Member State,PAK,ND,2020
+PAK1577,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Upper Dir,2785.082113734135,2.0,Member State,PAK,ND,2020
+PAK1578,PAK188,Pakistan,PAK140,Punjab,Attock,9254.60579161724,2.0,Member State,PAK,ND,2020
+PAK1579,PAK188,Pakistan,PAK140,Punjab,Bahawalnagar,18793.873610537838,2.0,Member State,PAK,ND,2020
+PAK1580,PAK188,Pakistan,PAK140,Punjab,Bahawalpur,22430.019671005437,2.0,Member State,PAK,ND,2020
+PAK1581,PAK188,Pakistan,PAK140,Punjab,Bhakkar,7708.451584927585,2.0,Member State,PAK,ND,2020
+PAK1582,PAK188,Pakistan,PAK140,Punjab,Chakwal,7309.364617247246,2.0,Member State,PAK,ND,2020
+PAK1583,PAK188,Pakistan,PAK140,Punjab,Chiniot,8496.59083827296,2.0,Member State,PAK,ND,2020
+PAK1584,PAK188,Pakistan,PAK140,Punjab,Dera Ghazi Khan,10981.33955877038,2.0,Member State,PAK,ND,2020
+PAK1585,PAK188,Pakistan,PAK140,Punjab,Faisalabad,54419.11213818919,2.0,Member State,PAK,ND,2020
+PAK1586,PAK188,Pakistan,PAK140,Punjab,Gujranwala,27435.262363921232,2.0,Member State,PAK,ND,2020
+PAK1587,PAK188,Pakistan,PAK140,Punjab,Gujrat,16156.527723878167,2.0,Member State,PAK,ND,2020
+PAK1588,PAK188,Pakistan,PAK140,Punjab,Hafizabad,6778.9792125463555,2.0,Member State,PAK,ND,2020
+PAK1589,PAK188,Pakistan,PAK140,Punjab,Jhang,16363.984198777687,2.0,Member State,PAK,ND,2020
+PAK1590,PAK188,Pakistan,PAK140,Punjab,Jhelum,6183.533676183126,2.0,Member State,PAK,ND,2020
+PAK1591,PAK188,Pakistan,PAK140,Punjab,Kasur,33740.23234945809,2.0,Member State,PAK,ND,2020
+PAK1592,PAK188,Pakistan,PAK140,Punjab,Khanewal,13209.112948764428,2.0,Member State,PAK,ND,2020
+PAK1593,PAK188,Pakistan,PAK140,Punjab,Khushab,6745.434039819237,2.0,Member State,PAK,ND,2020
+PAK1594,PAK188,Pakistan,PAK140,Punjab,Lahore,107132.38234106723,2.0,Member State,PAK,ND,2020
+PAK1595,PAK188,Pakistan,PAK140,Punjab,Layyah,7582.7054433004405,2.0,Member State,PAK,ND,2020
+PAK1596,PAK188,Pakistan,PAK140,Punjab,Lodhran,7384.7877630483135,2.0,Member State,PAK,ND,2020
+PAK1597,PAK188,Pakistan,PAK140,Punjab,Mandi Bahauddin,9321.65199745969,2.0,Member State,PAK,ND,2020
+PAK1598,PAK188,Pakistan,PAK140,Punjab,Mianwali,7836.2008288217385,2.0,Member State,PAK,ND,2020
+PAK1599,PAK188,Pakistan,PAK140,Punjab,Multan,19878.02571557844,2.0,Member State,PAK,ND,2020
+PAK1600,PAK188,Pakistan,PAK140,Punjab,Muzaffargarh,16977.665409431804,2.0,Member State,PAK,ND,2020
+PAK1601,PAK188,Pakistan,PAK140,Punjab,Nankana Sahib,14293.763591008752,2.0,Member State,PAK,ND,2020
+PAK1602,PAK188,Pakistan,PAK140,Punjab,Narowal,9780.060966799387,2.0,Member State,PAK,ND,2020
+PAK1603,PAK188,Pakistan,PAK140,Punjab,Okara,32434.540591893976,2.0,Member State,PAK,ND,2020
+PAK1604,PAK188,Pakistan,PAK140,Punjab,Pakpattan,8709.82310864345,2.0,Member State,PAK,ND,2020
+PAK1605,PAK188,Pakistan,PAK140,Punjab,Rahim Yar Khan,28677.853180124286,2.0,Member State,PAK,ND,2020
+PAK1606,PAK188,Pakistan,PAK140,Punjab,Rajanpur,7477.792487212098,2.0,Member State,PAK,ND,2020
+PAK1607,PAK188,Pakistan,PAK140,Punjab,Rawalpindi,26116.174153619937,2.0,Member State,PAK,ND,2020
+PAK1608,PAK188,Pakistan,PAK140,Punjab,Sahiwal,11845.882210889045,2.0,Member State,PAK,ND,2020
+PAK1609,PAK188,Pakistan,PAK140,Punjab,Sargodha,19441.07475423243,2.0,Member State,PAK,ND,2020
+PAK1610,PAK188,Pakistan,PAK140,Punjab,Sheikhupura,33170.61070758926,2.0,Member State,PAK,ND,2020
+PAK1611,PAK188,Pakistan,PAK140,Punjab,Sialkot,21297.02901940378,2.0,Member State,PAK,ND,2020
+PAK1612,PAK188,Pakistan,PAK140,Punjab,Toba Tek Singh,14661.80580784591,2.0,Member State,PAK,ND,2020
+PAK1613,PAK188,Pakistan,PAK140,Punjab,Vehari,13545.222225273934,2.0,Member State,PAK,ND,2020
+PAK1614,PAK188,Pakistan,PAK141,Sindh,Badin,5840.638055830493,2.0,Member State,PAK,ND,2020
+PAK1615,PAK188,Pakistan,PAK141,Sindh,Dadu,5836.653860929059,2.0,Member State,PAK,ND,2020
+PAK1616,PAK188,Pakistan,PAK141,Sindh,Ghotki,5336.917305438664,2.0,Member State,PAK,ND,2020
+PAK1617,PAK188,Pakistan,PAK141,Sindh,Hyderabad,9272.048341748667,2.0,Member State,PAK,ND,2020
+PAK1618,PAK188,Pakistan,PAK141,Sindh,Jacobabad,4599.62790210484,2.0,Member State,PAK,ND,2020
+PAK1619,PAK188,Pakistan,PAK141,Sindh,Jamshoro,3002.7315451415,2.0,Member State,PAK,ND,2020
+PAK1620,PAK188,Pakistan,PAK141,Sindh,Kashmore,3781.3801706417785,2.0,Member State,PAK,ND,2020
+PAK1621,PAK188,Pakistan,PAK141,Sindh,Khairpur,8609.895939269827,2.0,Member State,PAK,ND,2020
+PAK1622,PAK188,Pakistan,PAK141,Sindh,Larkana,6152.9800853592105,2.0,Member State,PAK,ND,2020
+PAK1623,PAK188,Pakistan,PAK141,Sindh,Matiari,2854.7497932825363,2.0,Member State,PAK,ND,2020
+PAK1624,PAK188,Pakistan,PAK141,Sindh,Mirpur Khas,4929.33328333887,2.0,Member State,PAK,ND,2020
+PAK1625,PAK188,Pakistan,PAK141,Sindh,Naushahro Feroze,5923.576581857543,2.0,Member State,PAK,ND,2020
+PAK1626,PAK188,Pakistan,PAK141,Sindh,Qambar Shahdadkot,5487.778171418605,2.0,Member State,PAK,ND,2020
+PAK1627,PAK188,Pakistan,PAK141,Sindh,Sanghar,6599.497165039768,2.0,Member State,PAK,ND,2020
+PAK1628,PAK188,Pakistan,PAK141,Sindh,Shaheed Benazirabad,6093.97299326585,2.0,Member State,PAK,ND,2020
+PAK1629,PAK188,Pakistan,PAK141,Sindh,Shikarpur,5333.746841298506,2.0,Member State,PAK,ND,2020
+PAK1630,PAK188,Pakistan,PAK141,Sindh,Sujawal,2972.8706994136255,2.0,Member State,PAK,ND,2020
+PAK1631,PAK188,Pakistan,PAK141,Sindh,Sukkur,5606.38951309592,2.0,Member State,PAK,ND,2020
+PAK1632,PAK188,Pakistan,PAK141,Sindh,Tando Allah Yar,2652.70790090897,2.0,Member State,PAK,ND,2020
+PAK1633,PAK188,Pakistan,PAK141,Sindh,Tando Muhammad Khan,2512.1416008587653,2.0,Member State,PAK,ND,2020
+PAK1634,PAK188,Pakistan,PAK141,Sindh,Tharparkar,4850.388670308449,2.0,Member State,PAK,ND,2020
+PAK1635,PAK188,Pakistan,PAK141,Sindh,Umerkot,3374.6720020932776,2.0,Member State,PAK,ND,2020
+PAK1636,PAK188,Pakistan,PAK141,Sindh,Thatta,3004.820273731558,2.0,Member State,PAK,ND,2020
+PAK1637,PAK188,Pakistan,PAK141,Sindh,Karachi West,28537.972772927922,2.0,Member State,PAK,ND,2020
+PAK1638,PAK188,Pakistan,PAK141,Sindh,Karachi Central,17682.974027309123,2.0,Member State,PAK,ND,2020
+PAK1639,PAK188,Pakistan,PAK141,Sindh,Karachi South,20007.848039073586,2.0,Member State,PAK,ND,2020
+PAK1640,PAK188,Pakistan,PAK141,Sindh,Karachi East,26313.879938188657,2.0,Member State,PAK,ND,2020
+PAK1641,PAK188,Pakistan,PAK141,Sindh,Korangi,7479.061441219334,2.0,Member State,PAK,ND,2020
+PAK1642,PAK188,Pakistan,PAK141,Sindh,Malir,11122.544350124774,2.0,Member State,PAK,ND,2020
+PAK1643,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Kolai Pallas,1616.903498174795,2.0,Member State,PAK,ND,2020
+PAK1644,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Lower Kohistan,55.67464580782064,2.0,Member State,PAK,ND,2020
+PAK1645,PAK188,Pakistan,PAK136,Gilgit Baltistan,Gilgit,528.1296979492142,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1646,PAK188,Pakistan,PAK136,Gilgit Baltistan,Nagar,353.0995440345514,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1647,PAK188,Pakistan,PAK136,Gilgit Baltistan,Astore,397.45233576494394,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1648,PAK188,Pakistan,PAK136,Gilgit Baltistan,Shigar,314.8292441289457,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1649,PAK188,Pakistan,PAK136,Gilgit Baltistan,Kharmang,244.62239116030563,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1650,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Muzaffarabad,1977.7413402035513,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1651,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Hattian Bala,829.9840064193064,2.0,Sovereignty unsettled,PAK,ND,2020
+PAK1652,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Haveli,657.6220726183471,2.0,Sovereignty unsettled,PAK,ND,2020
